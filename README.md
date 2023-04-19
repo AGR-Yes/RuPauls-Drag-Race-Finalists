@@ -9,9 +9,9 @@
 The purpose of this project is to predict the final outcome for the 15th season of the reality competition, *RuPaul's Drag Race* and its other franchises in other countries. Other than that, this project is more for my own practice with data visualization, dashboarding, processing/cleaning, and prediction.
 
 ### 📓 Notebooks
->* `RPDR_Main` -  Contains the EDA and Preprocessing (**Complete**)
->* `RPDR_Modeling` - Contains the prediction models(**Complete**)
->* `RPDR_Dash` - Contains visualizations and dashboard(**On-Going**)
+>* `RPDR_Main.ipynb` -  Contains the EDA and Preprocessing (**Complete**)
+>* `RPDR_Modeling.ipynb` - Contains the prediction models (**Complete**)
+>* `RPDR_Dash.py` - Contains visualizations and dashboard (**On-Going**)
 
 ### 🧬 Methods Used
 * Exploratory Data Analysis (EDA)
@@ -57,7 +57,7 @@ Instead of me manually making the predictions per season, I wanted to take it a 
 ### 📝 Problems Faced
 >* Gathering the winners and identifying the returning challenges
 >* Doing the modeling and applying it to my datasets
-
+>* Re-learning Dash
 
 ---
 
