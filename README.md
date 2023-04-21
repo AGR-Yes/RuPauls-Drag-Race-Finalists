@@ -28,7 +28,6 @@ The purpose of this project is to predict the final outcome for the 15th season 
 * jupyter
 * Dash
 * VSCode
-* Atom
 
 
 ---
