@@ -10,9 +10,9 @@ The purpose of this project is to predict the final outcome for the 15th season 
 
 ### 📓 Notebooks
 | Notebook | Description | Status |
-| ------------- | ------------- |
+|-------------|-------------|:-------------:|
 | `ModelP1.ipynb` |  Contains the EDA and Preprocessing for prediction model | **Complete** |
-| `ModelP2_Modeling.ipynb` | Contains the prediction models and reuslt | **Complete** |
+| `ModelP2.ipynb` | Contains the prediction models and reuslt | **Complete** |
 | `AllFinalist.ipynb` | EDA and Preprocessing of finalist data | **In Progress** |
 | `dashboard.py` | Contains visualizations and dashboard | **On Pause** |
 
