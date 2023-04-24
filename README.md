@@ -13,8 +13,8 @@ The purpose of this project is to predict the final outcome for the 15th season 
 |-------------|-------------|:-------------:|
 | `ModelP1.ipynb` |  Contains the EDA and Preprocessing for prediction model | **Complete** |
 | `ModelP2.ipynb` | Contains the prediction models and reuslt | **Complete** |
-| `AllFinalist.ipynb` | EDA and Preprocessing of finalist data | **In Progress** |
-| `dashboard.py` | Contains visualizations and dashboard | **On Pause** |
+| `AllFinalist.ipynb` | EDA and Preprocessing of finalist data | **Complete** |
+| `dashboard.py` | Contains visualizations and dashboard | **In Progress** |
 
 ### 🧬 Methods Used
 * Exploratory Data Analysis (EDA)
