@@ -28,6 +28,7 @@ The purpose of this project is to predict the final outcome for the 15th season 
 * jupyter
 * Dash
 * VSCode
+* Google Sheets
 
 
 ---
@@ -60,6 +61,7 @@ Instead of me manually making the predictions per season, I wanted to take it a 
 >* Gathering the winners and identifying the returning challenges
 >* Doing the modeling and applying it to my datasets
 >* Relearning Dash
+>* Dealt with inconsistencies in the datasets
 
 ---
 
