@@ -13,7 +13,7 @@ The purpose of this project is to predict the final outcome for the 15th season 
 |-------------|-------------|:-------------:|
 | `ModelP1.ipynb` |  Contains the EDA and Preprocessing for prediction model | **Complete** |
 | `ModelP2.ipynb` | Contains the prediction models and reuslt | **Complete** |
-| `AllFinalist.ipynb` | EDA and Preprocessing of finalist data | **Complete** |
+| `Processing.ipynb` | EDA and Preprocessing of finalist data | **Complete** |
 | `dashboard.py` | Contains visualizations and dashboard | **In Progress** |
 
 ### 🧬 Methods Used
@@ -39,7 +39,7 @@ Tracking the the contestants' progress from the different franchises of RuPaul's
 
 As of April 2023, the dataset has more than 10 tabs for the different franchises, seasons, and countries - and it's still growing. 
 
-Instead of me manually making the predictions per season, I wanted to take it a step further and apply what I've learned about data science since late 2021. 
+Aside from manually entering each episode on a weekly basis, I wanted to take it a step further and apply what I've learned from my minor program in Data Science.
 
 **I consider this as a culminating mini-final-project for myself.**
 
@@ -61,7 +61,7 @@ Instead of me manually making the predictions per season, I wanted to take it a 
 >* Gathering the winners and identifying the returning challenges
 >* Doing the modeling and applying it to my datasets
 >* Relearning Dash
->* Dealt with inconsistencies in the datasets
+>* Dealt with inconsistencies in the dataset
 
 ---
 
