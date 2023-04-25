@@ -72,10 +72,26 @@ Aside from manually entering each episode on a weekly basis, I wanted to take it
 - Writeup/Storytelling
 - Layout study for dashboard.
 
+---
+
+## 🤲🏽 Contributing
+
+First off, thanks for considering to contribute to this project! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are greatly appreciated.
+
+**You can contribute by:**
+
+- Improving documentation
+- Implementing a new feature
+- Discuss potential ways to improve project
+
+**Just make sure that your contributions or reports are:**
+
+- *Reproducible*. Include steps to reproduce the problem.
+- *Specific*. Include as much detail as possible: which version, what environment, etc.
+- *Unique*. Do not duplicate existing opened issues.
+
+---
 
 ## 📬 Contact Me
-### [Main Instagram](https://instagram.com/ant0nreyes)
-### [Work Instagram](https://instagram.com/agrstudios.mnl)
-### [Design Portfolio](https://agrstudios.wixsite.com/portfolio)
-### [Behance](https://www.behance.net/Anton_Reyes)
-### [LinkedIn](https://www.linkedin.com/in/antongreyes/)
+> ### *[Instagram](https://instagram.com/ant0nreyes)*
+> ### *[LinkedIn](https://www.linkedin.com/in/antongreyes/)*
