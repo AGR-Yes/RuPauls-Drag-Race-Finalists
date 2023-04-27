@@ -5,10 +5,11 @@ import numpy as np
 
 placement = pd.read_csv("dash_data\placements.csv")
 scores = pd.read_csv("dash_data\scores.csv")
+melted = pd.read_csv('dash_data\melted_scores.csv')
 
 app = Dash(__name__)
 
-
+all_options = {melted['queen'], melted['code']}
 #---------------------------------------------------------------#
 #Scatter plot
 app.layout = html.Div([
@@ -23,12 +24,14 @@ app.layout = html.Div([
     ),
     html.H4('Life expentancy progression of countries per continents'),
     dcc.Graph(id="graph"),
-    dcc.Checklist(
+    dcc.Dropdown(
         id="queen-dropdown",
-        options=placement['queen'],
-        value=["Americas", "Oceania"],
-        inline=True
+        options=[{'label': k, 'value': k} for k in all_options.keys()],
+        value=['Chad Michaels'],
+        multi = True, 
+        searchable=True
     ),
+    dcc.Dropdown(id="display-selected-values", multi=True, searchable=True, placeholder="Select"),
 ])
 
 
@@ -42,7 +45,7 @@ def update_bar_chart(slider_range):
     fig = px.scatter(
         df[mask], x="score", y="win", 
         color="w/r/e", size='score',
-        hover_data=['score'])
+        hover_data=['queen'])
     return fig
 
 
@@ -51,7 +54,6 @@ def update_bar_chart(slider_range):
 
 episodes = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
 
-melted = pd.melt(scores, id_vars='queen', value_vars=episodes)
 
 @app.callback(
     Output("graph", "figure"), 
