@@ -5,7 +5,7 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
-
+app = Dash(__name__, external_stylesheets=[dbc.themes.UNITED], suppress_callback_exceptions=True)
 #---------------------------------------------------------------#
 
 external_stylesheets = [
@@ -39,7 +39,30 @@ CONTENT_STYLE = {
 
 #---------------------------------------------------------------#
 
-app = Dash(__name__, external_stylesheets=[dbc.themes.UNITED], suppress_callback_exceptions=True)
+sidebar = html.Div(
+    [
+        html.H2("Sidebar", className="display-4"),
+        html.Hr(),
+        html.P(
+            "A simple sidebar layout with navigation links", className="lead"
+        ),
+        dbc.Nav(
+            [
+                dbc.NavLink("Home", href="/", active="exact"),
+                dbc.NavLink("Page 1", href="/page-1", active="exact"),
+                dbc.NavLink("Page 2", href="/page-2", active="exact"),
+            ],
+            vertical=True,
+            pills=True,
+        ),
+    ],
+    style=SIDEBAR_STYLE,
+)
+
+content = html.Div(id="page-content", style=CONTENT_STYLE)
+#---------------------------------------------------------------#
+
+
 
 #---------------------------------------------------------------#
 
@@ -50,6 +73,8 @@ melted = pd.read_csv('dash_data\melted_scores.csv')
 
 
 all_options = dict(zip(melted['code'], melted['queen']))
+#---------------------------------------------------------------#
+
 
 
 
@@ -57,6 +82,7 @@ all_options = dict(zip(melted['code'], melted['queen']))
 #---------------------------------------------------------------#
 #Scatter plot
 app.layout = html.Div([
+    sidebar, content,
     html.H4('Interactive scatter plot with Iris dataset'),
     dcc.Graph(id="scatter-plot"),
     html.P("Filter by petal width:"),
@@ -65,17 +91,15 @@ app.layout = html.Div([
         min=4, max=41, step=5,
         marks={0: 'Low', 2.5: 'High'},
         value=[9, 29]
-    ),
+),
     html.H4('Life expentancy progression of countries per continents'),
     dcc.Graph(id="graph"),
-    dcc.Dropdown(
+    dcc.Checklist(
         id="queen-dropdown",
-        options=[{'label': k, 'value': k} for k in all_options.keys()],
-        placeholder="Select",
-        multi = True, 
-        searchable=True
+        options=melted['queen'].unique(),
+        value=['Sasha Colby'],
+        inline=True
     ),
-    dcc.Dropdown(id="code-dropdown", multi=True, searchable=True, placeholder="Select"),
 ])
 
 
@@ -97,17 +121,17 @@ def update_bar_chart(slider_range):
 #Chart
 
 episodes = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14']
-
 #queen-dropdown
 #code-dropdown
 
 @app.callback(
-    dash.dependencies.Output('code-dropdown', 'options'),
-    dash.dependencies.Input('queen-dropdown', 'value'))
-def set_code_options(selected_indicator):
-    if type(selected_indicator) == 'str':
-        return [{'label': i, 'value': i} for i in all_options[selected_indicator]]
-    else:
-        return [{'label': i, 'value': i} for indicator in selected_indicator for i in all_options[indicator]]
+    Output("graph", "figure"), 
+    Input("queen-dropdown", "value"))
+def update_line_chart(queens):
+    df = melted
+    mask = df.queen.isin(queens)
+    fig = px.line(df[mask], 
+        x="variable", y="value", color='queen')
+    return fig
 
 app.run_server(debug=True)
