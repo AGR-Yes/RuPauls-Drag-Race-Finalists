@@ -59,7 +59,15 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
 #---------------------------------------------------------------#
 #HEADER
 
+header = html.Div([
+    html.H1("You're a Winner, Baby!"),
+    html.H2("A RuPaul's Drag Race Dashboard for Finalists"),
+])
 
+#---------------------------------------------------------------#
+#FOOTER
+
+footer = html.Div()
 
 #---------------------------------------------------------------#
 #GRAPHS PLOTS
@@ -69,51 +77,94 @@ content = dbc.Container(
         dbc.Row(
             [
                 dbc.Col(
-                    html.Div("Text column 1")
+                    html.Div(
+                        """ 
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a est consequat, posuere purus sed, pharetra nulla. 
+                            Morbi tempus eget mi lacinia semper. Quisque ut laoreet risus, quis semper urna. Nam quis tristique dolor. 
+                            Nunc efficitur consequat aliquam. Aliquam erat volutpat. Pellentesque sit amet laoreet dui. 
+                            Morbi id sapien sed sem tempor dignissim eget in neque. Sed sapien lacus, ornare a cursus et, commodo a tortor. 
+                            Sed vel ipsum consectetur, vestibulum ipsum id, dictum elit. 
+                            Nulla tempor, lacus vel elementum ultrices, arcu diam scelerisque augue, quis consequat elit tellus non ante. 
+                            Aliquam magna quam, vestibulum sit amet tempus congue, molestie ultrices sem.
+                            """),
+                    width = 4,
                 ),
                 dbc.Col(
-                    html.Div("Text column 2")
+                    html.Div(
+                        """ 
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a est consequat, posuere purus sed, pharetra nulla. 
+                            Morbi tempus eget mi lacinia semper. Quisque ut laoreet risus, quis semper urna. Nam quis tristique dolor. 
+                            Nunc efficitur consequat aliquam. Aliquam erat volutpat. Pellentesque sit amet laoreet dui. 
+                            Morbi id sapien sed sem tempor dignissim eget in neque. Sed sapien lacus, ornare a cursus et, commodo a tortor. 
+                            Sed vel ipsum consectetur, vestibulum ipsum id, dictum elit. 
+                            Nulla tempor, lacus vel elementum ultrices, arcu diam scelerisque augue, quis consequat elit tellus non ante. 
+                            Aliquam magna quam, vestibulum sit amet tempus congue, molestie ultrices sem.
+                            """),
+                    width = 8,
                 ),
-                dbc.Col(
-                    html.Div("Text column 3")
-                )
+
             ],
             className="mt-4 mb-4",
         ),
 
-        
-        
 #graph columns
         dbc.Row(
             [
                 dbc.Col(
                     [
-                        html.H4('Interactive scatter plot with Iris dataset'),
+                        html.H2('Score and Placement Scatter Plot'),
 
                         dcc.Graph(id="scatter-plot"),
-                        html.P("Filter by petal width:"),
+                        html.P("Filter by placement:",
+                               style={'font-weight': 'bold'},
+                               className="mt-4"),
 
                         dcc.Dropdown(
                             id='dropdown',
                             options=[{'label': col, 'value': col} for col in placement[placement_col]],
                             value = 'win',
-                            #className = 'btn-info mb-4',
-                            style={'backgroundColor': 'black'}
+                            className = 'dropdown2 mb-4',                            
                         ),
+
+                        html.P("Filter by range of scores:",
+                               style={'font-weight': 'bold'},
+                               className="mt-4"),
 
                         dcc.RangeSlider(
                             id='range-slider',
                             min=4, max=41, step=5,
                             marks={0: 'Low', 2.5: 'High'},
-                            value=[9, 29]
-                        )
+                            value=[9, 29],
+                            className='customRange3'
+                        ),
+
+                        html.H3("Instructions:",
+                               style={'font-weight': 'bold'},
+                               className="mt-4"),
+                        
+                        html.P(
+                            """ 
+                               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a est consequat, posuere purus sed, pharetra nulla. 
+                               Morbi tempus eget mi lacinia semper. Quisque ut laoreet risus, quis semper urna. Nam quis tristique dolor. 
+                               Nunc efficitur consequat aliquam. Aliquam erat volutpat. Pellentesque sit amet laoreet dui. 
+                               Morbi id sapien sed sem tempor dignissim eget in neque. Sed sapien lacus, ornare a cursus et, commodo a tortor. 
+                               Sed vel ipsum consectetur, vestibulum ipsum id, dictum elit. 
+                               Nulla tempor, lacus vel elementum ultrices, arcu diam scelerisque augue, quis consequat elit tellus non ante. 
+                               Aliquam magna quam, vestibulum sit amet tempus congue, molestie ultrices sem.
+                               """,
+                               className="mt-4"),
                     ]
                 ),
+
                 dbc.Col(
                     [
-                        html.H4('Life expentancy progression of countries per continents'),
+                        html.H2('Final Progress per Finalist'),
 
                         dcc.Graph(id="graph"),
+
+                        html.P("Select the queens you want to compare",
+                               style={'font-weight': 'bold'},
+                               className="mt-4"),
 
                         dcc.Dropdown(
                             id='queen-dropdown',
@@ -121,8 +172,27 @@ content = dbc.Container(
                             value=['Sasha Colby'],
                             multi=True,
                             style={'width': '100%', 'margin': 'auto'},
-                            className = 'btn-info mb-4'
-                        )
+                            className = 'dropdown1 mt-4',
+                        ),
+
+                        html.H3("Instructions:",
+                               style={'font-weight': 'bold'},
+                               className="mt-4"),
+                        
+                        #enter table of score legend
+
+
+                        html.P(
+                            """ 
+                               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a est consequat, posuere purus sed, pharetra nulla. 
+                               Morbi tempus eget mi lacinia semper. Quisque ut laoreet risus, quis semper urna. Nam quis tristique dolor. 
+                               Nunc efficitur consequat aliquam. Aliquam erat volutpat. Pellentesque sit amet laoreet dui. 
+                               Morbi id sapien sed sem tempor dignissim eget in neque. Sed sapien lacus, ornare a cursus et, commodo a tortor. 
+                               Sed vel ipsum consectetur, vestibulum ipsum id, dictum elit. 
+                               Nulla tempor, lacus vel elementum ultrices, arcu diam scelerisque augue, quis consequat elit tellus non ante. 
+                               Aliquam magna quam, vestibulum sit amet tempus congue, molestie ultrices sem.
+                               """,
+                               className="mt-4"),
                     ]
                 )
             ]
@@ -133,7 +203,7 @@ content = dbc.Container(
 
 #---------------------------------------------------------------#
 #APP LAYOUT
-app.layout = html.Div([content])
+app.layout = html.Div([header, content])
 
 #---------------------------------------------------------------#
 #APP CALLBACKS
