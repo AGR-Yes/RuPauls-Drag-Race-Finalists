@@ -16,6 +16,14 @@ placement_col = ['bottom', 'low', 'safe', 'high', 'semiwin', 'win']
 
 #---------------------------------------------------------------#
 #STYLING
+dark_template = {
+    "layout": {
+        "plot_bgcolor": "#1f2630",
+        "paper_bgcolor": "#1f2630",
+        "font": {"color": "#ffffff"}
+    }
+}
+
 external_stylesheets = [
     {
         'href': 'file.css', 
@@ -46,7 +54,7 @@ CONTENT_STYLE = {
 
 #---------------------------------------------------------------#
 #APP INITIALIZATION
-app = Dash(__name__, external_stylesheets=[dbc.themes.UNITED], suppress_callback_exceptions=True)
+app = Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
 
 #---------------------------------------------------------------#
 #HEADER
@@ -57,6 +65,25 @@ app = Dash(__name__, external_stylesheets=[dbc.themes.UNITED], suppress_callback
 #GRAPHS PLOTS
 content = dbc.Container(
     [
+#opening text
+        dbc.Row(
+            [
+                dbc.Col(
+                    html.Div("Text column 1")
+                ),
+                dbc.Col(
+                    html.Div("Text column 2")
+                ),
+                dbc.Col(
+                    html.Div("Text column 3")
+                )
+            ],
+            className="mt-4 mb-4",
+        ),
+
+        
+        
+#graph columns
         dbc.Row(
             [
                 dbc.Col(
@@ -64,13 +91,14 @@ content = dbc.Container(
                         html.H4('Interactive scatter plot with Iris dataset'),
 
                         dcc.Graph(id="scatter-plot"),
-
                         html.P("Filter by petal width:"),
 
                         dcc.Dropdown(
                             id='dropdown',
                             options=[{'label': col, 'value': col} for col in placement[placement_col]],
-                            value = 'win'
+                            value = 'win',
+                            #className = 'btn-info mb-4',
+                            style={'backgroundColor': 'black'}
                         ),
 
                         dcc.RangeSlider(
@@ -92,7 +120,8 @@ content = dbc.Container(
                             options=[{'label': queen, 'value': queen} for queen in melted['queen'].unique()],
                             value=['Sasha Colby'],
                             multi=True,
-                            style={'width': '100%', 'margin': 'auto'}
+                            style={'width': '100%', 'margin': 'auto'},
+                            className = 'btn-info mb-4'
                         )
                     ]
                 )
@@ -109,33 +138,37 @@ app.layout = html.Div([content])
 #---------------------------------------------------------------#
 #APP CALLBACKS
 @app.callback(
-    dash.dependencies.Output("scatter-plot", "figure"), 
-    dash.dependencies.Input("range-slider", "value"))
-def update_bar_chart(slider_range):
+    Output("scatter-plot", "figure"), 
+    Input("range-slider", "value"),
+    Input("dropdown", "value")
+)
+def update_bar_chart(slider_range, dropdown_value):
     df = placement
     low, high = slider_range
-    mask = (df['score'] > low) & (df['score'] < high)
+    mask = (df[dropdown_value] > low) & (df[dropdown_value] < high)
     fig = px.scatter(
-        df[mask], x="score", y="win", 
-        color="w/r/e", size='score',
-        hover_data=['queen'])
+        df[mask], x="score", y=dropdown_value, 
+        color="w/r/e",
+        hover_data=['queen'],
+        template=dark_template)
     return fig
 
-@app.callback(
+@app.callback( #dropdown for slider
     Output('range-slider', 'value'),
     Input('dropdown', 'value')
 )
 def update_slider(placement_col):
     return [placement[placement_col].min(), placement[placement_col].max()]
 
-@app.callback(
+@app.callback( #dropdown for line chart
     Output("graph", "figure"), 
     Input("queen-dropdown", "value"))
 def update_line_chart(queens):
     df = melted
     mask = df.queen.isin(queens)
     fig = px.line(df[mask], 
-        x="variable", y="value", color='queen')
+        x="variable", y="value", color='queen',
+        template=dark_template)
     return fig
 
 
