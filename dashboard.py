@@ -7,7 +7,7 @@ import numpy as np
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.UNITED], suppress_callback_exceptions=True)
 #---------------------------------------------------------------#
-
+#STYLING
 external_stylesheets = [
     {
         'href': 'file.css', 
@@ -38,7 +38,7 @@ CONTENT_STYLE = {
 }
 
 #---------------------------------------------------------------#
-
+#SIDEBAR
 sidebar = html.Div(
     [
         html.H2("Sidebar", className="display-4"),
@@ -59,13 +59,47 @@ sidebar = html.Div(
     style=SIDEBAR_STYLE,
 )
 
+header_height, footer_height = "6rem", "10rem"
+sidebar_width, adbar_width = "12rem", "12rem"
+
+CONTENT_STYLE = {
+    "margin-top": header_height,
+    "margin-left": sidebar_width,
+    "margin-right": adbar_width,
+    "margin-bottom": footer_height,
+    "padding": "1rem 1rem",
+}
+
 content = html.Div(id="page-content", style=CONTENT_STYLE)
 #---------------------------------------------------------------#
-
-
+#MODAL
+modal = html.Div(
+    [
+        dbc.Button("WHAT IS RCCE?", id="open", n_clicks=0),
+        dbc.Modal(
+            [
+                dbc.ModalHeader(dbc.ModalTitle("WHAT IS RCCE?")),
+                dbc.ModalBody('Risk Communication and Community Engagement (RCCE) involves engaging and informing the public about risks in their community. This dashboard focuses on COVID-19 response and lists activities from January 2020 - June 2021.'),
+                dbc.ModalBody('To begin, start by selecting an item on the sidebar!'),
+                dbc.ModalFooter(
+                    dbc.Button(
+                        "Close", id="close", className="ms-auto", n_clicks=0
+                    )
+                ),
+            ],
+            id="modal",
+            is_open=False,
+        ),
+    ],
+    style = {
+        'position':'fixed',
+        'top':'2vh',
+        'right':'2vw'
+        }
+)
 
 #---------------------------------------------------------------#
-
+#DATAFRAMES DF DATASETS 
 
 placement = pd.read_csv("dash_data\placements.csv")
 scores = pd.read_csv("dash_data\scores.csv")
@@ -80,9 +114,18 @@ all_options = dict(zip(melted['code'], melted['queen']))
 
 
 #---------------------------------------------------------------#
-#Scatter plot
+#GRAPHS PLOTS
 app.layout = html.Div([
-    sidebar, content,
+    dcc.Location(id="url"),
+
+    
+    
+    html.Div(
+    id='main-content',
+    style=CONTENT_STYLE),
+
+    #content,
+#SCATTERPLOT    
     html.H4('Interactive scatter plot with Iris dataset'),
     dcc.Graph(id="scatter-plot"),
     html.P("Filter by petal width:"),
@@ -92,14 +135,19 @@ app.layout = html.Div([
         marks={0: 'Low', 2.5: 'High'},
         value=[9, 29]
 ),
+#LINE CHART
     html.H4('Life expentancy progression of countries per continents'),
-    dcc.Graph(id="graph"),
+    dcc.Graph(id="graph",
+              #style={'width': '90vh', 'height': '90vh'}
+              ),
     dcc.Checklist(
         id="queen-dropdown",
         options=melted['queen'].unique(),
         value=['Sasha Colby'],
         inline=True
     ),
+    modal,
+    sidebar,
 ])
 
 
