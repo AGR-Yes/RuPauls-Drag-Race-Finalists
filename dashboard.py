@@ -5,10 +5,6 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 
-import requests
-from bs4 import BeautifulSoup
-
-
 #---------------------------------------------------------------#
 #DATAFRAMES DF DATASETS 
 
@@ -65,7 +61,8 @@ CONTENT_STYLE = {
 
 #HEADER STYLE
 HEADER_STYLE = {
-    "textAlign":"center"
+    "textAlign":"center",
+    "margin-bottom":"25px",
 
 }
 
@@ -87,7 +84,7 @@ header = html.Div([
 
 footer = html.Div(
     html.H2('FOOTER.'), 
-    style={'position': 'relative', 'bottom': 0, 'width': '100%', 'background-color': '#f8f9fa', 'text-align': 'center', 'padding': '10px'}
+    style={'position': 'relative', 'bottom': 0, 'width': '100%', 'background-color': '#1f2630', 'text-align': 'center', 'padding': '10px'}
     )
 
 
@@ -108,7 +105,10 @@ content = dbc.Container(
                             Sed vel ipsum consectetur, vestibulum ipsum id, dictum elit. 
                             Nulla tempor, lacus vel elementum ultrices, arcu diam scelerisque augue, quis consequat elit tellus non ante. 
                             Aliquam magna quam, vestibulum sit amet tempus congue, molestie ultrices sem.
-                            """),
+                            """,
+                            style = {"border": "1px white solid",
+                                     "padding": "10px",
+                                     }),
                     width = 4,
                 ),
                 dbc.Col(
@@ -132,7 +132,7 @@ content = dbc.Container(
 #SCATTER PLOT 
         dbc.Row(
             [
-                        html.H2('Score and Placement Scatter Plot'),
+                        html.H2('Score and Placement Scatter Plot', style = HEADER_STYLE),
                 dbc.Col(
                     [
 
@@ -176,7 +176,7 @@ content = dbc.Container(
 #LINECHART
         dbc.Row(
             [
-                        html.H2('Final Progress per Finalist'),
+                        html.H2('Final Progress per Finalist', style = HEADER_STYLE),
                 dbc.Col(
                     [
                         
@@ -221,7 +221,7 @@ content = dbc.Container(
 
 #INFO TABLE
         dbc.Row(
-            [           html.H2('Queen Placements'),
+            [           html.H2('Queen Placements', style = HEADER_STYLE),
                 dbc.Col(
                     [
                         
@@ -249,15 +249,14 @@ content = dbc.Container(
                         dcc.Dropdown(
                             id='row-dropdown',
                             options=[{'label': row['queen'], 'value': str(row.name)} for _, row in placement.iterrows()],
-                            placeholder='Select a row...'
+                            placeholder='Select a row...',
+                            className = 'dropdown2 mb-4',
                         ),
                         dbc.Table(
                             [
-                            # Table header
                             html.Thead(
                                 html.Tr([html.Th(col) for col in placement.columns])
                             ),
-                            # Table body
                             html.Tbody(id='table-body')],      
                             bordered=True,
                             dark=True,

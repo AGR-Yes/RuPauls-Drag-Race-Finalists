@@ -3,17 +3,20 @@
 ### 👨‍💻 Author: [Anton Reyes](https://github.com/AGR-yes)
 
 ##### **--** Project Status: **Active** **--**
+
 ---
 
 ## 🗒️ Project Intro/Objective
 The purpose of this project is to predict the final outcome for the 15th season of the reality competition, *RuPaul's Drag Race* and its other franchises in other countries. Other than that, this project is more for my own practice with data visualization, dashboarding, processing/cleaning, and prediction.
+
+***Project Dashboard: [Click here](https://youre-a-winner-baby.onrender.com/)***
 
 ### 📓 Notebooks
 | Notebook | Description | Status |
 |-------------|-------------|:-------------:|
 | `ModelP1.ipynb` |  Contains the EDA and Preprocessing for prediction model | **Complete** |
 | `ModelP2.ipynb` | Contains the prediction models and reuslt | **Complete** |
-| `Processing.ipynb` | EDA and Preprocessing of finalist data | **Complete** |
+| `Processing.ipynb` | EDA and Preprocessing of finalist data for the dashboard| **Complete** |
 | `dashboard.py` | Contains visualizations and dashboard | **In Progress** |
 
 ### 🧬 Methods Used
@@ -29,6 +32,7 @@ The purpose of this project is to predict the final outcome for the 15th season 
 * Dash
 * VSCode
 * Google Sheets
+* Render
 
 
 ---
@@ -60,7 +64,7 @@ Aside from manually entering each episode on a weekly basis, I wanted to take it
 ### 📝 Problems Faced
 >* Gathering the winners and identifying the returning challenges
 >* Doing the modeling and applying it to my datasets
->* Relearning Dash
+>* Relearning Dash, HTML, and CSS or styling for Dash components (dbc)
 >* Dealt with inconsistencies in the dataset
 
 ---
@@ -83,6 +87,7 @@ First off, thanks for considering to contribute to this project! Contributions a
 - Improving documentation
 - Implementing a new feature
 - Discuss potential ways to improve project
+- Adding another graph/plot
 
 **Just make sure that your contributions or reports are:**
 
@@ -95,3 +100,4 @@ First off, thanks for considering to contribute to this project! Contributions a
 ## 📬 Contact Me
 > ### *[Instagram](https://instagram.com/ant0nreyes)*
 > ### *[LinkedIn](https://www.linkedin.com/in/antongreyes/)*
+> ### *Discord (Coming Soon!)* 
