@@ -7,7 +7,11 @@
 ---
 
 ## 🗒️ Project Intro/Objective
-The purpose of this project is to predict the final outcome for the 15th season of the reality competition, *RuPaul's Drag Race* and its other franchises in other countries. Other than that, this project is more for my own practice with data visualization, dashboarding, processing/cleaning, and prediction.
+This project is more for my own practice with data visualization, dashboarding, processing/cleaning, and prediction.
+
+This project contains notebooks in which I attempted to predict the winner of RuPaul's Drag Race season 15 by using machine learning. This was done by using the data of winners in all the different franchises and countries. This project also contains a dashboard that attempts to summarize the data of **all** finalists in all the different franchises.
+
+Other than that, this project is more for my own practice with data visualization, dashboarding, processing/cleaning, and prediction with a domain that I am familiar with.
 
 ***Project Dashboard: [Click here](https://youre-a-winner-baby.onrender.com/)***
 
@@ -100,4 +104,4 @@ First off, thanks for considering to contribute to this project! Contributions a
 ## 📬 Contact Me
 > ### *[Instagram](https://instagram.com/ant0nreyes)*
 > ### *[LinkedIn](https://www.linkedin.com/in/antongreyes/)*
-> ### *Discord (Coming Soon!)* 
+> ### *[Discord](https://discord.gg/v4PzDC2R6T)* 
