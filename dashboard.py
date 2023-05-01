@@ -3,7 +3,6 @@ from dash import Dash, dcc, html, Input, Output
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
-import numpy as np
 
 #---------------------------------------------------------------#
 #DATAFRAMES DF DATASETS 
@@ -55,7 +54,7 @@ CONTENT_STYLE = {
 #---------------------------------------------------------------#
 #APP INITIALIZATION
 app = Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
-
+server = app.server
 #---------------------------------------------------------------#
 #HEADER
 
