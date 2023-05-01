@@ -7,9 +7,9 @@ import pandas as pd
 #---------------------------------------------------------------#
 #DATAFRAMES DF DATASETS 
 
-placement = pd.read_csv("dash_data\placements.csv")
-scores = pd.read_csv("dash_data\scores.csv")
-melted = pd.read_csv('dash_data\melted_scores.csv')
+placement = pd.read_csv("dash_data/placements.csv")
+scores = pd.read_csv("dash_data/scores.csv")
+melted = pd.read_csv('dash_data/melted_scores.csv')
 
 placement_col = ['bottom', 'low', 'safe', 'high', 'semiwin', 'win']
 
