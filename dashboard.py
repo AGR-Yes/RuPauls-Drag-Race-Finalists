@@ -109,10 +109,10 @@ content = dbc.Container(
 #SCATTER PLOT 
         dbc.Row(
             [
+                        html.H2('Score and Placement Scatter Plot'),
                 dbc.Col(
                     [
 
-                        html.H2('Score and Placement Scatter Plot'),
                         dcc.Graph(id="scatter-plot"),
                         
                     ], width = 7,
@@ -123,7 +123,7 @@ content = dbc.Container(
 
                         html.P("Filter by placement:",
                                style={'font-weight': 'bold'},
-                               className="mt-4"),
+                               className="mb-4"),
                         dcc.Dropdown(
                             id='dropdown',
                             options=[{'label': col, 'value': col} for col in placement[placement_col]],
@@ -147,19 +147,18 @@ content = dbc.Container(
 
                     ], width = 5
                 )
-            ]
+            ], className="mt-4 mb-4",
         ),
 
 #LINECHART
         dbc.Row(
             [
+                        html.H2('Final Progress per Finalist'),
                 dbc.Col(
                     [
                         
-                        html.H2('Final Progress per Finalist'),
                         dcc.Graph(id="graph"),
                         
-
                     ], width = 7
                 ),
 
@@ -168,7 +167,7 @@ content = dbc.Container(
 
                         html.P("Select the queens you want to compare",
                                style={'font-weight': 'bold'},
-                               className="mt-4"),
+                               className="mb-4"),
                         dcc.Dropdown(
                             id='queen-dropdown',
                             options=[{'label': queen, 'value': queen} for queen in melted['queen'].unique()],
@@ -194,7 +193,7 @@ content = dbc.Container(
 
                     ], width = 5
                 )
-            ]
+            ], className="mt-4 mb-4",
         ),
         dbc.Row(
             [
