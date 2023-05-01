@@ -1,8 +1,9 @@
 import dash
-from dash import Dash, dcc, html, Input, Output
+from dash import Dash, dcc, html, Input, Output, dash_table, State
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
+import numpy as np
 
 #---------------------------------------------------------------#
 #DATAFRAMES DF DATASETS 
@@ -12,6 +13,13 @@ scores = pd.read_csv("dash_data/scores.csv")
 melted = pd.read_csv('dash_data/melted_scores.csv')
 
 placement_col = ['bottom', 'low', 'safe', 'high', 'semiwin', 'win']
+
+placement = placement.drop(columns=['Unnamed: 0'])
+
+table_header = [html.Th(col) for col in placement.columns]
+
+table_body = [html.Tr([html.Td(placement.iloc[i][col]) for col in placement.columns]) for i in range(len(placement))]
+
 
 #---------------------------------------------------------------#
 #STYLING
@@ -195,11 +203,29 @@ content = dbc.Container(
                 )
             ], className="mt-4 mb-4",
         ),
+
+#INFO TABLE
         dbc.Row(
             [
+                dbc.Col(
+                    [
 
-#enter table of score legend
-
+                        html.H2('Queen Placements'),
+                        dcc.Dropdown(
+                            id='row-dropdown',
+                            options=[{'label': row['queen'], 'value': str(row.name)} for _, row in placement.iterrows()],
+                            placeholder='Select a row...'
+                        ),
+                        html.Table([
+                            # Table header
+                            html.Thead(
+                                html.Tr([html.Th(col) for col in placement.columns])
+                            ),
+                            # Table body
+                            html.Tbody(id='table-body')
+                        ])
+                    ]
+                )
             ]
         )
     ]
@@ -236,6 +262,21 @@ def update_line_chart(queens):
         x="variable", y="value", color='queen',
         template=dark_template)
     return fig
+
+@app.callback(
+    Output('table-body', 'children'),
+    [Input('row-dropdown', 'value')]
+)
+def update_table(selected_row):
+    if selected_row is not None and selected_row != 'Unnamed: 0':
+        row_num = int(selected_row)
+        return [
+            html.Tr([
+                html.Td(data) for data in placement.iloc[row_num]
+            ])
+        ]
+    else:
+        return []
 
 
 
