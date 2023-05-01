@@ -106,41 +106,33 @@ content = dbc.Container(
             className="mt-4 mb-4",
         ),
 
-#graph columns
+#SCATTER PLOT 
         dbc.Row(
             [
                 dbc.Col(
                     [
-                        html.H2('Score and Placement Scatter Plot'),
 
+                        html.H2('Score and Placement Scatter Plot'),
                         dcc.Graph(id="scatter-plot"),
+                        
+                    ], width = 7,
+                ),
+
+                dbc.Col(
+                    [
+
                         html.P("Filter by placement:",
                                style={'font-weight': 'bold'},
                                className="mt-4"),
-
                         dcc.Dropdown(
                             id='dropdown',
                             options=[{'label': col, 'value': col} for col in placement[placement_col]],
                             value = 'win',
                             className = 'dropdown2 mb-4',                            
                         ),
-
-                        html.P("Filter by range of scores:",
-                               style={'font-weight': 'bold'},
-                               className="mt-4"),
-
-                        dcc.RangeSlider(
-                            id='range-slider',
-                            min=4, max=41, step=5,
-                            marks={0: 'Low', 2.5: 'High'},
-                            value=[9, 29],
-                            className='customRange3'
-                        ),
-
                         html.H3("Instructions:",
                                style={'font-weight': 'bold'},
                                className="mt-4"),
-                        
                         html.P(
                             """ 
                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a est consequat, posuere purus sed, pharetra nulla. 
@@ -152,19 +144,31 @@ content = dbc.Container(
                                Aliquam magna quam, vestibulum sit amet tempus congue, molestie ultrices sem.
                                """,
                                className="mt-4"),
-                    ]
+
+                    ], width = 5
+                )
+            ]
+        ),
+
+#LINECHART
+        dbc.Row(
+            [
+                dbc.Col(
+                    [
+                        
+                        html.H2('Final Progress per Finalist'),
+                        dcc.Graph(id="graph"),
+                        
+
+                    ], width = 7
                 ),
 
                 dbc.Col(
                     [
-                        html.H2('Final Progress per Finalist'),
-
-                        dcc.Graph(id="graph"),
 
                         html.P("Select the queens you want to compare",
                                style={'font-weight': 'bold'},
                                className="mt-4"),
-
                         dcc.Dropdown(
                             id='queen-dropdown',
                             options=[{'label': queen, 'value': queen} for queen in melted['queen'].unique()],
@@ -173,14 +177,9 @@ content = dbc.Container(
                             style={'width': '100%', 'margin': 'auto'},
                             className = 'dropdown1 mt-4',
                         ),
-
                         html.H3("Instructions:",
                                style={'font-weight': 'bold'},
                                className="mt-4"),
-                        
-                        #enter table of score legend
-
-
                         html.P(
                             """ 
                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a est consequat, posuere purus sed, pharetra nulla. 
@@ -192,8 +191,16 @@ content = dbc.Container(
                                Aliquam magna quam, vestibulum sit amet tempus congue, molestie ultrices sem.
                                """,
                                className="mt-4"),
-                    ]
+
+                    ], width = 5
                 )
+            ]
+        ),
+        dbc.Row(
+            [
+
+#enter table of score legend
+
             ]
         )
     ]
@@ -208,26 +215,17 @@ app.layout = html.Div([header, content])
 #APP CALLBACKS
 @app.callback(
     Output("scatter-plot", "figure"), 
-    Input("range-slider", "value"),
     Input("dropdown", "value")
 )
-def update_bar_chart(slider_range, dropdown_value):
+def update_bar_chart(dropdown_value):
     df = placement
-    low, high = slider_range
-    mask = (df[dropdown_value] > low) & (df[dropdown_value] < high)
     fig = px.scatter(
-        df[mask], x="score", y=dropdown_value, 
+        df, x="score", y=dropdown_value, 
         color="w/r/e",
         hover_data=['queen'],
-        template=dark_template)
+        template=dark_template,
+        size = 'score')
     return fig
-
-@app.callback( #dropdown for slider
-    Output('range-slider', 'value'),
-    Input('dropdown', 'value')
-)
-def update_slider(placement_col):
-    return [placement[placement_col].min(), placement[placement_col].max()]
 
 @app.callback( #dropdown for line chart
     Output("graph", "figure"), 
