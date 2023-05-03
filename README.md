@@ -21,7 +21,7 @@ Other than that, this project is more for my own practice with data visualizatio
 | `ModelP1.ipynb` |  Contains the EDA and Preprocessing for prediction model | **Complete** |
 | `ModelP2.ipynb` | Contains the prediction models and reuslt | **Complete** |
 | `Processing.ipynb` | EDA and Preprocessing of finalist data for the dashboard| **Complete** |
-| `dashboard.py` | Contains visualizations and dashboard | **In Progress** |
+| `dashboard.py` | Contains visualizations and dashboard | **Complete** |
 
 ### 🧬 Methods Used
 * Exploratory Data Analysis (EDA)
