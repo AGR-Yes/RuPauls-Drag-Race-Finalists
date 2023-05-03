@@ -132,8 +132,13 @@ This dashboard shows the data of the finalists in all franchises and countries (
                         html.A("Instagram", href="https://www.instagram.com/ant0nreyes/"), html.Br(),
                         html.A("Github", href="https://github.com/AGR-Yes/"), html.Br(),
                         html.A("LinkedIn", href="https://www.linkedin.com/in/antongreyes/"), html.Br(),
+
+
                         html.H5("Project Repository", className="mt-4"), 
                         html.A("You're A Winner, Baby!", href="https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists"), html.Br(),
+
+                        html.H5("Discord Server", className="mt-4"), 
+                        html.A("Porygon's Code Lair", href="https://discord.gg/v4PzDC2R6T"), html.Br(),
                         ]), style = {"border": "1px white solid",
                                      "padding": "10px",
                                      'whiteSpace': 'pre-wrap',
