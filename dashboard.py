@@ -92,7 +92,7 @@ header = html.Div([
 #FOOTER
 
 footer = html.Div(
-    html.A("Github", "https://github.com/agr-Yes/"), 
+    html.A("Github", href="https://github.com/agr-Yes/"), 
     style={'position': 'relative', 
            'bottom': 0, 
            'width': '100%', 
