@@ -132,14 +132,14 @@ This dashboard shows the data of the finalists in all franchises and countries (
                         html.A("Instagram", href="https://www.instagram.com/ant0nreyes/"), html.Br(),
                         html.A("Github", href="https://github.com/AGR-Yes/"), html.Br(),
                         html.A("LinkedIn", href="https://www.linkedin.com/in/antongreyes/"), html.Br(),
-                        html.H5("Project Repository"), html.Br(),
+                        html.H5("Project Repository", className="mt-4"), 
                         html.A("You're A Winner, Baby!", href="https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists"), html.Br(),
                         ]), style = {"border": "1px white solid",
                                      "padding": "10px",
                                      'whiteSpace': 'pre-wrap',
                                      },
-                    width = 3,
-                ),
+                    width = 3, className="mt-4",
+                ), 
 
             ],
             className="mt-4 mb-4",
@@ -228,7 +228,7 @@ This plot is capable of showing more than one queen at the same time, so just ke
                         html.P("""
 In the y-axis, you can see the episodes from the lowest value (bottom placement) to the highest value possible (win placement). On the x-axis, you'll be able to see the number of episodes each contestant was a part of during their respective season. 
 
-Since you can input multiple queens at the same time, you can compare multiple queens at the same time.
+Since you can input multiple queens at the same time, you can compare your selections.
                         """),
                         
                     ], width = 7
@@ -236,7 +236,7 @@ Since you can input multiple queens at the same time, you can compare multiple q
 
                 dbc.Col(
                     [
-
+                        html.Br(className="mt-8"),
                         dbc.Table([
                             html.Thead(html.Tr([html.Th(col) for col in linechart.columns])), 
                             html.Tbody([html.Tr([html.Td(linechart.iloc[i][col]) for col in linechart.columns]) for i in range(len(linechart))])   
@@ -244,8 +244,8 @@ Since you can input multiple queens at the same time, you can compare multiple q
                             bordered=True,
                             className="mt-4")  
 
-                    ], width = 5
-                ),
+                    ], width = 5,
+                ), 
 
                         
 
@@ -264,15 +264,13 @@ Since you can input multiple queens at the same time, you can compare multiple q
                         html.P(
                             """ 
 From the dropdown menu, select the finalist you want to view.
-                               """,
-                               className="mt-4"),
+                               """),
                         html.Br(),
                         html.P(
                             """ 
 In the table, will see your selected Queen's season/s they were apart of, score, and number of placements they've accumulated during their run. 
 Also, if you select a Queen that has been a part of multiple seasons (as long as they reached the finale,) you would see the score and placement count as well.
-                               """,
-                               className="mt-4"),
+                               """),
 
                     ], width = 5
                 ),
