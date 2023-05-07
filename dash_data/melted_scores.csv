@@ -1,2241 +1,2241 @@
-,queen,code,variable,value
-0,Chad Michaels,US1AS,1,0.0
-1,Raven,US1AS,1,3.0
-2,Jujubee,US1AS,1,3.0
-3,Shannel,US1AS,1,0.0
-4,Alaska,US2AS,1,3.0
-5,Detox,US2AS,1,2.0
-6,Katya,US2AS,1,2.0
-7,Roxxxy Andrews,US2AS,1,5.0
-8,Trixie Mattel,US3AS,1,2.0
-9,Kennedy Davenport,US3AS,1,2.0
-10,BeBe Zahara Benet,US3AS,1,2.0
-11,Shangela,US3AS,1,3.0
-12,Monet X Change,US4AS,1,1.0
-13,Trinity the Tuck,US4AS,1,5.0
-14,Monique Heart,US4AS,1,4.0
-15,Naomi Smalls,US4AS,1,3.0
-16,Jujubee,US5AS,1,2.0
-17,Shea Coulee,US5AS,1,2.0
-18,Miz Cracker,US5AS,1,3.0
-19,Priyanka,CAN1REG,1,2.0
-20,Rita Baga,CAN1REG,1,5.0
-21,Scarlett BoBo,CAN1REG,1,2.0
-22,Envy Peru,HOL1REG,1,2.0
-23,Janey Jacke,HOL1REG,1,5.0
-24,Ma'Ma Queen,HOL1REG,1,1.0
-25,Miss Abby OMG,HOL1REG,1,2.0
-26,Natalia Pilacam,THI1REG,1,2.0
-27,Annee Maywong,THI1REG,1,4.0
-28,Dearis Doll,THI1REG,1,2.0
-29,The Vivienne,UK1REG,1,5.0
-30,Divina de Campo,UK1REG,1,2.0
-31,Baga Chipz,UK1REG,1,3.0
-32,Bebe Zahara Benet,US1REG,1,2.0
-33,Nina Flowers,US1REG,1,5.0
-34,Rebbeca Glasscock,US1REG,1,1.0
-35,Aquaria,US10REG,1,2.0
-36,Eureka,US10REG,1,2.0
-37,Kameron Michaels,US10REG,1,2.0
-38,Asia O'Hara,US10REG,1,2.0
-39,Yvie Oddly,US11REG,1,2.0
-40,Brooke Lynn Hytes,US11REG,1,5.0
-41,A'keria Davenport,US11REG,1,3.0
-42,Silky Nutmeg Ganache,US11REG,1,2.0
-43,Jaida Essence Hall,US12REG,1,
-44,Crystal Methyd,US12REG,1,2.0
-45,Gigi Goode,US12REG,1,4.0
-46,Symone,US13REG,1,3.0
-47,Kandy Muse,US13REG,1,3.0
-48,Gottmik,US13REG,1,3.0
-49,Rose,US13REG,1,1.0
-50,Angele Anang,THI2REG,1,4.0
-51,Kana Warrior,THI2REG,1,2.0
-52,Kandy Zyanide,THI2REG,1,3.0
-53,Lawrence Chaney,UK2REG,1,3.0
-54,Bimini Bon Boulash,UK2REG,1,0.0
-55,Tayce,UK2REG,1,2.0
-56,Ellie Diamond,UK2REG,1,3.0
-57,Tyra Sanchez,US2REG,1,3.0
-58,Raven,US2REG,1,2.0
-59,Jujubee,US2REG,1,2.0
-60,Raja,US3REG,1,5.0
-61,Manila Luzon,US3REG,1,3.0
-62,Alexis Mateo,US3REG,1,2.0
-63,Sharon Needles,US4REG,1,5.0
-64,Chad Michaels,US4REG,1,2.0
-65,Phi Phi O'Hara,US4REG,1,2.0
-66,Jinkx Monsoon,US5REG,1,2.0
-67,Alaska,US5REG,1,3.0
-68,Roxxxy Andrews,US5REG,1,5.0
-69,Bianca Del Rio,US6REG,1,
-70,Adore Delano,US6REG,1,1.0
-71,Courtney Act,US6REG,1,
-72,Violet Chachki,US7REG,1,5.0
-73,Ginger Minj,US7REG,1,2.0
-74,Pearl,US7REG,1,2.0
-75,Bob the Drag Queen,US8REG,1,2.0
-76,Kim Chi,US8REG,1,5.0
-77,Naomi Smalls,US8REG,1,1.0
-78,Sasha Velour,US9REG,1,3.0
-79,Peppermint,US9REG,1,2.0
-80,Shea Coulee,US9REG,1,2.0
-81,Trinity the Tuck,US9REG,1,2.0
-82,Kita Mean,AUS1REG,1,2.0
-83,Art Simone,AUS1REG,1,3.0
-84,Karen from Finance,AUS1REG,1,5.0
-85,Scarlet Adams,AUS1REG,1,3.0
-86,Carmen Farala,ESP1REG,1,3.0
-87,Killer Queen,ESP1REG,1,2.0
-88,Sagittaria,ESP1REG,1,3.0
-89,Pupi Poisson,ESP1REG,1,1.0
-90,Kylie Sonique Love,US6AS,1,2.0
-91,Ginger Minj,US6AS,1,2.0
-92,Ra'jah O'Hara,US6AS,1,3.0
-93,Eureka,US6AS,1,2.0
-94,Vanessa Van Cartier,HOL2REG,1,3.0
-95,My Little Puny,HOL2REG,1,3.0
-96,Vivaldi,HOL2REG,1,3.0
-97,Ella Vaday,UK3REG,1,2.0
-98,Kitty Scott-Claus,UK3REG,1,2.0
-99,Krystal Versace,UK3REG,1,5.0
-100,Icesis Couture,CAN2REG,1,5.0
-101,Kendall Gender,CAN2REG,1,2.0
-102,Pythia,CAN2REG,1,2.0
-103,Farida Kant,ITA1REG,1,5.0
-104,Elecktra Bionic,ITA1REG,1,2.0
-105,Le Riche,ITA1REG,1,2.0
-106,Luquisha Lubamba,ITA1REG,1,0.0
-107,Blu Hydrangea,UK1WORLD,1,3.0
-108,Mo Heart,UK1WORLD,1,2.0
-109,Baga Chipz,UK1WORLD,1,3.0
-110,Jujubee,UK1WORLD,1,2.0
-111,Angeria Paris VanMichaels,US14REG,1,
-112,Bosco,US14REG,1,3.0
-113,Daya Betty,US14REG,1,
-114,Lady Camden,US14REG,1,
-115,Willow Pill,US14REG,1,3.0
-116,Estrella Xtravaganza,ESP2REG,1,2.0
-117,Sharonne,ESP2REG,1,3.0
-118,Venedita Von Dash,ESP2REG,1,2.0
-119,Marina,ESP2REG,1,3.0
-120,Jinkx Monsoon,US7AS,1,2.0
-121,Monet X Change,US7AS,1,4.0
-122,Shea Coulee,US7AS,1,5.0
-123,Trinity the Tuck,US7AS,1,3.0
-124,Paloma,FRA1REG,1,2.0
-125,La Grande Dame,FRA1REG,1,2.0
-126,Soa de Muse,FRA1REG,1,5.0
-127,Lolita Banana,FRA1REG,1,2.0
-128,Gisele Lullaby,CAN3REG,1,2.0
-129,Jada Shada Hudson,CAN3REG,1,3.0
-130,Kimmy Couture,CAN3REG,1,2.0
-131,Miss Fiercalicious,CAN3REG,1,1.0
-132,Hanna Conda,AUS2REG,1,3.0
-133,Kween Kong,AUS2REG,1,1.0
-134,Spankie Jackzon,AUS2REG,1,0.0
-135,Eva Le Queen,PH1REG,1,3.0
-136,Marina Summers,PH1REG,1,3.0
-137,Precious Paula Nicole,PH1REG,1,2.0
-138,Xilhouete,PH1REG,1,1.0
-139,Black Peppa,UK4REG,1,5.0
-140,Cheddar Gorgeous,UK4REG,1,2.0
-141,Danny Beard,UK4REG,1,2.0
-142,Jonbers Blonde,UK4REG,1,2.0
-143,La Diamond,ITA2REG,1,5.0
-144,Aura Etherial,ITA2REG,1,1.0
-145,Nehllenia,ITA2REG,1,2.0
-146,Ra'jah O'Hara,CAN1WORLD,1,3.0
-147,Rita Baga,CAN1WORLD,1,4.0
-148,Silky Nutmeg Ganache,CAN1WORLD,1,2.0
-149,Victoria Scone,CAN1WORLD,1,2.0
-150,Anetra,US15REG,1,5.0
-151,Luxx Noir London,US15REG,1,2.0
-152,Mistress Isabelle Brookes,US15REG,1,2.0
-153,Sasha Colby,US15REG,1,2.0
-154,Athena Sorgelikis,BEL1REG,1,5.0
-155,Drag Couenne,BEL1REG,1,3.0
-156,Susan,BEL1REG,1,2.0
-157,Admira Thunderpussy,SWE1REG,1,3.0
-158,Fontana,SWE1REG,1,2.0
-159,Vanity Vain,SWE1REG,1,2.0
-160,Chad Michaels,US1AS,2,3.0
-161,Raven,US1AS,2,1.0
-162,Jujubee,US1AS,2,1.0
-163,Shannel,US1AS,2,3.0
-164,Alaska,US2AS,2,5.0
-165,Detox,US2AS,2,0.0
-166,Katya,US2AS,2,4.0
-167,Roxxxy Andrews,US2AS,2,0.0
-168,Trixie Mattel,US3AS,2,2.0
-169,Kennedy Davenport,US3AS,2,0.0
-170,BeBe Zahara Benet,US3AS,2,3.0
-171,Shangela,US3AS,2,5.0
-172,Monet X Change,US4AS,2,4.0
-173,Trinity the Tuck,US4AS,2,2.0
-174,Monique Heart,US4AS,2,0.0
-175,Naomi Smalls,US4AS,2,3.0
-176,Jujubee,US5AS,2,3.0
-177,Shea Coulee,US5AS,2,5.0
-178,Miz Cracker,US5AS,2,2.0
-179,Priyanka,CAN1REG,2,3.0
-180,Rita Baga,CAN1REG,2,2.0
-181,Scarlett BoBo,CAN1REG,2,2.0
-182,Envy Peru,HOL1REG,2,5.0
-183,Janey Jacke,HOL1REG,2,2.0
-184,Ma'Ma Queen,HOL1REG,2,2.0
-185,Miss Abby OMG,HOL1REG,2,2.0
-186,Natalia Pilacam,THI1REG,2,4.0
-187,Annee Maywong,THI1REG,2,3.0
-188,Dearis Doll,THI1REG,2,2.0
-189,The Vivienne,UK1REG,2,3.0
-190,Divina de Campo,UK1REG,2,2.0
-191,Baga Chipz,UK1REG,2,5.0
-192,Bebe Zahara Benet,US1REG,2,2.0
-193,Nina Flowers,US1REG,2,3.0
-194,Rebbeca Glasscock,US1REG,2,3.0
-195,Aquaria,US10REG,2,2.0
-196,Eureka,US10REG,2,0.0
-197,Kameron Michaels,US10REG,2,3.0
-198,Asia O'Hara,US10REG,2,2.0
-199,Yvie Oddly,US11REG,2,5.0
-200,Brooke Lynn Hytes,US11REG,2,1.0
-201,A'keria Davenport,US11REG,2,2.0
-202,Silky Nutmeg Ganache,US11REG,2,2.0
-203,Jaida Essence Hall,US12REG,2,5.0
-204,Crystal Methyd,US12REG,2,
-205,Gigi Goode,US12REG,2,
-206,Symone,US13REG,2,5.0
-207,Kandy Muse,US13REG,2,1.0
-208,Gottmik,US13REG,2,1.0
-209,Rose,US13REG,2,
-210,Angele Anang,THI2REG,2,2.0
-211,Kana Warrior,THI2REG,2,2.0
-212,Kandy Zyanide,THI2REG,2,2.0
-213,Lawrence Chaney,UK2REG,2,1.0
-214,Bimini Bon Boulash,UK2REG,2,2.0
-215,Tayce,UK2REG,2,0.0
-216,Ellie Diamond,UK2REG,2,3.0
-217,Tyra Sanchez,US2REG,2,3.0
-218,Raven,US2REG,2,0.0
-219,Jujubee,US2REG,2,3.0
-220,Raja,US3REG,2,1.0
-221,Manila Luzon,US3REG,2,2.0
-222,Alexis Mateo,US3REG,2,5.0
-223,Sharon Needles,US4REG,2,3.0
-224,Chad Michaels,US4REG,2,5.0
-225,Phi Phi O'Hara,US4REG,2,2.0
-226,Jinkx Monsoon,US5REG,2,2.0
-227,Alaska,US5REG,2,2.0
-228,Roxxxy Andrews,US5REG,2,2.0
-229,Bianca Del Rio,US6REG,2,5.0
-230,Adore Delano,US6REG,2,
-231,Courtney Act,US6REG,2,2.0
-232,Violet Chachki,US7REG,2,3.0
-233,Ginger Minj,US7REG,2,5.0
-234,Pearl,US7REG,2,2.0
-235,Bob the Drag Queen,US8REG,2,2.0
-236,Kim Chi,US8REG,2,3.0
-237,Naomi Smalls,US8REG,2,2.0
-238,Sasha Velour,US9REG,2,2.0
-239,Peppermint,US9REG,2,2.0
-240,Shea Coulee,US9REG,2,3.0
-241,Trinity the Tuck,US9REG,2,3.0
-242,Kita Mean,AUS1REG,2,3.0
-243,Art Simone,AUS1REG,2,0.0
-244,Karen from Finance,AUS1REG,2,2.0
-245,Scarlet Adams,AUS1REG,2,2.0
-246,Carmen Farala,ESP1REG,2,5.0
-247,Killer Queen,ESP1REG,2,2.0
-248,Sagittaria,ESP1REG,2,2.0
-249,Pupi Poisson,ESP1REG,2,3.0
-250,Kylie Sonique Love,US6AS,2,3.0
-251,Ginger Minj,US6AS,2,2.0
-252,Ra'jah O'Hara,US6AS,2,5.0
-253,Eureka,US6AS,2,3.0
-254,Vanessa Van Cartier,HOL2REG,2,2.0
-255,My Little Puny,HOL2REG,2,2.0
-256,Vivaldi,HOL2REG,2,3.0
-257,Ella Vaday,UK3REG,2,2.0
-258,Kitty Scott-Claus,UK3REG,2,3.0
-259,Krystal Versace,UK3REG,2,5.0
-260,Icesis Couture,CAN2REG,2,0.0
-261,Kendall Gender,CAN2REG,2,3.0
-262,Pythia,CAN2REG,2,5.0
-263,Farida Kant,ITA1REG,2,2.0
-264,Elecktra Bionic,ITA1REG,2,2.0
-265,Le Riche,ITA1REG,2,0.0
-266,Luquisha Lubamba,ITA1REG,2,1.0
-267,Blu Hydrangea,UK1WORLD,2,2.0
-268,Mo Heart,UK1WORLD,2,3.0
-269,Baga Chipz,UK1WORLD,2,2.0
-270,Jujubee,UK1WORLD,2,0.0
-271,Angeria Paris VanMichaels,US14REG,2,5.0
-272,Bosco,US14REG,2,
-273,Daya Betty,US14REG,2,0.0
-274,Lady Camden,US14REG,2,3.0
-275,Willow Pill,US14REG,2,
-276,Estrella Xtravaganza,ESP2REG,2,2.0
-277,Sharonne,ESP2REG,2,5.0
-278,Venedita Von Dash,ESP2REG,2,2.0
-279,Marina,ESP2REG,2,2.0
-280,Jinkx Monsoon,US7AS,2,5.0
-281,Monet X Change,US7AS,2,3.0
-282,Shea Coulee,US7AS,2,2.0
-283,Trinity the Tuck,US7AS,2,4.0
-284,Paloma,FRA1REG,2,5.0
-285,La Grande Dame,FRA1REG,2,3.0
-286,Soa de Muse,FRA1REG,2,0.0
-287,Lolita Banana,FRA1REG,2,3.0
-288,Gisele Lullaby,CAN3REG,2,2.0
-289,Jada Shada Hudson,CAN3REG,2,0.0
-290,Kimmy Couture,CAN3REG,2,5.0
-291,Miss Fiercalicious,CAN3REG,2,3.0
-292,Hanna Conda,AUS2REG,2,3.0
-293,Kween Kong,AUS2REG,2,0.0
-294,Spankie Jackzon,AUS2REG,2,5.0
-295,Eva Le Queen,PH1REG,2,2.0
-296,Marina Summers,PH1REG,2,2.0
-297,Precious Paula Nicole,PH1REG,2,3.0
-298,Xilhouete,PH1REG,2,2.0
-299,Black Peppa,UK4REG,2,2.0
-300,Cheddar Gorgeous,UK4REG,2,5.0
-301,Danny Beard,UK4REG,2,5.0
-302,Jonbers Blonde,UK4REG,2,0.0
-303,La Diamond,ITA2REG,2,2.0
-304,Aura Etherial,ITA2REG,2,5.0
-305,Nehllenia,ITA2REG,2,2.0
-306,Ra'jah O'Hara,CAN1WORLD,2,4.0
-307,Rita Baga,CAN1WORLD,2,2.0
-308,Silky Nutmeg Ganache,CAN1WORLD,2,1.0
-309,Victoria Scone,CAN1WORLD,2,3.0
-310,Anetra,US15REG,2,2.0
-311,Luxx Noir London,US15REG,2,3.0
-312,Mistress Isabelle Brookes,US15REG,2,2.0
-313,Sasha Colby,US15REG,2,5.0
-314,Athena Sorgelikis,BEL1REG,2,2.0
-315,Drag Couenne,BEL1REG,2,5.0
-316,Susan,BEL1REG,2,1.0
-317,Admira Thunderpussy,SWE1REG,2,2.0
-318,Fontana,SWE1REG,2,2.0
-319,Vanity Vain,SWE1REG,2,0.0
-320,Chad Michaels,US1AS,3,5.0
-321,Raven,US1AS,3,0.0
-322,Jujubee,US1AS,3,0.0
-323,Shannel,US1AS,3,5.0
-324,Alaska,US2AS,3,2.0
-325,Detox,US2AS,3,4.0
-326,Katya,US2AS,3,0.0
-327,Roxxxy Andrews,US2AS,3,2.0
-328,Trixie Mattel,US3AS,3,3.0
-329,Kennedy Davenport,US3AS,3,5.0
-330,BeBe Zahara Benet,US3AS,3,2.0
-331,Shangela,US3AS,3,2.0
-332,Monet X Change,US4AS,3,2.0
-333,Trinity the Tuck,US4AS,3,4.0
-334,Monique Heart,US4AS,3,2.0
-335,Naomi Smalls,US4AS,3,3.0
-336,Jujubee,US5AS,3,4.0
-337,Shea Coulee,US5AS,3,0.0
-338,Miz Cracker,US5AS,3,2.0
-339,Priyanka,CAN1REG,3,5.0
-340,Rita Baga,CAN1REG,3,2.0
-341,Scarlett BoBo,CAN1REG,3,3.0
-342,Envy Peru,HOL1REG,3,2.0
-343,Janey Jacke,HOL1REG,3,2.0
-344,Ma'Ma Queen,HOL1REG,3,5.0
-345,Miss Abby OMG,HOL1REG,3,0.0
-346,Natalia Pilacam,THI1REG,3,2.0
-347,Annee Maywong,THI1REG,3,4.0
-348,Dearis Doll,THI1REG,3,0.0
-349,The Vivienne,UK1REG,3,3.0
-350,Divina de Campo,UK1REG,3,5.0
-351,Baga Chipz,UK1REG,3,2.0
-352,Bebe Zahara Benet,US1REG,3,5.0
-353,Nina Flowers,US1REG,3,3.0
-354,Rebbeca Glasscock,US1REG,3,2.0
-355,Aquaria,US10REG,3,2.0
-356,Eureka,US10REG,3,3.0
-357,Kameron Michaels,US10REG,3,1.0
-358,Asia O'Hara,US10REG,3,5.0
-359,Yvie Oddly,US11REG,3,3.0
-360,Brooke Lynn Hytes,US11REG,3,3.0
-361,A'keria Davenport,US11REG,3,0.0
-362,Silky Nutmeg Ganache,US11REG,3,3.0
-363,Jaida Essence Hall,US12REG,3,2.0
-364,Crystal Methyd,US12REG,3,1.0
-365,Gigi Goode,US12REG,3,2.0
-366,Symone,US13REG,3,
-367,Kandy Muse,US13REG,3,
-368,Gottmik,US13REG,3,
-369,Rose,US13REG,3,4.0
-370,Angele Anang,THI2REG,3,2.0
-371,Kana Warrior,THI2REG,3,0.0
-372,Kandy Zyanide,THI2REG,3,2.0
-373,Lawrence Chaney,UK2REG,3,5.0
-374,Bimini Bon Boulash,UK2REG,3,3.0
-375,Tayce,UK2REG,3,2.0
-376,Ellie Diamond,UK2REG,3,2.0
-377,Tyra Sanchez,US2REG,3,5.0
-378,Raven,US2REG,3,0.0
-379,Jujubee,US2REG,3,2.0
-380,Raja,US3REG,3,2.0
-381,Manila Luzon,US3REG,3,2.0
-382,Alexis Mateo,US3REG,3,5.0
-383,Sharon Needles,US4REG,3,5.0
-384,Chad Michaels,US4REG,3,3.0
-385,Phi Phi O'Hara,US4REG,3,2.0
-386,Jinkx Monsoon,US5REG,3,3.0
-387,Alaska,US5REG,3,1.0
-388,Roxxxy Andrews,US5REG,3,3.0
-389,Bianca Del Rio,US6REG,3,3.0
-390,Adore Delano,US6REG,3,1.0
-391,Courtney Act,US6REG,3,3.0
-392,Violet Chachki,US7REG,3,2.0
-393,Ginger Minj,US7REG,3,3.0
-394,Pearl,US7REG,3,1.0
-395,Bob the Drag Queen,US8REG,3,5.0
-396,Kim Chi,US8REG,3,2.0
-397,Naomi Smalls,US8REG,3,2.0
-398,Sasha Velour,US9REG,3,2.0
-399,Peppermint,US9REG,3,3.0
-400,Shea Coulee,US9REG,3,2.0
-401,Trinity the Tuck,US9REG,3,5.0
-402,Kita Mean,AUS1REG,3,3.0
-403,Art Simone,AUS1REG,3,
-404,Karen from Finance,AUS1REG,3,2.0
-405,Scarlet Adams,AUS1REG,3,5.0
-406,Carmen Farala,ESP1REG,3,2.0
-407,Killer Queen,ESP1REG,3,2.0
-408,Sagittaria,ESP1REG,3,5.0
-409,Pupi Poisson,ESP1REG,3,3.0
-410,Kylie Sonique Love,US6AS,3,2.0
-411,Ginger Minj,US6AS,3,0.0
-412,Ra'jah O'Hara,US6AS,3,3.0
-413,Eureka,US6AS,3,2.0
-414,Vanessa Van Cartier,HOL2REG,3,2.0
-415,My Little Puny,HOL2REG,3,2.0
-416,Vivaldi,HOL2REG,3,5.0
-417,Ella Vaday,UK3REG,3,3.0
-418,Kitty Scott-Claus,UK3REG,3,2.0
-419,Krystal Versace,UK3REG,3,3.0
-420,Icesis Couture,CAN2REG,3,2.0
-421,Kendall Gender,CAN2REG,3,1.0
-422,Pythia,CAN2REG,3,2.0
-423,Farida Kant,ITA1REG,3,2.0
-424,Elecktra Bionic,ITA1REG,3,2.0
-425,Le Riche,ITA1REG,3,0.0
-426,Luquisha Lubamba,ITA1REG,3,3.0
-427,Blu Hydrangea,UK1WORLD,3,2.0
-428,Mo Heart,UK1WORLD,3,1.0
-429,Baga Chipz,UK1WORLD,3,2.0
-430,Jujubee,UK1WORLD,3,0.0
-431,Angeria Paris VanMichaels,US14REG,3,3.0
-432,Bosco,US14REG,3,2.0
-433,Daya Betty,US14REG,3,2.0
-434,Lady Camden,US14REG,3,2.0
-435,Willow Pill,US14REG,3,5.0
-436,Estrella Xtravaganza,ESP2REG,3,3.0
-437,Sharonne,ESP2REG,3,3.0
-438,Venedita Von Dash,ESP2REG,3,5.0
-439,Marina,ESP2REG,3,2.0
-440,Jinkx Monsoon,US7AS,3,2.0
-441,Monet X Change,US7AS,3,2.0
-442,Shea Coulee,US7AS,3,3.0
-443,Trinity the Tuck,US7AS,3,4.0
-444,Paloma,FRA1REG,3,3.0
-445,La Grande Dame,FRA1REG,3,3.0
-446,Soa de Muse,FRA1REG,3,0.0
-447,Lolita Banana,FRA1REG,3,2.0
-448,Gisele Lullaby,CAN3REG,3,2.0
-449,Jada Shada Hudson,CAN3REG,3,5.0
-450,Kimmy Couture,CAN3REG,3,3.0
-451,Miss Fiercalicious,CAN3REG,3,0.0
-452,Hanna Conda,AUS2REG,3,2.0
-453,Kween Kong,AUS2REG,3,2.0
-454,Spankie Jackzon,AUS2REG,3,5.0
-455,Eva Le Queen,PH1REG,3,3.0
-456,Marina Summers,PH1REG,3,3.0
-457,Precious Paula Nicole,PH1REG,3,2.0
-458,Xilhouete,PH1REG,3,0.0
-459,Black Peppa,UK4REG,3,0.0
-460,Cheddar Gorgeous,UK4REG,3,1.0
-461,Danny Beard,UK4REG,3,2.0
-462,Jonbers Blonde,UK4REG,3,1.0
-463,La Diamond,ITA2REG,3,5.0
-464,Aura Etherial,ITA2REG,3,1.0
-465,Nehllenia,ITA2REG,3,2.0
-466,Ra'jah O'Hara,CAN1WORLD,3,2.0
-467,Rita Baga,CAN1WORLD,3,0.0
-468,Silky Nutmeg Ganache,CAN1WORLD,3,5.0
-469,Victoria Scone,CAN1WORLD,3,4.0
-470,Anetra,US15REG,3,2.0
-471,Luxx Noir London,US15REG,3,2.0
-472,Mistress Isabelle Brookes,US15REG,3,3.0
-473,Sasha Colby,US15REG,3,2.0
-474,Athena Sorgelikis,BEL1REG,3,2.0
-475,Drag Couenne,BEL1REG,3,2.0
-476,Susan,BEL1REG,3,5.0
-477,Admira Thunderpussy,SWE1REG,3,2.0
-478,Fontana,SWE1REG,3,1.0
-479,Vanity Vain,SWE1REG,3,5.0
-480,Chad Michaels,US1AS,4,5.0
-481,Raven,US1AS,4,0.0
-482,Jujubee,US1AS,4,0.0
-483,Shannel,US1AS,4,5.0
-484,Alaska,US2AS,4,5.0
-485,Detox,US2AS,4,2.0
-486,Katya,US2AS,4,0.0
-487,Roxxxy Andrews,US2AS,4,0.0
-488,Trixie Mattel,US3AS,4,0.0
-489,Kennedy Davenport,US3AS,4,0.0
-490,BeBe Zahara Benet,US3AS,4,2.0
-491,Shangela,US3AS,4,5.0
-492,Monet X Change,US4AS,4,0.0
-493,Trinity the Tuck,US4AS,4,1.0
-494,Monique Heart,US4AS,4,5.0
-495,Naomi Smalls,US4AS,4,2.0
-496,Jujubee,US5AS,4,3.0
-497,Shea Coulee,US5AS,4,2.0
-498,Miz Cracker,US5AS,4,5.0
-499,Priyanka,CAN1REG,4,2.0
-500,Rita Baga,CAN1REG,4,5.0
-501,Scarlett BoBo,CAN1REG,4,3.0
-502,Envy Peru,HOL1REG,4,5.0
-503,Janey Jacke,HOL1REG,4,3.0
-504,Ma'Ma Queen,HOL1REG,4,0.0
-505,Miss Abby OMG,HOL1REG,4,0.0
-506,Natalia Pilacam,THI1REG,4,0.5
-507,Annee Maywong,THI1REG,4,1.0
-508,Dearis Doll,THI1REG,4,4.0
-509,The Vivienne,UK1REG,4,5.0
-510,Divina de Campo,UK1REG,4,1.0
-511,Baga Chipz,UK1REG,4,5.0
-512,Bebe Zahara Benet,US1REG,4,3.0
-513,Nina Flowers,US1REG,4,3.0
-514,Rebbeca Glasscock,US1REG,4,0.0
-515,Aquaria,US10REG,4,5.0
-516,Eureka,US10REG,4,2.0
-517,Kameron Michaels,US10REG,4,3.0
-518,Asia O'Hara,US10REG,4,1.0
-519,Yvie Oddly,US11REG,4,3.0
-520,Brooke Lynn Hytes,US11REG,4,3.0
-521,A'keria Davenport,US11REG,4,2.0
-522,Silky Nutmeg Ganache,US11REG,4,5.0
-523,Jaida Essence Hall,US12REG,4,3.0
-524,Crystal Methyd,US12REG,4,2.0
-525,Gigi Goode,US12REG,4,5.0
-526,Symone,US13REG,4,5.0
-527,Kandy Muse,US13REG,4,3.0
-528,Gottmik,US13REG,4,2.0
-529,Rose,US13REG,4,3.0
-530,Angele Anang,THI2REG,4,4.0
-531,Kana Warrior,THI2REG,4,0.0
-532,Kandy Zyanide,THI2REG,4,0.0
-533,Lawrence Chaney,UK2REG,4,5.0
-534,Bimini Bon Boulash,UK2REG,4,3.0
-535,Tayce,UK2REG,4,2.0
-536,Ellie Diamond,UK2REG,4,2.0
-537,Tyra Sanchez,US2REG,4,2.0
-538,Raven,US2REG,4,2.0
-539,Jujubee,US2REG,4,1.0
-540,Raja,US3REG,4,2.0
-541,Manila Luzon,US3REG,4,5.0
-542,Alexis Mateo,US3REG,4,2.0
-543,Sharon Needles,US4REG,4,2.0
-544,Chad Michaels,US4REG,4,3.0
-545,Phi Phi O'Hara,US4REG,4,3.0
-546,Jinkx Monsoon,US5REG,4,3.0
-547,Alaska,US5REG,4,2.0
-548,Roxxxy Andrews,US5REG,4,1.0
-549,Bianca Del Rio,US6REG,4,2.0
-550,Adore Delano,US6REG,4,3.0
-551,Courtney Act,US6REG,4,5.0
-552,Violet Chachki,US7REG,4,2.0
-553,Ginger Minj,US7REG,4,2.0
-554,Pearl,US7REG,4,0.0
-555,Bob the Drag Queen,US8REG,4,2.0
-556,Kim Chi,US8REG,4,3.0
-557,Naomi Smalls,US8REG,4,3.0
-558,Sasha Velour,US9REG,4,5.0
-559,Peppermint,US9REG,4,1.0
-560,Shea Coulee,US9REG,4,5.0
-561,Trinity the Tuck,US9REG,4,0.0
-562,Kita Mean,AUS1REG,4,2.0
-563,Art Simone,AUS1REG,4,3.0
-564,Karen from Finance,AUS1REG,4,0.0
-565,Scarlet Adams,AUS1REG,4,5.0
-566,Carmen Farala,ESP1REG,4,1.0
-567,Killer Queen,ESP1REG,4,5.0
-568,Sagittaria,ESP1REG,4,3.0
-569,Pupi Poisson,ESP1REG,4,3.0
-570,Kylie Sonique Love,US6AS,4,2.0
-571,Ginger Minj,US6AS,4,1.0
-572,Ra'jah O'Hara,US6AS,4,2.0
-573,Eureka,US6AS,4,3.0
-574,Vanessa Van Cartier,HOL2REG,4,1.0
-575,My Little Puny,HOL2REG,4,5.0
-576,Vivaldi,HOL2REG,4,2.0
-577,Ella Vaday,UK3REG,4,5.0
-578,Kitty Scott-Claus,UK3REG,4,2.0
-579,Krystal Versace,UK3REG,4,2.0
-580,Icesis Couture,CAN2REG,4,2.0
-581,Kendall Gender,CAN2REG,4,2.0
-582,Pythia,CAN2REG,4,3.0
-583,Farida Kant,ITA1REG,4,2.0
-584,Elecktra Bionic,ITA1REG,4,2.0
-585,Le Riche,ITA1REG,4,5.0
-586,Luquisha Lubamba,ITA1REG,4,3.0
-587,Blu Hydrangea,UK1WORLD,4,5.0
-588,Mo Heart,UK1WORLD,4,0.0
-589,Baga Chipz,UK1WORLD,4,4.0
-590,Jujubee,UK1WORLD,4,0.0
-591,Angeria Paris VanMichaels,US14REG,4,5.0
-592,Bosco,US14REG,4,2.0
-593,Daya Betty,US14REG,4,2.0
-594,Lady Camden,US14REG,4,2.0
-595,Willow Pill,US14REG,4,3.0
-596,Estrella Xtravaganza,ESP2REG,4,5.0
-597,Sharonne,ESP2REG,4,3.0
-598,Venedita Von Dash,ESP2REG,4,2.0
-599,Marina,ESP2REG,4,3.0
-600,Jinkx Monsoon,US7AS,4,4.0
-601,Monet X Change,US7AS,4,2.0
-602,Shea Coulee,US7AS,4,2.0
-603,Trinity the Tuck,US7AS,4,2.0
-604,Paloma,FRA1REG,4,3.0
-605,La Grande Dame,FRA1REG,4,5.0
-606,Soa de Muse,FRA1REG,4,3.0
-607,Lolita Banana,FRA1REG,4,1.0
-608,Gisele Lullaby,CAN3REG,4,5.0
-609,Jada Shada Hudson,CAN3REG,4,0.0
-610,Kimmy Couture,CAN3REG,4,3.0
-611,Miss Fiercalicious,CAN3REG,4,2.0
-612,Hanna Conda,AUS2REG,4,5.0
-613,Kween Kong,AUS2REG,4,2.0
-614,Spankie Jackzon,AUS2REG,4,3.0
-615,Eva Le Queen,PH1REG,4,2.0
-616,Marina Summers,PH1REG,4,3.0
-617,Precious Paula Nicole,PH1REG,4,5.0
-618,Xilhouete,PH1REG,4,3.0
-619,Black Peppa,UK4REG,4,2.0
-620,Cheddar Gorgeous,UK4REG,4,3.0
-621,Danny Beard,UK4REG,4,5.0
-622,Jonbers Blonde,UK4REG,4,2.0
-623,La Diamond,ITA2REG,4,5.0
-624,Aura Etherial,ITA2REG,4,2.0
-625,Nehllenia,ITA2REG,4,3.0
-626,Ra'jah O'Hara,CAN1WORLD,4,0.0
-627,Rita Baga,CAN1WORLD,4,2.0
-628,Silky Nutmeg Ganache,CAN1WORLD,4,4.0
-629,Victoria Scone,CAN1WORLD,4,5.0
-630,Anetra,US15REG,4,2.0
-631,Luxx Noir London,US15REG,4,5.0
-632,Mistress Isabelle Brookes,US15REG,4,2.0
-633,Sasha Colby,US15REG,4,3.0
-634,Athena Sorgelikis,BEL1REG,4,2.0
-635,Drag Couenne,BEL1REG,4,5.0
-636,Susan,BEL1REG,4,0.0
-637,Admira Thunderpussy,SWE1REG,4,5.0
-638,Fontana,SWE1REG,4,2.0
-639,Vanity Vain,SWE1REG,4,1.0
-640,Chad Michaels,US1AS,5,5.0
-641,Raven,US1AS,5,0.0
-642,Jujubee,US1AS,5,0.0
-643,Shannel,US1AS,5,5.0
-644,Alaska,US2AS,5,5.0
-645,Detox,US2AS,5,5.0
-646,Katya,US2AS,5,2.0
-647,Roxxxy Andrews,US2AS,5,0.0
-648,Trixie Mattel,US3AS,5,4.0
-649,Kennedy Davenport,US3AS,5,2.0
-650,BeBe Zahara Benet,US3AS,5,5.0
-651,Shangela,US3AS,5,0.0
-652,Monet X Change,US4AS,5,5.0
-653,Trinity the Tuck,US4AS,5,0.0
-654,Monique Heart,US4AS,5,0.0
-655,Naomi Smalls,US4AS,5,0.0
-656,Jujubee,US5AS,5,3.0
-657,Shea Coulee,US5AS,5,5.0
-658,Miz Cracker,US5AS,5,1.0
-659,Priyanka,CAN1REG,5,0.0
-660,Rita Baga,CAN1REG,5,3.0
-661,Scarlett BoBo,CAN1REG,5,2.0
-662,Envy Peru,HOL1REG,5,5.0
-663,Janey Jacke,HOL1REG,5,3.0
-664,Ma'Ma Queen,HOL1REG,5,3.0
-665,Miss Abby OMG,HOL1REG,5,0.0
-666,Natalia Pilacam,THI1REG,5,5.0
-667,Annee Maywong,THI1REG,5,0.0
-668,Dearis Doll,THI1REG,5,2.0
-669,The Vivienne,UK1REG,5,0.0
-670,Divina de Campo,UK1REG,5,5.0
-671,Baga Chipz,UK1REG,5,5.0
-672,Bebe Zahara Benet,US1REG,5,0.0
-673,Nina Flowers,US1REG,5,1.0
-674,Rebbeca Glasscock,US1REG,5,5.0
-675,Aquaria,US10REG,5,2.0
-676,Eureka,US10REG,5,5.0
-677,Kameron Michaels,US10REG,5,2.0
-678,Asia O'Hara,US10REG,5,2.0
-679,Yvie Oddly,US11REG,5,3.0
-680,Brooke Lynn Hytes,US11REG,5,5.0
-681,A'keria Davenport,US11REG,5,2.0
-682,Silky Nutmeg Ganache,US11REG,5,1.0
-683,Jaida Essence Hall,US12REG,5,2.0
-684,Crystal Methyd,US12REG,5,2.0
-685,Gigi Goode,US12REG,5,3.0
-686,Symone,US13REG,5,2.0
-687,Kandy Muse,US13REG,5,2.0
-688,Gottmik,US13REG,5,5.0
-689,Rose,US13REG,5,3.0
-690,Angele Anang,THI2REG,5,4.0
-691,Kana Warrior,THI2REG,5,0.0
-692,Kandy Zyanide,THI2REG,5,
-693,Lawrence Chaney,UK2REG,5,5.0
-694,Bimini Bon Boulash,UK2REG,5,5.0
-695,Tayce,UK2REG,5,5.0
-696,Ellie Diamond,UK2REG,5,2.0
-697,Tyra Sanchez,US2REG,5,5.0
-698,Raven,US2REG,5,3.0
-699,Jujubee,US2REG,5,3.0
-700,Raja,US3REG,5,3.0
-701,Manila Luzon,US3REG,5,2.0
-702,Alexis Mateo,US3REG,5,3.0
-703,Sharon Needles,US4REG,5,3.0
-704,Chad Michaels,US4REG,5,5.0
-705,Phi Phi O'Hara,US4REG,5,1.0
-706,Jinkx Monsoon,US5REG,5,5.0
-707,Alaska,US5REG,5,3.0
-708,Roxxxy Andrews,US5REG,5,3.0
-709,Bianca Del Rio,US6REG,5,3.0
-710,Adore Delano,US6REG,5,3.0
-711,Courtney Act,US6REG,5,2.0
-712,Violet Chachki,US7REG,5,1.0
-713,Ginger Minj,US7REG,5,2.0
-714,Pearl,US7REG,5,5.0
-715,Bob the Drag Queen,US8REG,5,5.0
-716,Kim Chi,US8REG,5,2.0
-717,Naomi Smalls,US8REG,5,0.0
-718,Sasha Velour,US9REG,5,2.0
-719,Peppermint,US9REG,5,3.0
-720,Shea Coulee,US9REG,5,5.0
-721,Trinity the Tuck,US9REG,5,2.0
-722,Kita Mean,AUS1REG,5,3.0
-723,Art Simone,AUS1REG,5,2.0
-724,Karen from Finance,AUS1REG,5,1.0
-725,Scarlet Adams,AUS1REG,5,2.0
-726,Carmen Farala,ESP1REG,5,3.0
-727,Killer Queen,ESP1REG,5,0.0
-728,Sagittaria,ESP1REG,5,2.0
-729,Pupi Poisson,ESP1REG,5,5.0
-730,Kylie Sonique Love,US6AS,5,0.0
-731,Ginger Minj,US6AS,5,5.0
-732,Ra'jah O'Hara,US6AS,5,2.0
-733,Eureka,US6AS,5,3.0
-734,Vanessa Van Cartier,HOL2REG,5,5.0
-735,My Little Puny,HOL2REG,5,0.0
-736,Vivaldi,HOL2REG,5,3.0
-737,Ella Vaday,UK3REG,5,2.0
-738,Kitty Scott-Claus,UK3REG,5,2.0
-739,Krystal Versace,UK3REG,5,2.0
-740,Icesis Couture,CAN2REG,5,3.0
-741,Kendall Gender,CAN2REG,5,1.0
-742,Pythia,CAN2REG,5,3.0
-743,Farida Kant,ITA1REG,5,5.0
-744,Elecktra Bionic,ITA1REG,5,3.0
-745,Le Riche,ITA1REG,5,1.0
-746,Luquisha Lubamba,ITA1REG,5,0.0
-747,Blu Hydrangea,UK1WORLD,5,0.0
-748,Mo Heart,UK1WORLD,5,4.0
-749,Baga Chipz,UK1WORLD,5,0.0
-750,Jujubee,UK1WORLD,5,5.0
-751,Angeria Paris VanMichaels,US14REG,5,3.0
-752,Bosco,US14REG,5,5.0
-753,Daya Betty,US14REG,5,2.0
-754,Lady Camden,US14REG,5,3.0
-755,Willow Pill,US14REG,5,2.0
-756,Estrella Xtravaganza,ESP2REG,5,2.0
-757,Sharonne,ESP2REG,5,5.0
-758,Venedita Von Dash,ESP2REG,5,3.0
-759,Marina,ESP2REG,5,2.0
-760,Jinkx Monsoon,US7AS,5,5.0
-761,Monet X Change,US7AS,5,2.0
-762,Shea Coulee,US7AS,5,3.0
-763,Trinity the Tuck,US7AS,5,2.0
-764,Paloma,FRA1REG,5,0.0
-765,La Grande Dame,FRA1REG,5,1.0
-766,Soa de Muse,FRA1REG,5,5.0
-767,Lolita Banana,FRA1REG,5,3.0
-768,Gisele Lullaby,CAN3REG,5,5.0
-769,Jada Shada Hudson,CAN3REG,5,2.0
-770,Kimmy Couture,CAN3REG,5,0.0
-771,Miss Fiercalicious,CAN3REG,5,2.0
-772,Hanna Conda,AUS2REG,5,5.0
-773,Kween Kong,AUS2REG,5,5.0
-774,Spankie Jackzon,AUS2REG,5,5.0
-775,Eva Le Queen,PH1REG,5,2.0
-776,Marina Summers,PH1REG,5,5.0
-777,Precious Paula Nicole,PH1REG,5,3.0
-778,Xilhouete,PH1REG,5,3.0
-779,Black Peppa,UK4REG,5,2.0
-780,Cheddar Gorgeous,UK4REG,5,2.0
-781,Danny Beard,UK4REG,5,5.0
-782,Jonbers Blonde,UK4REG,5,3.0
-783,La Diamond,ITA2REG,5,2.0
-784,Aura Etherial,ITA2REG,5,3.0
-785,Nehllenia,ITA2REG,5,4.0
-786,Ra'jah O'Hara,CAN1WORLD,5,2.0
-787,Rita Baga,CAN1WORLD,5,5.0
-788,Silky Nutmeg Ganache,CAN1WORLD,5,0.0
-789,Victoria Scone,CAN1WORLD,5,4.0
-790,Anetra,US15REG,5,1.0
-791,Luxx Noir London,US15REG,5,2.0
-792,Mistress Isabelle Brookes,US15REG,5,3.0
-793,Sasha Colby,US15REG,5,3.0
-794,Athena Sorgelikis,BEL1REG,5,1.0
-795,Drag Couenne,BEL1REG,5,2.0
-796,Susan,BEL1REG,5,3.0
-797,Admira Thunderpussy,SWE1REG,5,5.0
-798,Fontana,SWE1REG,5,0.0
-799,Vanity Vain,SWE1REG,5,3.0
-800,Chad Michaels,US1AS,6,
-801,Raven,US1AS,6,
-802,Jujubee,US1AS,6,
-803,Shannel,US1AS,6,
-804,Alaska,US2AS,6,5.0
-805,Detox,US2AS,6,2.0
-806,Katya,US2AS,6,4.0
-807,Roxxxy Andrews,US2AS,6,0.0
-808,Trixie Mattel,US3AS,6,0.0
-809,Kennedy Davenport,US3AS,6,0.0
-810,BeBe Zahara Benet,US3AS,6,4.0
-811,Shangela,US3AS,6,0.0
-812,Monet X Change,US4AS,6,2.0
-813,Trinity the Tuck,US4AS,6,2.0
-814,Monique Heart,US4AS,6,2.0
-815,Naomi Smalls,US4AS,6,2.0
-816,Jujubee,US5AS,6,3.0
-817,Shea Coulee,US5AS,6,3.0
-818,Miz Cracker,US5AS,6,4.0
-819,Priyanka,CAN1REG,6,2.0
-820,Rita Baga,CAN1REG,6,5.0
-821,Scarlett BoBo,CAN1REG,6,3.0
-822,Envy Peru,HOL1REG,6,5.0
-823,Janey Jacke,HOL1REG,6,0.0
-824,Ma'Ma Queen,HOL1REG,6,1.0
-825,Miss Abby OMG,HOL1REG,6,3.0
-826,Natalia Pilacam,THI1REG,6,3.0
-827,Annee Maywong,THI1REG,6,3.0
-828,Dearis Doll,THI1REG,6,5.0
-829,The Vivienne,UK1REG,6,5.0
-830,Divina de Campo,UK1REG,6,3.0
-831,Baga Chipz,UK1REG,6,1.0
-832,Bebe Zahara Benet,US1REG,6,5.0
-833,Nina Flowers,US1REG,6,3.0
-834,Rebbeca Glasscock,US1REG,6,0.0
-835,Aquaria,US10REG,6,2.0
-836,Eureka,US10REG,6,5.0
-837,Kameron Michaels,US10REG,6,3.0
-838,Asia O'Hara,US10REG,6,2.0
-839,Yvie Oddly,US11REG,6,3.0
-840,Brooke Lynn Hytes,US11REG,6,3.0
-841,A'keria Davenport,US11REG,6,5.0
-842,Silky Nutmeg Ganache,US11REG,6,3.0
-843,Jaida Essence Hall,US12REG,6,2.0
-844,Crystal Methyd,US12REG,6,1.0
-845,Gigi Goode,US12REG,6,5.0
-846,Symone,US13REG,6,2.0
-847,Kandy Muse,US13REG,6,0.0
-848,Gottmik,US13REG,6,2.0
-849,Rose,US13REG,6,2.0
-850,Angele Anang,THI2REG,6,4.0
-851,Kana Warrior,THI2REG,6,
-852,Kandy Zyanide,THI2REG,6,
-853,Lawrence Chaney,UK2REG,6,0.0
-854,Bimini Bon Boulash,UK2REG,6,5.0
-855,Tayce,UK2REG,6,3.0
-856,Ellie Diamond,UK2REG,6,2.0
-857,Tyra Sanchez,US2REG,6,1.0
-858,Raven,US2REG,6,3.0
-859,Jujubee,US2REG,6,0.0
-860,Raja,US3REG,6,5.0
-861,Manila Luzon,US3REG,6,3.0
-862,Alexis Mateo,US3REG,6,0.0
-863,Sharon Needles,US4REG,6,2.0
-864,Chad Michaels,US4REG,6,2.0
-865,Phi Phi O'Hara,US4REG,6,3.0
-866,Jinkx Monsoon,US5REG,6,3.0
-867,Alaska,US5REG,6,1.0
-868,Roxxxy Andrews,US5REG,6,3.0
-869,Bianca Del Rio,US6REG,6,3.0
-870,Adore Delano,US6REG,6,5.0
-871,Courtney Act,US6REG,6,2.0
-872,Violet Chachki,US7REG,6,2.0
-873,Ginger Minj,US7REG,6,3.0
-874,Pearl,US7REG,6,2.0
-875,Bob the Drag Queen,US8REG,6,2.0
-876,Kim Chi,US8REG,6,3.0
-877,Naomi Smalls,US8REG,6,5.0
-878,Sasha Velour,US9REG,6,3.0
-879,Peppermint,US9REG,6,0.0
-880,Shea Coulee,US9REG,6,2.0
-881,Trinity the Tuck,US9REG,6,2.0
-882,Kita Mean,AUS1REG,6,5.0
-883,Art Simone,AUS1REG,6,2.0
-884,Karen from Finance,AUS1REG,6,3.0
-885,Scarlet Adams,AUS1REG,6,0.0
-886,Carmen Farala,ESP1REG,6,5.0
-887,Killer Queen,ESP1REG,6,3.0
-888,Sagittaria,ESP1REG,6,0.0
-889,Pupi Poisson,ESP1REG,6,1.0
-890,Kylie Sonique Love,US6AS,6,5.0
-891,Ginger Minj,US6AS,6,3.0
-892,Ra'jah O'Hara,US6AS,6,0.0
-893,Eureka,US6AS,6,1.0
-894,Vanessa Van Cartier,HOL2REG,6,1.0
-895,My Little Puny,HOL2REG,6,3.0
-896,Vivaldi,HOL2REG,6,0.0
-897,Ella Vaday,UK3REG,6,5.0
-898,Kitty Scott-Claus,UK3REG,6,3.0
-899,Krystal Versace,UK3REG,6,1.0
-900,Icesis Couture,CAN2REG,6,5.0
-901,Kendall Gender,CAN2REG,6,0.0
-902,Pythia,CAN2REG,6,3.0
-903,Farida Kant,ITA1REG,6,
-904,Elecktra Bionic,ITA1REG,6,
-905,Le Riche,ITA1REG,6,
-906,Luquisha Lubamba,ITA1REG,6,
-907,Blu Hydrangea,UK1WORLD,6,
-908,Mo Heart,UK1WORLD,6,
-909,Baga Chipz,UK1WORLD,6,
-910,Jujubee,UK1WORLD,6,
-911,Angeria Paris VanMichaels,US14REG,6,3.0
-912,Bosco,US14REG,6,2.0
-913,Daya Betty,US14REG,6,2.0
-914,Lady Camden,US14REG,6,3.0
-915,Willow Pill,US14REG,6,2.0
-916,Estrella Xtravaganza,ESP2REG,6,0.0
-917,Sharonne,ESP2REG,6,2.0
-918,Venedita Von Dash,ESP2REG,6,3.0
-919,Marina,ESP2REG,6,1.0
-920,Jinkx Monsoon,US7AS,6,2.0
-921,Monet X Change,US7AS,6,3.0
-922,Shea Coulee,US7AS,6,3.0
-923,Trinity the Tuck,US7AS,6,2.0
-924,Paloma,FRA1REG,6,5.0
-925,La Grande Dame,FRA1REG,6,2.0
-926,Soa de Muse,FRA1REG,6,3.0
-927,Lolita Banana,FRA1REG,6,0.0
-928,Gisele Lullaby,CAN3REG,6,1.0
-929,Jada Shada Hudson,CAN3REG,6,3.0
-930,Kimmy Couture,CAN3REG,6,2.0
-931,Miss Fiercalicious,CAN3REG,6,5.0
-932,Hanna Conda,AUS2REG,6,5.0
-933,Kween Kong,AUS2REG,6,0.0
-934,Spankie Jackzon,AUS2REG,6,3.0
-935,Eva Le Queen,PH1REG,6,3.0
-936,Marina Summers,PH1REG,6,3.0
-937,Precious Paula Nicole,PH1REG,6,2.0
-938,Xilhouete,PH1REG,6,5.0
-939,Black Peppa,UK4REG,6,0.0
-940,Cheddar Gorgeous,UK4REG,6,5.0
-941,Danny Beard,UK4REG,6,2.0
-942,Jonbers Blonde,UK4REG,6,3.0
-943,La Diamond,ITA2REG,6,2.0
-944,Aura Etherial,ITA2REG,6,2.0
-945,Nehllenia,ITA2REG,6,5.0
-946,Ra'jah O'Hara,CAN1WORLD,6,
-947,Rita Baga,CAN1WORLD,6,
-948,Silky Nutmeg Ganache,CAN1WORLD,6,
-949,Victoria Scone,CAN1WORLD,6,
-950,Anetra,US15REG,6,3.0
-951,Luxx Noir London,US15REG,6,2.0
-952,Mistress Isabelle Brookes,US15REG,6,5.0
-953,Sasha Colby,US15REG,6,2.0
-954,Athena Sorgelikis,BEL1REG,6,5.0
-955,Drag Couenne,BEL1REG,6,3.0
-956,Susan,BEL1REG,6,1.0
-957,Admira Thunderpussy,SWE1REG,6,1.0
-958,Fontana,SWE1REG,6,5.0
-959,Vanity Vain,SWE1REG,6,3.0
-960,Chad Michaels,US1AS,7,
-961,Raven,US1AS,7,
-962,Jujubee,US1AS,7,
-963,Shannel,US1AS,7,
-964,Alaska,US2AS,7,0.0
-965,Detox,US2AS,7,5.0
-966,Katya,US2AS,7,4.0
-967,Roxxxy Andrews,US2AS,7,0.0
-968,Trixie Mattel,US3AS,7,4.0
-969,Kennedy Davenport,US3AS,7,0.0
-970,BeBe Zahara Benet,US3AS,7,0.0
-971,Shangela,US3AS,7,5.0
-972,Monet X Change,US4AS,7,2.0
-973,Trinity the Tuck,US4AS,7,4.0
-974,Monique Heart,US4AS,7,2.0
-975,Naomi Smalls,US4AS,7,0.0
-976,Jujubee,US5AS,7,3.0
-977,Shea Coulee,US5AS,7,1.0
-978,Miz Cracker,US5AS,7,5.0
-979,Priyanka,CAN1REG,7,0.0
-980,Rita Baga,CAN1REG,7,2.0
-981,Scarlett BoBo,CAN1REG,7,3.0
-982,Envy Peru,HOL1REG,7,2.0
-983,Janey Jacke,HOL1REG,7,5.0
-984,Ma'Ma Queen,HOL1REG,7,0.0
-985,Miss Abby OMG,HOL1REG,7,0.0
-986,Natalia Pilacam,THI1REG,7,3.0
-987,Annee Maywong,THI1REG,7,5.0
-988,Dearis Doll,THI1REG,7,0.0
-989,The Vivienne,UK1REG,7,3.0
-990,Divina de Campo,UK1REG,7,5.0
-991,Baga Chipz,UK1REG,7,0.0
-992,Bebe Zahara Benet,US1REG,7,
-993,Nina Flowers,US1REG,7,
-994,Rebbeca Glasscock,US1REG,7,
-995,Aquaria,US10REG,7,5.0
-996,Eureka,US10REG,7,3.0
-997,Kameron Michaels,US10REG,7,2.0
-998,Asia O'Hara,US10REG,7,1.0
-999,Yvie Oddly,US11REG,7,3.0
-1000,Brooke Lynn Hytes,US11REG,7,3.0
-1001,A'keria Davenport,US11REG,7,0.0
-1002,Silky Nutmeg Ganache,US11REG,7,2.0
-1003,Jaida Essence Hall,US12REG,7,2.0
-1004,Crystal Methyd,US12REG,7,3.0
-1005,Gigi Goode,US12REG,7,5.0
-1006,Symone,US13REG,7,3.0
-1007,Kandy Muse,US13REG,7,3.0
-1008,Gottmik,US13REG,7,2.0
-1009,Rose,US13REG,7,2.0
-1010,Angele Anang,THI2REG,7,4.0
-1011,Kana Warrior,THI2REG,7,
-1012,Kandy Zyanide,THI2REG,7,
-1013,Lawrence Chaney,UK2REG,7,1.0
-1014,Bimini Bon Boulash,UK2REG,7,2.0
-1015,Tayce,UK2REG,7,0.0
-1016,Ellie Diamond,UK2REG,7,3.0
-1017,Tyra Sanchez,US2REG,7,3.0
-1018,Raven,US2REG,7,5.0
-1019,Jujubee,US2REG,7,3.0
-1020,Raja,US3REG,7,3.0
-1021,Manila Luzon,US3REG,7,0.0
-1022,Alexis Mateo,US3REG,7,2.0
-1023,Sharon Needles,US4REG,7,3.0
-1024,Chad Michaels,US4REG,7,1.0
-1025,Phi Phi O'Hara,US4REG,7,5.0
-1026,Jinkx Monsoon,US5REG,7,3.0
-1027,Alaska,US5REG,7,1.0
-1028,Roxxxy Andrews,US5REG,7,0.0
-1029,Bianca Del Rio,US6REG,7,3.0
-1030,Adore Delano,US6REG,7,5.0
-1031,Courtney Act,US6REG,7,1.0
-1032,Violet Chachki,US7REG,7,2.0
-1033,Ginger Minj,US7REG,7,5.0
-1034,Pearl,US7REG,7,2.0
-1035,Bob the Drag Queen,US8REG,7,5.0
-1036,Kim Chi,US8REG,7,1.0
-1037,Naomi Smalls,US8REG,7,3.0
-1038,Sasha Velour,US9REG,7,1.0
-1039,Peppermint,US9REG,7,2.0
-1040,Shea Coulee,US9REG,7,3.0
-1041,Trinity the Tuck,US9REG,7,5.0
-1042,Kita Mean,AUS1REG,7,0.0
-1043,Art Simone,AUS1REG,7,1.0
-1044,Karen from Finance,AUS1REG,7,1.0
-1045,Scarlet Adams,AUS1REG,7,5.0
-1046,Carmen Farala,ESP1REG,7,5.0
-1047,Killer Queen,ESP1REG,7,0.0
-1048,Sagittaria,ESP1REG,7,0.0
-1049,Pupi Poisson,ESP1REG,7,0.0
-1050,Kylie Sonique Love,US6AS,7,3.0
-1051,Ginger Minj,US6AS,7,2.0
-1052,Ra'jah O'Hara,US6AS,7,3.0
-1053,Eureka,US6AS,7,2.0
-1054,Vanessa Van Cartier,HOL2REG,7,2.0
-1055,My Little Puny,HOL2REG,7,5.0
-1056,Vivaldi,HOL2REG,7,0.0
-1057,Ella Vaday,UK3REG,7,3.0
-1058,Kitty Scott-Claus,UK3REG,7,5.0
-1059,Krystal Versace,UK3REG,7,3.0
-1060,Icesis Couture,CAN2REG,7,3.0
-1061,Kendall Gender,CAN2REG,7,5.0
-1062,Pythia,CAN2REG,7,2.0
-1063,Farida Kant,ITA1REG,7,
-1064,Elecktra Bionic,ITA1REG,7,
-1065,Le Riche,ITA1REG,7,
-1066,Luquisha Lubamba,ITA1REG,7,
-1067,Blu Hydrangea,UK1WORLD,7,
-1068,Mo Heart,UK1WORLD,7,
-1069,Baga Chipz,UK1WORLD,7,
-1070,Jujubee,UK1WORLD,7,
-1071,Angeria Paris VanMichaels,US14REG,7,2.0
-1072,Bosco,US14REG,7,3.0
-1073,Daya Betty,US14REG,7,4.0
-1074,Lady Camden,US14REG,7,5.0
-1075,Willow Pill,US14REG,7,3.0
-1076,Estrella Xtravaganza,ESP2REG,7,5.0
-1077,Sharonne,ESP2REG,7,5.0
-1078,Venedita Von Dash,ESP2REG,7,3.0
-1079,Marina,ESP2REG,7,0.0
-1080,Jinkx Monsoon,US7AS,7,2.0
-1081,Monet X Change,US7AS,7,3.0
-1082,Shea Coulee,US7AS,7,3.0
-1083,Trinity the Tuck,US7AS,7,5.0
-1084,Paloma,FRA1REG,7,2.0
-1085,La Grande Dame,FRA1REG,7,2.0
-1086,Soa de Muse,FRA1REG,7,2.0
-1087,Lolita Banana,FRA1REG,7,0.0
-1088,Gisele Lullaby,CAN3REG,7,0.0
-1089,Jada Shada Hudson,CAN3REG,7,1.0
-1090,Kimmy Couture,CAN3REG,7,3.0
-1091,Miss Fiercalicious,CAN3REG,7,3.0
-1092,Hanna Conda,AUS2REG,7,0.0
-1093,Kween Kong,AUS2REG,7,5.0
-1094,Spankie Jackzon,AUS2REG,7,3.0
-1095,Eva Le Queen,PH1REG,7,0.0
-1096,Marina Summers,PH1REG,7,3.0
-1097,Precious Paula Nicole,PH1REG,7,1.0
-1098,Xilhouete,PH1REG,7,3.0
-1099,Black Peppa,UK4REG,7,2.0
-1100,Cheddar Gorgeous,UK4REG,7,5.0
-1101,Danny Beard,UK4REG,7,3.0
-1102,Jonbers Blonde,UK4REG,7,1.0
-1103,La Diamond,ITA2REG,7,5.0
-1104,Aura Etherial,ITA2REG,7,3.0
-1105,Nehllenia,ITA2REG,7,1.0
-1106,Ra'jah O'Hara,CAN1WORLD,7,
-1107,Rita Baga,CAN1WORLD,7,
-1108,Silky Nutmeg Ganache,CAN1WORLD,7,
-1109,Victoria Scone,CAN1WORLD,7,
-1110,Anetra,US15REG,7,0.0
-1111,Luxx Noir London,US15REG,7,2.0
-1112,Mistress Isabelle Brookes,US15REG,7,2.0
-1113,Sasha Colby,US15REG,7,2.0
-1114,Athena Sorgelikis,BEL1REG,7,0.0
-1115,Drag Couenne,BEL1REG,7,5.0
-1116,Susan,BEL1REG,7,1.0
-1117,Admira Thunderpussy,SWE1REG,7,5.0
-1118,Fontana,SWE1REG,7,2.0
-1119,Vanity Vain,SWE1REG,7,0.0
-1120,Chad Michaels,US1AS,8,
-1121,Raven,US1AS,8,
-1122,Jujubee,US1AS,8,
-1123,Shannel,US1AS,8,
-1124,Alaska,US2AS,8,
-1125,Detox,US2AS,8,
-1126,Katya,US2AS,8,
-1127,Roxxxy Andrews,US2AS,8,
-1128,Trixie Mattel,US3AS,8,
-1129,Kennedy Davenport,US3AS,8,
-1130,BeBe Zahara Benet,US3AS,8,
-1131,Shangela,US3AS,8,
-1132,Monet X Change,US4AS,8,4.0
-1133,Trinity the Tuck,US4AS,8,3.0
-1134,Monique Heart,US4AS,8,3.0
-1135,Naomi Smalls,US4AS,8,5.0
-1136,Jujubee,US5AS,8,
-1137,Shea Coulee,US5AS,8,
-1138,Miz Cracker,US5AS,8,
-1139,Priyanka,CAN1REG,8,5.0
-1140,Rita Baga,CAN1REG,8,0.0
-1141,Scarlett BoBo,CAN1REG,8,3.0
-1142,Envy Peru,HOL1REG,8,
-1143,Janey Jacke,HOL1REG,8,
-1144,Ma'Ma Queen,HOL1REG,8,
-1145,Miss Abby OMG,HOL1REG,8,
-1146,Natalia Pilacam,THI1REG,8,
-1147,Annee Maywong,THI1REG,8,
-1148,Dearis Doll,THI1REG,8,
-1149,The Vivienne,UK1REG,8,
-1150,Divina de Campo,UK1REG,8,
-1151,Baga Chipz,UK1REG,8,
-1152,Bebe Zahara Benet,US1REG,8,
-1153,Nina Flowers,US1REG,8,
-1154,Rebbeca Glasscock,US1REG,8,
-1155,Aquaria,US10REG,8,1.0
-1156,Eureka,US10REG,8,2.0
-1157,Kameron Michaels,US10REG,8,5.0
-1158,Asia O'Hara,US10REG,8,0.0
-1159,Yvie Oddly,US11REG,8,0.0
-1160,Brooke Lynn Hytes,US11REG,8,0.0
-1161,A'keria Davenport,US11REG,8,2.0
-1162,Silky Nutmeg Ganache,US11REG,8,5.0
-1163,Jaida Essence Hall,US12REG,8,3.0
-1164,Crystal Methyd,US12REG,8,3.0
-1165,Gigi Goode,US12REG,8,1.0
-1166,Symone,US13REG,8,0.0
-1167,Kandy Muse,US13REG,8,0.0
-1168,Gottmik,US13REG,8,3.0
-1169,Rose,US13REG,8,5.0
-1170,Angele Anang,THI2REG,8,4.0
-1171,Kana Warrior,THI2REG,8,3.0
-1172,Kandy Zyanide,THI2REG,8,3.0
-1173,Lawrence Chaney,UK2REG,8,3.0
-1174,Bimini Bon Boulash,UK2REG,8,5.0
-1175,Tayce,UK2REG,8,0.0
-1176,Ellie Diamond,UK2REG,8,1.0
-1177,Tyra Sanchez,US2REG,8,3.0
-1178,Raven,US2REG,8,5.0
-1179,Jujubee,US2REG,8,0.0
-1180,Raja,US3REG,8,1.0
-1181,Manila Luzon,US3REG,8,1.0
-1182,Alexis Mateo,US3REG,8,5.0
-1183,Sharon Needles,US4REG,8,0.0
-1184,Chad Michaels,US4REG,8,2.0
-1185,Phi Phi O'Hara,US4REG,8,0.0
-1186,Jinkx Monsoon,US5REG,8,3.0
-1187,Alaska,US5REG,8,5.0
-1188,Roxxxy Andrews,US5REG,8,1.0
-1189,Bianca Del Rio,US6REG,8,5.0
-1190,Adore Delano,US6REG,8,2.0
-1191,Courtney Act,US6REG,8,2.0
-1192,Violet Chachki,US7REG,8,3.0
-1193,Ginger Minj,US7REG,8,0.0
-1194,Pearl,US7REG,8,5.0
-1195,Bob the Drag Queen,US8REG,8,0.0
-1196,Kim Chi,US8REG,8,5.0
-1197,Naomi Smalls,US8REG,8,3.0
-1198,Sasha Velour,US9REG,8,3.0
-1199,Peppermint,US9REG,8,5.0
-1200,Shea Coulee,US9REG,8,3.0
-1201,Trinity the Tuck,US9REG,8,1.0
-1202,Kita Mean,AUS1REG,8,
-1203,Art Simone,AUS1REG,8,
-1204,Karen from Finance,AUS1REG,8,
-1205,Scarlet Adams,AUS1REG,8,
-1206,Carmen Farala,ESP1REG,8,
-1207,Killer Queen,ESP1REG,8,
-1208,Sagittaria,ESP1REG,8,
-1209,Pupi Poisson,ESP1REG,8,
-1210,Kylie Sonique Love,US6AS,8,3.0
-1211,Ginger Minj,US6AS,8,5.0
-1212,Ra'jah O'Hara,US6AS,8,2.0
-1213,Eureka,US6AS,8,2.0
-1214,Vanessa Van Cartier,HOL2REG,8,
-1215,My Little Puny,HOL2REG,8,
-1216,Vivaldi,HOL2REG,8,
-1217,Ella Vaday,UK3REG,8,5.0
-1218,Kitty Scott-Claus,UK3REG,8,5.0
-1219,Krystal Versace,UK3REG,8,3.0
-1220,Icesis Couture,CAN2REG,8,0.0
-1221,Kendall Gender,CAN2REG,8,1.0
-1222,Pythia,CAN2REG,8,5.0
-1223,Farida Kant,ITA1REG,8,
-1224,Elecktra Bionic,ITA1REG,8,
-1225,Le Riche,ITA1REG,8,
-1226,Luquisha Lubamba,ITA1REG,8,
-1227,Blu Hydrangea,UK1WORLD,8,
-1228,Mo Heart,UK1WORLD,8,
-1229,Baga Chipz,UK1WORLD,8,
-1230,Jujubee,UK1WORLD,8,
-1231,Angeria Paris VanMichaels,US14REG,8,3.0
-1232,Bosco,US14REG,8,2.0
-1233,Daya Betty,US14REG,8,5.0
-1234,Lady Camden,US14REG,8,1.0
-1235,Willow Pill,US14REG,8,2.0
-1236,Estrella Xtravaganza,ESP2REG,8,2.0
-1237,Sharonne,ESP2REG,8,3.0
-1238,Venedita Von Dash,ESP2REG,8,0.0
-1239,Marina,ESP2REG,8,5.0
-1240,Jinkx Monsoon,US7AS,8,2.0
-1241,Monet X Change,US7AS,8,2.0
-1242,Shea Coulee,US7AS,8,2.0
-1243,Trinity the Tuck,US7AS,8,3.0
-1244,Paloma,FRA1REG,8,
-1245,La Grande Dame,FRA1REG,8,
-1246,Soa de Muse,FRA1REG,8,
-1247,Lolita Banana,FRA1REG,8,
-1248,Gisele Lullaby,CAN3REG,8,3.0
-1249,Jada Shada Hudson,CAN3REG,8,2.0
-1250,Kimmy Couture,CAN3REG,8,0.0
-1251,Miss Fiercalicious,CAN3REG,8,5.0
-1252,Hanna Conda,AUS2REG,8,
-1253,Kween Kong,AUS2REG,8,
-1254,Spankie Jackzon,AUS2REG,8,
-1255,Eva Le Queen,PH1REG,8,3.0
-1256,Marina Summers,PH1REG,8,1.0
-1257,Precious Paula Nicole,PH1REG,8,3.0
-1258,Xilhouete,PH1REG,8,5.0
-1259,Black Peppa,UK4REG,8,0.0
-1260,Cheddar Gorgeous,UK4REG,8,5.0
-1261,Danny Beard,UK4REG,8,3.0
-1262,Jonbers Blonde,UK4REG,8,0.0
-1263,La Diamond,ITA2REG,8,
-1264,Aura Etherial,ITA2REG,8,
-1265,Nehllenia,ITA2REG,8,
-1266,Ra'jah O'Hara,CAN1WORLD,8,
-1267,Rita Baga,CAN1WORLD,8,
-1268,Silky Nutmeg Ganache,CAN1WORLD,8,
-1269,Victoria Scone,CAN1WORLD,8,
-1270,Anetra,US15REG,8,3.0
-1271,Luxx Noir London,US15REG,8,2.0
-1272,Mistress Isabelle Brookes,US15REG,8,3.0
-1273,Sasha Colby,US15REG,8,5.0
-1274,Athena Sorgelikis,BEL1REG,8,
-1275,Drag Couenne,BEL1REG,8,
-1276,Susan,BEL1REG,8,
-1277,Admira Thunderpussy,SWE1REG,8,
-1278,Fontana,SWE1REG,8,
-1279,Vanity Vain,SWE1REG,8,
-1280,Chad Michaels,US1AS,9,
-1281,Raven,US1AS,9,
-1282,Jujubee,US1AS,9,
-1283,Shannel,US1AS,9,
-1284,Alaska,US2AS,9,
-1285,Detox,US2AS,9,
-1286,Katya,US2AS,9,
-1287,Roxxxy Andrews,US2AS,9,
-1288,Trixie Mattel,US3AS,9,
-1289,Kennedy Davenport,US3AS,9,
-1290,BeBe Zahara Benet,US3AS,9,
-1291,Shangela,US3AS,9,
-1292,Monet X Change,US4AS,9,0.0
-1293,Trinity the Tuck,US4AS,9,5.0
-1294,Monique Heart,US4AS,9,4.0
-1295,Naomi Smalls,US4AS,9,0.0
-1296,Jujubee,US5AS,9,
-1297,Shea Coulee,US5AS,9,
-1298,Miz Cracker,US5AS,9,
-1299,Priyanka,CAN1REG,9,3.0
-1300,Rita Baga,CAN1REG,9,0.0
-1301,Scarlett BoBo,CAN1REG,9,5.0
-1302,Envy Peru,HOL1REG,9,
-1303,Janey Jacke,HOL1REG,9,
-1304,Ma'Ma Queen,HOL1REG,9,
-1305,Miss Abby OMG,HOL1REG,9,
-1306,Natalia Pilacam,THI1REG,9,
-1307,Annee Maywong,THI1REG,9,
-1308,Dearis Doll,THI1REG,9,
-1309,The Vivienne,UK1REG,9,
-1310,Divina de Campo,UK1REG,9,
-1311,Baga Chipz,UK1REG,9,
-1312,Bebe Zahara Benet,US1REG,9,
-1313,Nina Flowers,US1REG,9,
-1314,Rebbeca Glasscock,US1REG,9,
-1315,Aquaria,US10REG,9,3.0
-1316,Eureka,US10REG,9,0.0
-1317,Kameron Michaels,US10REG,9,0.0
-1318,Asia O'Hara,US10REG,9,5.0
-1319,Yvie Oddly,US11REG,9,2.0
-1320,Brooke Lynn Hytes,US11REG,9,3.0
-1321,A'keria Davenport,US11REG,9,5.0
-1322,Silky Nutmeg Ganache,US11REG,9,3.0
-1323,Jaida Essence Hall,US12REG,9,5.0
-1324,Crystal Methyd,US12REG,9,3.0
-1325,Gigi Goode,US12REG,9,1.0
-1326,Symone,US13REG,9,2.0
-1327,Kandy Muse,US13REG,9,2.0
-1328,Gottmik,US13REG,9,5.0
-1329,Rose,US13REG,9,3.0
-1330,Angele Anang,THI2REG,9,0.0
-1331,Kana Warrior,THI2REG,9,0.0
-1332,Kandy Zyanide,THI2REG,9,5.0
-1333,Lawrence Chaney,UK2REG,9,3.0
-1334,Bimini Bon Boulash,UK2REG,9,5.0
-1335,Tayce,UK2REG,9,0.0
-1336,Ellie Diamond,UK2REG,9,0.0
-1337,Tyra Sanchez,US2REG,9,5.0
-1338,Raven,US2REG,9,3.0
-1339,Jujubee,US2REG,9,0.0
-1340,Raja,US3REG,9,5.0
-1341,Manila Luzon,US3REG,9,3.0
-1342,Alexis Mateo,US3REG,9,2.0
-1343,Sharon Needles,US4REG,9,5.0
-1344,Chad Michaels,US4REG,9,3.0
-1345,Phi Phi O'Hara,US4REG,9,1.0
-1346,Jinkx Monsoon,US5REG,9,5.0
-1347,Alaska,US5REG,9,3.0
-1348,Roxxxy Andrews,US5REG,9,3.0
-1349,Bianca Del Rio,US6REG,9,2.0
-1350,Adore Delano,US6REG,9,0.0
-1351,Courtney Act,US6REG,9,5.0
-1352,Violet Chachki,US7REG,9,1.0
-1353,Ginger Minj,US7REG,9,5.0
-1354,Pearl,US7REG,9,0.0
-1355,Bob the Drag Queen,US8REG,9,2.0
-1356,Kim Chi,US8REG,9,2.0
-1357,Naomi Smalls,US8REG,9,2.0
-1358,Sasha Velour,US9REG,9,5.0
-1359,Peppermint,US9REG,9,3.0
-1360,Shea Coulee,US9REG,9,5.0
-1361,Trinity the Tuck,US9REG,9,3.0
-1362,Kita Mean,AUS1REG,9,
-1363,Art Simone,AUS1REG,9,
-1364,Karen from Finance,AUS1REG,9,
-1365,Scarlet Adams,AUS1REG,9,
-1366,Carmen Farala,ESP1REG,9,
-1367,Killer Queen,ESP1REG,9,
-1368,Sagittaria,ESP1REG,9,
-1369,Pupi Poisson,ESP1REG,9,
-1370,Kylie Sonique Love,US6AS,9,1.0
-1371,Ginger Minj,US6AS,9,3.0
-1372,Ra'jah O'Hara,US6AS,9,4.0
-1373,Eureka,US6AS,9,0.0
-1374,Vanessa Van Cartier,HOL2REG,9,
-1375,My Little Puny,HOL2REG,9,
-1376,Vivaldi,HOL2REG,9,
-1377,Ella Vaday,UK3REG,9,5.0
-1378,Kitty Scott-Claus,UK3REG,9,3.0
-1379,Krystal Versace,UK3REG,9,0.0
-1380,Icesis Couture,CAN2REG,9,2.0
-1381,Kendall Gender,CAN2REG,9,2.0
-1382,Pythia,CAN2REG,9,2.0
-1383,Farida Kant,ITA1REG,9,
-1384,Elecktra Bionic,ITA1REG,9,
-1385,Le Riche,ITA1REG,9,
-1386,Luquisha Lubamba,ITA1REG,9,
-1387,Blu Hydrangea,UK1WORLD,9,
-1388,Mo Heart,UK1WORLD,9,
-1389,Baga Chipz,UK1WORLD,9,
-1390,Jujubee,UK1WORLD,9,
-1391,Angeria Paris VanMichaels,US14REG,9,2.0
-1392,Bosco,US14REG,9,5.0
-1393,Daya Betty,US14REG,9,1.0
-1394,Lady Camden,US14REG,9,2.0
-1395,Willow Pill,US14REG,9,3.0
-1396,Estrella Xtravaganza,ESP2REG,9,0.0
-1397,Sharonne,ESP2REG,9,3.0
-1398,Venedita Von Dash,ESP2REG,9,5.0
-1399,Marina,ESP2REG,9,0.0
-1400,Jinkx Monsoon,US7AS,9,4.0
-1401,Monet X Change,US7AS,9,5.0
-1402,Shea Coulee,US7AS,9,3.0
-1403,Trinity the Tuck,US7AS,9,2.0
-1404,Paloma,FRA1REG,9,
-1405,La Grande Dame,FRA1REG,9,
-1406,Soa de Muse,FRA1REG,9,
-1407,Lolita Banana,FRA1REG,9,
-1408,Gisele Lullaby,CAN3REG,9,
-1409,Jada Shada Hudson,CAN3REG,9,
-1410,Kimmy Couture,CAN3REG,9,
-1411,Miss Fiercalicious,CAN3REG,9,
-1412,Hanna Conda,AUS2REG,9,
-1413,Kween Kong,AUS2REG,9,
-1414,Spankie Jackzon,AUS2REG,9,
-1415,Eva Le Queen,PH1REG,9,3.0
-1416,Marina Summers,PH1REG,9,5.0
-1417,Precious Paula Nicole,PH1REG,9,3.0
-1418,Xilhouete,PH1REG,9,0.0
-1419,Black Peppa,UK4REG,9,0.0
-1420,Cheddar Gorgeous,UK4REG,9,1.0
-1421,Danny Beard,UK4REG,9,5.0
-1422,Jonbers Blonde,UK4REG,9,3.0
-1423,La Diamond,ITA2REG,9,
-1424,Aura Etherial,ITA2REG,9,
-1425,Nehllenia,ITA2REG,9,
-1426,Ra'jah O'Hara,CAN1WORLD,9,
-1427,Rita Baga,CAN1WORLD,9,
-1428,Silky Nutmeg Ganache,CAN1WORLD,9,
-1429,Victoria Scone,CAN1WORLD,9,
-1430,Anetra,US15REG,9,2.0
-1431,Luxx Noir London,US15REG,9,3.0
-1432,Mistress Isabelle Brookes,US15REG,9,1.0
-1433,Sasha Colby,US15REG,9,5.0
-1434,Athena Sorgelikis,BEL1REG,9,
-1435,Drag Couenne,BEL1REG,9,
-1436,Susan,BEL1REG,9,
-1437,Admira Thunderpussy,SWE1REG,9,
-1438,Fontana,SWE1REG,9,
-1439,Vanity Vain,SWE1REG,9,
-1440,Chad Michaels,US1AS,10,
-1441,Raven,US1AS,10,
-1442,Jujubee,US1AS,10,
-1443,Shannel,US1AS,10,
-1444,Alaska,US2AS,10,
-1445,Detox,US2AS,10,
-1446,Katya,US2AS,10,
-1447,Roxxxy Andrews,US2AS,10,
-1448,Trixie Mattel,US3AS,10,
-1449,Kennedy Davenport,US3AS,10,
-1450,BeBe Zahara Benet,US3AS,10,
-1451,Shangela,US3AS,10,
-1452,Monet X Change,US4AS,10,
-1453,Trinity the Tuck,US4AS,10,
-1454,Monique Heart,US4AS,10,
-1455,Naomi Smalls,US4AS,10,
-1456,Jujubee,US5AS,10,
-1457,Shea Coulee,US5AS,10,
-1458,Miz Cracker,US5AS,10,
-1459,Priyanka,CAN1REG,10,
-1460,Rita Baga,CAN1REG,10,
-1461,Scarlett BoBo,CAN1REG,10,
-1462,Envy Peru,HOL1REG,10,
-1463,Janey Jacke,HOL1REG,10,
-1464,Ma'Ma Queen,HOL1REG,10,
-1465,Miss Abby OMG,HOL1REG,10,
-1466,Natalia Pilacam,THI1REG,10,
-1467,Annee Maywong,THI1REG,10,
-1468,Dearis Doll,THI1REG,10,
-1469,The Vivienne,UK1REG,10,
-1470,Divina de Campo,UK1REG,10,
-1471,Baga Chipz,UK1REG,10,
-1472,Bebe Zahara Benet,US1REG,10,
-1473,Nina Flowers,US1REG,10,
-1474,Rebbeca Glasscock,US1REG,10,
-1475,Aquaria,US10REG,10,1.0
-1476,Eureka,US10REG,10,3.0
-1477,Kameron Michaels,US10REG,10,0.0
-1478,Asia O'Hara,US10REG,10,3.0
-1479,Yvie Oddly,US11REG,10,2.0
-1480,Brooke Lynn Hytes,US11REG,10,3.0
-1481,A'keria Davenport,US11REG,10,2.0
-1482,Silky Nutmeg Ganache,US11REG,10,1.0
-1483,Jaida Essence Hall,US12REG,10,5.0
-1484,Crystal Methyd,US12REG,10,3.0
-1485,Gigi Goode,US12REG,10,2.0
-1486,Symone,US13REG,10,5.0
-1487,Kandy Muse,US13REG,10,3.0
-1488,Gottmik,US13REG,10,3.0
-1489,Rose,US13REG,10,1.0
-1490,Angele Anang,THI2REG,10,3.0
-1491,Kana Warrior,THI2REG,10,4.0
-1492,Kandy Zyanide,THI2REG,10,4.0
-1493,Lawrence Chaney,UK2REG,10,
-1494,Bimini Bon Boulash,UK2REG,10,
-1495,Tayce,UK2REG,10,
-1496,Ellie Diamond,UK2REG,10,
-1497,Tyra Sanchez,US2REG,10,
-1498,Raven,US2REG,10,
-1499,Jujubee,US2REG,10,
-1500,Raja,US3REG,10,3.0
-1501,Manila Luzon,US3REG,10,3.0
-1502,Alexis Mateo,US3REG,10,0.0
-1503,Sharon Needles,US4REG,10,1.0
-1504,Chad Michaels,US4REG,10,3.0
-1505,Phi Phi O'Hara,US4REG,10,5.0
-1506,Jinkx Monsoon,US5REG,10,3.0
-1507,Alaska,US5REG,10,1.0
-1508,Roxxxy Andrews,US5REG,10,5.0
-1509,Bianca Del Rio,US6REG,10,5.0
-1510,Adore Delano,US6REG,10,0.0
-1511,Courtney Act,US6REG,10,1.0
-1512,Violet Chachki,US7REG,10,5.0
-1513,Ginger Minj,US7REG,10,0.0
-1514,Pearl,US7REG,10,2.0
-1515,Bob the Drag Queen,US8REG,10,
-1516,Kim Chi,US8REG,10,
-1517,Naomi Smalls,US8REG,10,
-1518,Sasha Velour,US9REG,10,3.0
-1519,Peppermint,US9REG,10,2.0
-1520,Shea Coulee,US9REG,10,0.0
-1521,Trinity the Tuck,US9REG,10,5.0
-1522,Kita Mean,AUS1REG,10,
-1523,Art Simone,AUS1REG,10,
-1524,Karen from Finance,AUS1REG,10,
-1525,Scarlet Adams,AUS1REG,10,
-1526,Carmen Farala,ESP1REG,10,
-1527,Killer Queen,ESP1REG,10,
-1528,Sagittaria,ESP1REG,10,
-1529,Pupi Poisson,ESP1REG,10,
-1530,Kylie Sonique Love,US6AS,10,
-1531,Ginger Minj,US6AS,10,
-1532,Ra'jah O'Hara,US6AS,10,
-1533,Eureka,US6AS,10,5.0
-1534,Vanessa Van Cartier,HOL2REG,10,
-1535,My Little Puny,HOL2REG,10,
-1536,Vivaldi,HOL2REG,10,
-1537,Ella Vaday,UK3REG,10,
-1538,Kitty Scott-Claus,UK3REG,10,
-1539,Krystal Versace,UK3REG,10,
-1540,Icesis Couture,CAN2REG,10,
-1541,Kendall Gender,CAN2REG,10,
-1542,Pythia,CAN2REG,10,
-1543,Farida Kant,ITA1REG,10,
-1544,Elecktra Bionic,ITA1REG,10,
-1545,Le Riche,ITA1REG,10,
-1546,Luquisha Lubamba,ITA1REG,10,
-1547,Blu Hydrangea,UK1WORLD,10,
-1548,Mo Heart,UK1WORLD,10,
-1549,Baga Chipz,UK1WORLD,10,
-1550,Jujubee,UK1WORLD,10,
-1551,Angeria Paris VanMichaels,US14REG,10,0.0
-1552,Bosco,US14REG,10,0.0
-1553,Daya Betty,US14REG,10,0.0
-1554,Lady Camden,US14REG,10,0.0
-1555,Willow Pill,US14REG,10,0.0
-1556,Estrella Xtravaganza,ESP2REG,10,
-1557,Sharonne,ESP2REG,10,
-1558,Venedita Von Dash,ESP2REG,10,
-1559,Marina,ESP2REG,10,
-1560,Jinkx Monsoon,US7AS,10,5.0
-1561,Monet X Change,US7AS,10,3.0
-1562,Shea Coulee,US7AS,10,2.0
-1563,Trinity the Tuck,US7AS,10,4.0
-1564,Paloma,FRA1REG,10,
-1565,La Grande Dame,FRA1REG,10,
-1566,Soa de Muse,FRA1REG,10,
-1567,Lolita Banana,FRA1REG,10,
-1568,Gisele Lullaby,CAN3REG,10,
-1569,Jada Shada Hudson,CAN3REG,10,
-1570,Kimmy Couture,CAN3REG,10,
-1571,Miss Fiercalicious,CAN3REG,10,
-1572,Hanna Conda,AUS2REG,10,
-1573,Kween Kong,AUS2REG,10,
-1574,Spankie Jackzon,AUS2REG,10,
-1575,Eva Le Queen,PH1REG,10,
-1576,Marina Summers,PH1REG,10,
-1577,Precious Paula Nicole,PH1REG,10,
-1578,Xilhouete,PH1REG,10,
-1579,Black Peppa,UK4REG,10,
-1580,Cheddar Gorgeous,UK4REG,10,
-1581,Danny Beard,UK4REG,10,
-1582,Jonbers Blonde,UK4REG,10,
-1583,La Diamond,ITA2REG,10,
-1584,Aura Etherial,ITA2REG,10,
-1585,Nehllenia,ITA2REG,10,
-1586,Ra'jah O'Hara,CAN1WORLD,10,
-1587,Rita Baga,CAN1WORLD,10,
-1588,Silky Nutmeg Ganache,CAN1WORLD,10,
-1589,Victoria Scone,CAN1WORLD,10,
-1590,Anetra,US15REG,10,0.0
-1591,Luxx Noir London,US15REG,10,5.0
-1592,Mistress Isabelle Brookes,US15REG,10,3.0
-1593,Sasha Colby,US15REG,10,1.0
-1594,Athena Sorgelikis,BEL1REG,10,
-1595,Drag Couenne,BEL1REG,10,
-1596,Susan,BEL1REG,10,
-1597,Admira Thunderpussy,SWE1REG,10,
-1598,Fontana,SWE1REG,10,
-1599,Vanity Vain,SWE1REG,10,
-1600,Chad Michaels,US1AS,11,
-1601,Raven,US1AS,11,
-1602,Jujubee,US1AS,11,
-1603,Shannel,US1AS,11,
-1604,Alaska,US2AS,11,
-1605,Detox,US2AS,11,
-1606,Katya,US2AS,11,
-1607,Roxxxy Andrews,US2AS,11,
-1608,Trixie Mattel,US3AS,11,
-1609,Kennedy Davenport,US3AS,11,
-1610,BeBe Zahara Benet,US3AS,11,
-1611,Shangela,US3AS,11,
-1612,Monet X Change,US4AS,11,
-1613,Trinity the Tuck,US4AS,11,
-1614,Monique Heart,US4AS,11,
-1615,Naomi Smalls,US4AS,11,
-1616,Jujubee,US5AS,11,
-1617,Shea Coulee,US5AS,11,
-1618,Miz Cracker,US5AS,11,
-1619,Priyanka,CAN1REG,11,
-1620,Rita Baga,CAN1REG,11,
-1621,Scarlett BoBo,CAN1REG,11,
-1622,Envy Peru,HOL1REG,11,
-1623,Janey Jacke,HOL1REG,11,
-1624,Ma'Ma Queen,HOL1REG,11,
-1625,Miss Abby OMG,HOL1REG,11,
-1626,Natalia Pilacam,THI1REG,11,
-1627,Annee Maywong,THI1REG,11,
-1628,Dearis Doll,THI1REG,11,
-1629,The Vivienne,UK1REG,11,
-1630,Divina de Campo,UK1REG,11,
-1631,Baga Chipz,UK1REG,11,
-1632,Bebe Zahara Benet,US1REG,11,
-1633,Nina Flowers,US1REG,11,
-1634,Rebbeca Glasscock,US1REG,11,
-1635,Aquaria,US10REG,11,5.0
-1636,Eureka,US10REG,11,3.0
-1637,Kameron Michaels,US10REG,11,0.0
-1638,Asia O'Hara,US10REG,11,3.0
-1639,Yvie Oddly,US11REG,11,1.0
-1640,Brooke Lynn Hytes,US11REG,11,5.0
-1641,A'keria Davenport,US11REG,11,3.0
-1642,Silky Nutmeg Ganache,US11REG,11,0.0
-1643,Jaida Essence Hall,US12REG,11,0.0
-1644,Crystal Methyd,US12REG,11,5.0
-1645,Gigi Goode,US12REG,11,3.0
-1646,Symone,US13REG,11,5.0
-1647,Kandy Muse,US13REG,11,3.0
-1648,Gottmik,US13REG,11,1.0
-1649,Rose,US13REG,11,5.0
-1650,Angele Anang,THI2REG,11,0.0
-1651,Kana Warrior,THI2REG,11,4.0
-1652,Kandy Zyanide,THI2REG,11,4.0
-1653,Lawrence Chaney,UK2REG,11,
-1654,Bimini Bon Boulash,UK2REG,11,
-1655,Tayce,UK2REG,11,
-1656,Ellie Diamond,UK2REG,11,
-1657,Tyra Sanchez,US2REG,11,
-1658,Raven,US2REG,11,
-1659,Jujubee,US2REG,11,
-1660,Raja,US3REG,11,0.0
-1661,Manila Luzon,US3REG,11,5.0
-1662,Alexis Mateo,US3REG,11,3.0
-1663,Sharon Needles,US4REG,11,5.0
-1664,Chad Michaels,US4REG,11,0.0
-1665,Phi Phi O'Hara,US4REG,11,3.0
-1666,Jinkx Monsoon,US5REG,11,0.0
-1667,Alaska,US5REG,11,5.0
-1668,Roxxxy Andrews,US5REG,11,3.0
-1669,Bianca Del Rio,US6REG,11,3.0
-1670,Adore Delano,US6REG,11,5.0
-1671,Courtney Act,US6REG,11,1.0
-1672,Violet Chachki,US7REG,11,5.0
-1673,Ginger Minj,US7REG,11,3.0
-1674,Pearl,US7REG,11,3.0
-1675,Bob the Drag Queen,US8REG,11,
-1676,Kim Chi,US8REG,11,
-1677,Naomi Smalls,US8REG,11,
-1678,Sasha Velour,US9REG,11,3.0
-1679,Peppermint,US9REG,11,0.0
-1680,Shea Coulee,US9REG,11,5.0
-1681,Trinity the Tuck,US9REG,11,1.0
-1682,Kita Mean,AUS1REG,11,
-1683,Art Simone,AUS1REG,11,
-1684,Karen from Finance,AUS1REG,11,
-1685,Scarlet Adams,AUS1REG,11,
-1686,Carmen Farala,ESP1REG,11,
-1687,Killer Queen,ESP1REG,11,
-1688,Sagittaria,ESP1REG,11,
-1689,Pupi Poisson,ESP1REG,11,
-1690,Kylie Sonique Love,US6AS,11,3.0
-1691,Ginger Minj,US6AS,11,3.0
-1692,Ra'jah O'Hara,US6AS,11,2.0
-1693,Eureka,US6AS,11,5.0
-1694,Vanessa Van Cartier,HOL2REG,11,
-1695,My Little Puny,HOL2REG,11,
-1696,Vivaldi,HOL2REG,11,
-1697,Ella Vaday,UK3REG,11,
-1698,Kitty Scott-Claus,UK3REG,11,
-1699,Krystal Versace,UK3REG,11,
-1700,Icesis Couture,CAN2REG,11,
-1701,Kendall Gender,CAN2REG,11,
-1702,Pythia,CAN2REG,11,
-1703,Farida Kant,ITA1REG,11,
-1704,Elecktra Bionic,ITA1REG,11,
-1705,Le Riche,ITA1REG,11,
-1706,Luquisha Lubamba,ITA1REG,11,
-1707,Blu Hydrangea,UK1WORLD,11,
-1708,Mo Heart,UK1WORLD,11,
-1709,Baga Chipz,UK1WORLD,11,
-1710,Jujubee,UK1WORLD,11,
-1711,Angeria Paris VanMichaels,US14REG,11,2.0
-1712,Bosco,US14REG,11,2.0
-1713,Daya Betty,US14REG,11,2.0
-1714,Lady Camden,US14REG,11,2.0
-1715,Willow Pill,US14REG,11,2.0
-1716,Estrella Xtravaganza,ESP2REG,11,
-1717,Sharonne,ESP2REG,11,
-1718,Venedita Von Dash,ESP2REG,11,
-1719,Marina,ESP2REG,11,
-1720,Jinkx Monsoon,US7AS,11,2.0
-1721,Monet X Change,US7AS,11,4.0
-1722,Shea Coulee,US7AS,11,5.0
-1723,Trinity the Tuck,US7AS,11,2.0
-1724,Paloma,FRA1REG,11,
-1725,La Grande Dame,FRA1REG,11,
-1726,Soa de Muse,FRA1REG,11,
-1727,Lolita Banana,FRA1REG,11,
-1728,Gisele Lullaby,CAN3REG,11,
-1729,Jada Shada Hudson,CAN3REG,11,
-1730,Kimmy Couture,CAN3REG,11,
-1731,Miss Fiercalicious,CAN3REG,11,
-1732,Hanna Conda,AUS2REG,11,
-1733,Kween Kong,AUS2REG,11,
-1734,Spankie Jackzon,AUS2REG,11,
-1735,Eva Le Queen,PH1REG,11,
-1736,Marina Summers,PH1REG,11,
-1737,Precious Paula Nicole,PH1REG,11,
-1738,Xilhouete,PH1REG,11,
-1739,Black Peppa,UK4REG,11,
-1740,Cheddar Gorgeous,UK4REG,11,
-1741,Danny Beard,UK4REG,11,
-1742,Jonbers Blonde,UK4REG,11,
-1743,La Diamond,ITA2REG,11,
-1744,Aura Etherial,ITA2REG,11,
-1745,Nehllenia,ITA2REG,11,
-1746,Ra'jah O'Hara,CAN1WORLD,11,
-1747,Rita Baga,CAN1WORLD,11,
-1748,Silky Nutmeg Ganache,CAN1WORLD,11,
-1749,Victoria Scone,CAN1WORLD,11,
-1750,Anetra,US15REG,11,5.0
-1751,Luxx Noir London,US15REG,11,3.0
-1752,Mistress Isabelle Brookes,US15REG,11,3.0
-1753,Sasha Colby,US15REG,11,3.0
-1754,Athena Sorgelikis,BEL1REG,11,
-1755,Drag Couenne,BEL1REG,11,
-1756,Susan,BEL1REG,11,
-1757,Admira Thunderpussy,SWE1REG,11,
-1758,Fontana,SWE1REG,11,
-1759,Vanity Vain,SWE1REG,11,
-1760,Chad Michaels,US1AS,12,
-1761,Raven,US1AS,12,
-1762,Jujubee,US1AS,12,
-1763,Shannel,US1AS,12,
-1764,Alaska,US2AS,12,
-1765,Detox,US2AS,12,
-1766,Katya,US2AS,12,
-1767,Roxxxy Andrews,US2AS,12,
-1768,Trixie Mattel,US3AS,12,
-1769,Kennedy Davenport,US3AS,12,
-1770,BeBe Zahara Benet,US3AS,12,
-1771,Shangela,US3AS,12,
-1772,Monet X Change,US4AS,12,
-1773,Trinity the Tuck,US4AS,12,
-1774,Monique Heart,US4AS,12,
-1775,Naomi Smalls,US4AS,12,
-1776,Jujubee,US5AS,12,
-1777,Shea Coulee,US5AS,12,
-1778,Miz Cracker,US5AS,12,
-1779,Priyanka,CAN1REG,12,
-1780,Rita Baga,CAN1REG,12,
-1781,Scarlett BoBo,CAN1REG,12,
-1782,Envy Peru,HOL1REG,12,
-1783,Janey Jacke,HOL1REG,12,
-1784,Ma'Ma Queen,HOL1REG,12,
-1785,Miss Abby OMG,HOL1REG,12,
-1786,Natalia Pilacam,THI1REG,12,
-1787,Annee Maywong,THI1REG,12,
-1788,Dearis Doll,THI1REG,12,
-1789,The Vivienne,UK1REG,12,
-1790,Divina de Campo,UK1REG,12,
-1791,Baga Chipz,UK1REG,12,
-1792,Bebe Zahara Benet,US1REG,12,
-1793,Nina Flowers,US1REG,12,
-1794,Rebbeca Glasscock,US1REG,12,
-1795,Aquaria,US10REG,12,2.0
-1796,Eureka,US10REG,12,2.0
-1797,Kameron Michaels,US10REG,12,2.0
-1798,Asia O'Hara,US10REG,12,2.0
-1799,Yvie Oddly,US11REG,12,2.0
-1800,Brooke Lynn Hytes,US11REG,12,0.0
-1801,A'keria Davenport,US11REG,12,2.0
-1802,Silky Nutmeg Ganache,US11REG,12,2.0
-1803,Jaida Essence Hall,US12REG,12,3.0
-1804,Crystal Methyd,US12REG,12,0.0
-1805,Gigi Goode,US12REG,12,5.0
-1806,Symone,US13REG,12,0.0
-1807,Kandy Muse,US13REG,12,5.0
-1808,Gottmik,US13REG,12,3.0
-1809,Rose,US13REG,12,3.0
-1810,Angele Anang,THI2REG,12,
-1811,Kana Warrior,THI2REG,12,
-1812,Kandy Zyanide,THI2REG,12,
-1813,Lawrence Chaney,UK2REG,12,
-1814,Bimini Bon Boulash,UK2REG,12,
-1815,Tayce,UK2REG,12,
-1816,Ellie Diamond,UK2REG,12,
-1817,Tyra Sanchez,US2REG,12,
-1818,Raven,US2REG,12,
-1819,Jujubee,US2REG,12,
-1820,Raja,US3REG,12,3.0
-1821,Manila Luzon,US3REG,12,5.0
-1822,Alexis Mateo,US3REG,12,0.0
-1823,Sharon Needles,US4REG,12,2.0
-1824,Chad Michaels,US4REG,12,2.0
-1825,Phi Phi O'Hara,US4REG,12,2.0
-1826,Jinkx Monsoon,US5REG,12,2.0
-1827,Alaska,US5REG,12,2.0
-1828,Roxxxy Andrews,US5REG,12,2.0
-1829,Bianca Del Rio,US6REG,12,2.0
-1830,Adore Delano,US6REG,12,2.0
-1831,Courtney Act,US6REG,12,2.0
-1832,Violet Chachki,US7REG,12,2.0
-1833,Ginger Minj,US7REG,12,2.0
-1834,Pearl,US7REG,12,2.0
-1835,Bob the Drag Queen,US8REG,12,
-1836,Kim Chi,US8REG,12,
-1837,Naomi Smalls,US8REG,12,
-1838,Sasha Velour,US9REG,12,2.0
-1839,Peppermint,US9REG,12,2.0
-1840,Shea Coulee,US9REG,12,2.0
-1841,Trinity the Tuck,US9REG,12,2.0
-1842,Kita Mean,AUS1REG,12,
-1843,Art Simone,AUS1REG,12,
-1844,Karen from Finance,AUS1REG,12,
-1845,Scarlet Adams,AUS1REG,12,
-1846,Carmen Farala,ESP1REG,12,
-1847,Killer Queen,ESP1REG,12,
-1848,Sagittaria,ESP1REG,12,
-1849,Pupi Poisson,ESP1REG,12,
-1850,Kylie Sonique Love,US6AS,12,
-1851,Ginger Minj,US6AS,12,
-1852,Ra'jah O'Hara,US6AS,12,
-1853,Eureka,US6AS,12,
-1854,Vanessa Van Cartier,HOL2REG,12,
-1855,My Little Puny,HOL2REG,12,
-1856,Vivaldi,HOL2REG,12,
-1857,Ella Vaday,UK3REG,12,
-1858,Kitty Scott-Claus,UK3REG,12,
-1859,Krystal Versace,UK3REG,12,
-1860,Icesis Couture,CAN2REG,12,
-1861,Kendall Gender,CAN2REG,12,
-1862,Pythia,CAN2REG,12,
-1863,Farida Kant,ITA1REG,12,
-1864,Elecktra Bionic,ITA1REG,12,
-1865,Le Riche,ITA1REG,12,
-1866,Luquisha Lubamba,ITA1REG,12,
-1867,Blu Hydrangea,UK1WORLD,12,
-1868,Mo Heart,UK1WORLD,12,
-1869,Baga Chipz,UK1WORLD,12,
-1870,Jujubee,UK1WORLD,12,
-1871,Angeria Paris VanMichaels,US14REG,12,2.0
-1872,Bosco,US14REG,12,0.0
-1873,Daya Betty,US14REG,12,3.0
-1874,Lady Camden,US14REG,12,5.0
-1875,Willow Pill,US14REG,12,3.0
-1876,Estrella Xtravaganza,ESP2REG,12,
-1877,Sharonne,ESP2REG,12,
-1878,Venedita Von Dash,ESP2REG,12,
-1879,Marina,ESP2REG,12,
-1880,Jinkx Monsoon,US7AS,12,
-1881,Monet X Change,US7AS,12,
-1882,Shea Coulee,US7AS,12,
-1883,Trinity the Tuck,US7AS,12,
-1884,Paloma,FRA1REG,12,
-1885,La Grande Dame,FRA1REG,12,
-1886,Soa de Muse,FRA1REG,12,
-1887,Lolita Banana,FRA1REG,12,
-1888,Gisele Lullaby,CAN3REG,12,
-1889,Jada Shada Hudson,CAN3REG,12,
-1890,Kimmy Couture,CAN3REG,12,
-1891,Miss Fiercalicious,CAN3REG,12,
-1892,Hanna Conda,AUS2REG,12,
-1893,Kween Kong,AUS2REG,12,
-1894,Spankie Jackzon,AUS2REG,12,
-1895,Eva Le Queen,PH1REG,12,
-1896,Marina Summers,PH1REG,12,
-1897,Precious Paula Nicole,PH1REG,12,
-1898,Xilhouete,PH1REG,12,
-1899,Black Peppa,UK4REG,12,
-1900,Cheddar Gorgeous,UK4REG,12,
-1901,Danny Beard,UK4REG,12,
-1902,Jonbers Blonde,UK4REG,12,
-1903,La Diamond,ITA2REG,12,
-1904,Aura Etherial,ITA2REG,12,
-1905,Nehllenia,ITA2REG,12,
-1906,Ra'jah O'Hara,CAN1WORLD,12,
-1907,Rita Baga,CAN1WORLD,12,
-1908,Silky Nutmeg Ganache,CAN1WORLD,12,
-1909,Victoria Scone,CAN1WORLD,12,
-1910,Anetra,US15REG,12,5.0
-1911,Luxx Noir London,US15REG,12,0.0
-1912,Mistress Isabelle Brookes,US15REG,12,3.0
-1913,Sasha Colby,US15REG,12,3.0
-1914,Athena Sorgelikis,BEL1REG,12,
-1915,Drag Couenne,BEL1REG,12,
-1916,Susan,BEL1REG,12,
-1917,Admira Thunderpussy,SWE1REG,12,
-1918,Fontana,SWE1REG,12,
-1919,Vanity Vain,SWE1REG,12,
-1920,Chad Michaels,US1AS,13,
-1921,Raven,US1AS,13,
-1922,Jujubee,US1AS,13,
-1923,Shannel,US1AS,13,
-1924,Alaska,US2AS,13,
-1925,Detox,US2AS,13,
-1926,Katya,US2AS,13,
-1927,Roxxxy Andrews,US2AS,13,
-1928,Trixie Mattel,US3AS,13,
-1929,Kennedy Davenport,US3AS,13,
-1930,BeBe Zahara Benet,US3AS,13,
-1931,Shangela,US3AS,13,
-1932,Monet X Change,US4AS,13,
-1933,Trinity the Tuck,US4AS,13,
-1934,Monique Heart,US4AS,13,
-1935,Naomi Smalls,US4AS,13,
-1936,Jujubee,US5AS,13,
-1937,Shea Coulee,US5AS,13,
-1938,Miz Cracker,US5AS,13,
-1939,Priyanka,CAN1REG,13,
-1940,Rita Baga,CAN1REG,13,
-1941,Scarlett BoBo,CAN1REG,13,
-1942,Envy Peru,HOL1REG,13,
-1943,Janey Jacke,HOL1REG,13,
-1944,Ma'Ma Queen,HOL1REG,13,
-1945,Miss Abby OMG,HOL1REG,13,
-1946,Natalia Pilacam,THI1REG,13,
-1947,Annee Maywong,THI1REG,13,
-1948,Dearis Doll,THI1REG,13,
-1949,The Vivienne,UK1REG,13,
-1950,Divina de Campo,UK1REG,13,
-1951,Baga Chipz,UK1REG,13,
-1952,Bebe Zahara Benet,US1REG,13,
-1953,Nina Flowers,US1REG,13,
-1954,Rebbeca Glasscock,US1REG,13,
-1955,Aquaria,US10REG,13,
-1956,Eureka,US10REG,13,
-1957,Kameron Michaels,US10REG,13,
-1958,Asia O'Hara,US10REG,13,
-1959,Yvie Oddly,US11REG,13,
-1960,Brooke Lynn Hytes,US11REG,13,
-1961,A'keria Davenport,US11REG,13,
-1962,Silky Nutmeg Ganache,US11REG,13,
-1963,Jaida Essence Hall,US12REG,13,
-1964,Crystal Methyd,US12REG,13,
-1965,Gigi Goode,US12REG,13,
-1966,Symone,US13REG,13,3.0
-1967,Kandy Muse,US13REG,13,0.0
-1968,Gottmik,US13REG,13,3.0
-1969,Rose,US13REG,13,5.0
-1970,Angele Anang,THI2REG,13,
-1971,Kana Warrior,THI2REG,13,
-1972,Kandy Zyanide,THI2REG,13,
-1973,Lawrence Chaney,UK2REG,13,
-1974,Bimini Bon Boulash,UK2REG,13,
-1975,Tayce,UK2REG,13,
-1976,Ellie Diamond,UK2REG,13,
-1977,Tyra Sanchez,US2REG,13,
-1978,Raven,US2REG,13,
-1979,Jujubee,US2REG,13,
-1980,Raja,US3REG,13,
-1981,Manila Luzon,US3REG,13,
-1982,Alexis Mateo,US3REG,13,
-1983,Sharon Needles,US4REG,13,
-1984,Chad Michaels,US4REG,13,
-1985,Phi Phi O'Hara,US4REG,13,
-1986,Jinkx Monsoon,US5REG,13,
-1987,Alaska,US5REG,13,
-1988,Roxxxy Andrews,US5REG,13,
-1989,Bianca Del Rio,US6REG,13,
-1990,Adore Delano,US6REG,13,
-1991,Courtney Act,US6REG,13,
-1992,Violet Chachki,US7REG,13,
-1993,Ginger Minj,US7REG,13,
-1994,Pearl,US7REG,13,
-1995,Bob the Drag Queen,US8REG,13,
-1996,Kim Chi,US8REG,13,
-1997,Naomi Smalls,US8REG,13,
-1998,Sasha Velour,US9REG,13,
-1999,Peppermint,US9REG,13,
-2000,Shea Coulee,US9REG,13,
-2001,Trinity the Tuck,US9REG,13,
-2002,Kita Mean,AUS1REG,13,
-2003,Art Simone,AUS1REG,13,
-2004,Karen from Finance,AUS1REG,13,
-2005,Scarlet Adams,AUS1REG,13,
-2006,Carmen Farala,ESP1REG,13,
-2007,Killer Queen,ESP1REG,13,
-2008,Sagittaria,ESP1REG,13,
-2009,Pupi Poisson,ESP1REG,13,
-2010,Kylie Sonique Love,US6AS,13,
-2011,Ginger Minj,US6AS,13,
-2012,Ra'jah O'Hara,US6AS,13,
-2013,Eureka,US6AS,13,
-2014,Vanessa Van Cartier,HOL2REG,13,
-2015,My Little Puny,HOL2REG,13,
-2016,Vivaldi,HOL2REG,13,
-2017,Ella Vaday,UK3REG,13,
-2018,Kitty Scott-Claus,UK3REG,13,
-2019,Krystal Versace,UK3REG,13,
-2020,Icesis Couture,CAN2REG,13,
-2021,Kendall Gender,CAN2REG,13,
-2022,Pythia,CAN2REG,13,
-2023,Farida Kant,ITA1REG,13,
-2024,Elecktra Bionic,ITA1REG,13,
-2025,Le Riche,ITA1REG,13,
-2026,Luquisha Lubamba,ITA1REG,13,
-2027,Blu Hydrangea,UK1WORLD,13,
-2028,Mo Heart,UK1WORLD,13,
-2029,Baga Chipz,UK1WORLD,13,
-2030,Jujubee,UK1WORLD,13,
-2031,Angeria Paris VanMichaels,US14REG,13,3.0
-2032,Bosco,US14REG,13,5.0
-2033,Daya Betty,US14REG,13,0.0
-2034,Lady Camden,US14REG,13,2.0
-2035,Willow Pill,US14REG,13,3.0
-2036,Estrella Xtravaganza,ESP2REG,13,
-2037,Sharonne,ESP2REG,13,
-2038,Venedita Von Dash,ESP2REG,13,
-2039,Marina,ESP2REG,13,
-2040,Jinkx Monsoon,US7AS,13,
-2041,Monet X Change,US7AS,13,
-2042,Shea Coulee,US7AS,13,
-2043,Trinity the Tuck,US7AS,13,
-2044,Paloma,FRA1REG,13,
-2045,La Grande Dame,FRA1REG,13,
-2046,Soa de Muse,FRA1REG,13,
-2047,Lolita Banana,FRA1REG,13,
-2048,Gisele Lullaby,CAN3REG,13,
-2049,Jada Shada Hudson,CAN3REG,13,
-2050,Kimmy Couture,CAN3REG,13,
-2051,Miss Fiercalicious,CAN3REG,13,
-2052,Hanna Conda,AUS2REG,13,
-2053,Kween Kong,AUS2REG,13,
-2054,Spankie Jackzon,AUS2REG,13,
-2055,Eva Le Queen,PH1REG,13,
-2056,Marina Summers,PH1REG,13,
-2057,Precious Paula Nicole,PH1REG,13,
-2058,Xilhouete,PH1REG,13,
-2059,Black Peppa,UK4REG,13,
-2060,Cheddar Gorgeous,UK4REG,13,
-2061,Danny Beard,UK4REG,13,
-2062,Jonbers Blonde,UK4REG,13,
-2063,La Diamond,ITA2REG,13,
-2064,Aura Etherial,ITA2REG,13,
-2065,Nehllenia,ITA2REG,13,
-2066,Ra'jah O'Hara,CAN1WORLD,13,
-2067,Rita Baga,CAN1WORLD,13,
-2068,Silky Nutmeg Ganache,CAN1WORLD,13,
-2069,Victoria Scone,CAN1WORLD,13,
-2070,Anetra,US15REG,13,0.0
-2071,Luxx Noir London,US15REG,13,3.0
-2072,Mistress Isabelle Brookes,US15REG,13,0.0
-2073,Sasha Colby,US15REG,13,5.0
-2074,Athena Sorgelikis,BEL1REG,13,
-2075,Drag Couenne,BEL1REG,13,
-2076,Susan,BEL1REG,13,
-2077,Admira Thunderpussy,SWE1REG,13,
-2078,Fontana,SWE1REG,13,
-2079,Vanity Vain,SWE1REG,13,
-2080,Chad Michaels,US1AS,14,
-2081,Raven,US1AS,14,
-2082,Jujubee,US1AS,14,
-2083,Shannel,US1AS,14,
-2084,Alaska,US2AS,14,
-2085,Detox,US2AS,14,
-2086,Katya,US2AS,14,
-2087,Roxxxy Andrews,US2AS,14,
-2088,Trixie Mattel,US3AS,14,
-2089,Kennedy Davenport,US3AS,14,
-2090,BeBe Zahara Benet,US3AS,14,
-2091,Shangela,US3AS,14,
-2092,Monet X Change,US4AS,14,
-2093,Trinity the Tuck,US4AS,14,
-2094,Monique Heart,US4AS,14,
-2095,Naomi Smalls,US4AS,14,
-2096,Jujubee,US5AS,14,
-2097,Shea Coulee,US5AS,14,
-2098,Miz Cracker,US5AS,14,
-2099,Priyanka,CAN1REG,14,
-2100,Rita Baga,CAN1REG,14,
-2101,Scarlett BoBo,CAN1REG,14,
-2102,Envy Peru,HOL1REG,14,
-2103,Janey Jacke,HOL1REG,14,
-2104,Ma'Ma Queen,HOL1REG,14,
-2105,Miss Abby OMG,HOL1REG,14,
-2106,Natalia Pilacam,THI1REG,14,
-2107,Annee Maywong,THI1REG,14,
-2108,Dearis Doll,THI1REG,14,
-2109,The Vivienne,UK1REG,14,
-2110,Divina de Campo,UK1REG,14,
-2111,Baga Chipz,UK1REG,14,
-2112,Bebe Zahara Benet,US1REG,14,
-2113,Nina Flowers,US1REG,14,
-2114,Rebbeca Glasscock,US1REG,14,
-2115,Aquaria,US10REG,14,
-2116,Eureka,US10REG,14,
-2117,Kameron Michaels,US10REG,14,
-2118,Asia O'Hara,US10REG,14,
-2119,Yvie Oddly,US11REG,14,
-2120,Brooke Lynn Hytes,US11REG,14,
-2121,A'keria Davenport,US11REG,14,
-2122,Silky Nutmeg Ganache,US11REG,14,
-2123,Jaida Essence Hall,US12REG,14,
-2124,Crystal Methyd,US12REG,14,
-2125,Gigi Goode,US12REG,14,
-2126,Symone,US13REG,14,2.0
-2127,Kandy Muse,US13REG,14,2.0
-2128,Gottmik,US13REG,14,2.0
-2129,Rose,US13REG,14,2.0
-2130,Angele Anang,THI2REG,14,
-2131,Kana Warrior,THI2REG,14,
-2132,Kandy Zyanide,THI2REG,14,
-2133,Lawrence Chaney,UK2REG,14,
-2134,Bimini Bon Boulash,UK2REG,14,
-2135,Tayce,UK2REG,14,
-2136,Ellie Diamond,UK2REG,14,
-2137,Tyra Sanchez,US2REG,14,
-2138,Raven,US2REG,14,
-2139,Jujubee,US2REG,14,
-2140,Raja,US3REG,14,
-2141,Manila Luzon,US3REG,14,
-2142,Alexis Mateo,US3REG,14,
-2143,Sharon Needles,US4REG,14,
-2144,Chad Michaels,US4REG,14,
-2145,Phi Phi O'Hara,US4REG,14,
-2146,Jinkx Monsoon,US5REG,14,
-2147,Alaska,US5REG,14,
-2148,Roxxxy Andrews,US5REG,14,
-2149,Bianca Del Rio,US6REG,14,
-2150,Adore Delano,US6REG,14,
-2151,Courtney Act,US6REG,14,
-2152,Violet Chachki,US7REG,14,
-2153,Ginger Minj,US7REG,14,
-2154,Pearl,US7REG,14,
-2155,Bob the Drag Queen,US8REG,14,
-2156,Kim Chi,US8REG,14,
-2157,Naomi Smalls,US8REG,14,
-2158,Sasha Velour,US9REG,14,
-2159,Peppermint,US9REG,14,
-2160,Shea Coulee,US9REG,14,
-2161,Trinity the Tuck,US9REG,14,
-2162,Kita Mean,AUS1REG,14,
-2163,Art Simone,AUS1REG,14,
-2164,Karen from Finance,AUS1REG,14,
-2165,Scarlet Adams,AUS1REG,14,
-2166,Carmen Farala,ESP1REG,14,
-2167,Killer Queen,ESP1REG,14,
-2168,Sagittaria,ESP1REG,14,
-2169,Pupi Poisson,ESP1REG,14,
-2170,Kylie Sonique Love,US6AS,14,
-2171,Ginger Minj,US6AS,14,
-2172,Ra'jah O'Hara,US6AS,14,
-2173,Eureka,US6AS,14,
-2174,Vanessa Van Cartier,HOL2REG,14,
-2175,My Little Puny,HOL2REG,14,
-2176,Vivaldi,HOL2REG,14,
-2177,Ella Vaday,UK3REG,14,
-2178,Kitty Scott-Claus,UK3REG,14,
-2179,Krystal Versace,UK3REG,14,
-2180,Icesis Couture,CAN2REG,14,
-2181,Kendall Gender,CAN2REG,14,
-2182,Pythia,CAN2REG,14,
-2183,Farida Kant,ITA1REG,14,
-2184,Elecktra Bionic,ITA1REG,14,
-2185,Le Riche,ITA1REG,14,
-2186,Luquisha Lubamba,ITA1REG,14,
-2187,Blu Hydrangea,UK1WORLD,14,
-2188,Mo Heart,UK1WORLD,14,
-2189,Baga Chipz,UK1WORLD,14,
-2190,Jujubee,UK1WORLD,14,
-2191,Angeria Paris VanMichaels,US14REG,14,0.0
-2192,Bosco,US14REG,14,1.0
-2193,Daya Betty,US14REG,14,3.0
-2194,Lady Camden,US14REG,14,5.0
-2195,Willow Pill,US14REG,14,0.0
-2196,Estrella Xtravaganza,ESP2REG,14,
-2197,Sharonne,ESP2REG,14,
-2198,Venedita Von Dash,ESP2REG,14,
-2199,Marina,ESP2REG,14,
-2200,Jinkx Monsoon,US7AS,14,
-2201,Monet X Change,US7AS,14,
-2202,Shea Coulee,US7AS,14,
-2203,Trinity the Tuck,US7AS,14,
-2204,Paloma,FRA1REG,14,
-2205,La Grande Dame,FRA1REG,14,
-2206,Soa de Muse,FRA1REG,14,
-2207,Lolita Banana,FRA1REG,14,
-2208,Gisele Lullaby,CAN3REG,14,
-2209,Jada Shada Hudson,CAN3REG,14,
-2210,Kimmy Couture,CAN3REG,14,
-2211,Miss Fiercalicious,CAN3REG,14,
-2212,Hanna Conda,AUS2REG,14,
-2213,Kween Kong,AUS2REG,14,
-2214,Spankie Jackzon,AUS2REG,14,
-2215,Eva Le Queen,PH1REG,14,
-2216,Marina Summers,PH1REG,14,
-2217,Precious Paula Nicole,PH1REG,14,
-2218,Xilhouete,PH1REG,14,
-2219,Black Peppa,UK4REG,14,
-2220,Cheddar Gorgeous,UK4REG,14,
-2221,Danny Beard,UK4REG,14,
-2222,Jonbers Blonde,UK4REG,14,
-2223,La Diamond,ITA2REG,14,
-2224,Aura Etherial,ITA2REG,14,
-2225,Nehllenia,ITA2REG,14,
-2226,Ra'jah O'Hara,CAN1WORLD,14,
-2227,Rita Baga,CAN1WORLD,14,
-2228,Silky Nutmeg Ganache,CAN1WORLD,14,
-2229,Victoria Scone,CAN1WORLD,14,
-2230,Anetra,US15REG,14,
-2231,Luxx Noir London,US15REG,14,
-2232,Mistress Isabelle Brookes,US15REG,14,
-2233,Sasha Colby,US15REG,14,
-2234,Athena Sorgelikis,BEL1REG,14,
-2235,Drag Couenne,BEL1REG,14,
-2236,Susan,BEL1REG,14,
-2237,Admira Thunderpussy,SWE1REG,14,
-2238,Fontana,SWE1REG,14,
-2239,Vanity Vain,SWE1REG,14,
+,finalist,variable,value
+0,Chad Michaels_US_1_AS,1,0.0
+1,Raven_US_1_AS,1,3.0
+2,Jujubee_US_1_AS,1,3.0
+3,Shannel_US_1_AS,1,0.0
+4,Alaska_US_2_AS,1,3.0
+5,Detox_US_2_AS,1,2.0
+6,Katya_US_2_AS,1,2.0
+7,Roxxxy Andrews_US_2_AS,1,5.0
+8,Trixie Mattel_US_3_AS,1,2.0
+9,Kennedy Davenport_US_3_AS,1,2.0
+10,BeBe Zahara Benet_US_3_AS,1,2.0
+11,Shangela_US_3_AS,1,3.0
+12,Monet X Change_US_4_AS,1,1.0
+13,Trinity the Tuck_US_4_AS,1,5.0
+14,Monique Heart_US_4_AS,1,4.0
+15,Naomi Smalls_US_4_AS,1,3.0
+16,Jujubee_US_5_AS,1,2.0
+17,Shea Coulee_US_5_AS,1,2.0
+18,Miz Cracker_US_5_AS,1,3.0
+19,Priyanka_CAN_1_REG,1,2.0
+20,Rita Baga_CAN_1_REG,1,5.0
+21,Scarlett BoBo_CAN_1_REG,1,2.0
+22,Envy Peru_HOL_1_REG,1,2.0
+23,Janey Jacke_HOL_1_REG,1,5.0
+24,Ma'Ma Queen_HOL_1_REG,1,1.0
+25,Miss Abby OMG_HOL_1_REG,1,2.0
+26,Natalia Pilacam_THI_1_REG,1,2.0
+27,Annee Maywong_THI_1_REG,1,4.0
+28,Dearis Doll_THI_1_REG,1,2.0
+29,The Vivienne_UK_1_REG,1,5.0
+30,Divina de Campo_UK_1_REG,1,2.0
+31,Baga Chipz_UK_1_REG,1,3.0
+32,Bebe Zahara Benet_US_1_REG,1,2.0
+33,Nina Flowers_US_1_REG,1,5.0
+34,Rebbeca Glasscock_US_1_REG,1,1.0
+35,Aquaria_US_10_REG,1,2.0
+36,Eureka_US_10_REG,1,2.0
+37,Kameron Michaels_US_10_REG,1,2.0
+38,Asia O'Hara_US_10_REG,1,2.0
+39,Yvie Oddly_US_11_REG,1,2.0
+40,Brooke Lynn Hytes_US_11_REG,1,5.0
+41,A'keria Davenport_US_11_REG,1,3.0
+42,Silky Nutmeg Ganache_US_11_REG,1,2.0
+43,Jaida Essence Hall_US_12_REG,1,
+44,Crystal Methyd_US_12_REG,1,2.0
+45,Gigi Goode_US_12_REG,1,4.0
+46,Symone_US_13_REG,1,3.0
+47,Kandy Muse_US_13_REG,1,3.0
+48,Gottmik_US_13_REG,1,3.0
+49,Rose_US_13_REG,1,1.0
+50,Angele Anang_THI_2_REG,1,4.0
+51,Kana Warrior_THI_2_REG,1,2.0
+52,Kandy Zyanide_THI_2_REG,1,3.0
+53,Lawrence Chaney_UK_2_REG,1,3.0
+54,Bimini Bon Boulash_UK_2_REG,1,0.0
+55,Tayce_UK_2_REG,1,2.0
+56,Ellie Diamond_UK_2_REG,1,3.0
+57,Tyra Sanchez_US_2_REG,1,3.0
+58,Raven_US_2_REG,1,2.0
+59,Jujubee_US_2_REG,1,2.0
+60,Raja_US_3_REG,1,5.0
+61,Manila Luzon_US_3_REG,1,3.0
+62,Alexis Mateo_US_3_REG,1,2.0
+63,Sharon Needles_US_4_REG,1,5.0
+64,Chad Michaels_US_4_REG,1,2.0
+65,Phi Phi O'Hara_US_4_REG,1,2.0
+66,Jinkx Monsoon_US_5_REG,1,2.0
+67,Alaska_US_5_REG,1,3.0
+68,Roxxxy Andrews_US_5_REG,1,5.0
+69,Bianca Del Rio_US_6_REG,1,
+70,Adore Delano_US_6_REG,1,1.0
+71,Courtney Act_US_6_REG,1,
+72,Violet Chachki_US_7_REG,1,5.0
+73,Ginger Minj_US_7_REG,1,2.0
+74,Pearl_US_7_REG,1,2.0
+75,Bob the Drag Queen_US_8_REG,1,2.0
+76,Kim Chi_US_8_REG,1,5.0
+77,Naomi Smalls_US_8_REG,1,1.0
+78,Sasha Velour_US_9_REG,1,3.0
+79,Peppermint_US_9_REG,1,2.0
+80,Shea Coulee_US_9_REG,1,2.0
+81,Trinity the Tuck_US_9_REG,1,2.0
+82,Kita Mean_AUS_1_REG,1,2.0
+83,Art Simone_AUS_1_REG,1,3.0
+84,Karen from Finance_AUS_1_REG,1,5.0
+85,Scarlet Adams_AUS_1_REG,1,3.0
+86,Carmen Farala_ESP_1_REG,1,3.0
+87,Killer Queen_ESP_1_REG,1,2.0
+88,Sagittaria_ESP_1_REG,1,3.0
+89,Pupi Poisson_ESP_1_REG,1,1.0
+90,Kylie Sonique Love_US_6_AS,1,2.0
+91,Ginger Minj_US_6_AS,1,2.0
+92,Ra'jah O'Hara_US_6_AS,1,3.0
+93,Eureka_US_6_AS,1,2.0
+94,Vanessa Van Cartier_HOL_2_REG,1,3.0
+95,My Little Puny_HOL_2_REG,1,3.0
+96,Vivaldi_HOL_2_REG,1,3.0
+97,Ella Vaday_UK_3_REG,1,2.0
+98,Kitty Scott-Claus_UK_3_REG,1,2.0
+99,Krystal Versace_UK_3_REG,1,5.0
+100,Icesis Couture_CAN_2_REG,1,5.0
+101,Kendall Gender_CAN_2_REG,1,2.0
+102,Pythia_CAN_2_REG,1,2.0
+103,Farida Kant_ITA_1_REG,1,5.0
+104,Elecktra Bionic_ITA_1_REG,1,2.0
+105,Le Riche_ITA_1_REG,1,2.0
+106,Luquisha Lubamba_ITA_1_REG,1,0.0
+107,Blu Hydrangea_UK_1_WORLD,1,3.0
+108,Mo Heart_UK_1_WORLD,1,2.0
+109,Baga Chipz_UK_1_WORLD,1,3.0
+110,Jujubee_UK_1_WORLD,1,2.0
+111,Angeria Paris VanMichaels_US_14_REG,1,
+112,Bosco_US_14_REG,1,3.0
+113,Daya Betty_US_14_REG,1,
+114,Lady Camden_US_14_REG,1,
+115,Willow Pill_US_14_REG,1,3.0
+116,Estrella Xtravaganza_ESP_2_REG,1,2.0
+117,Sharonne_ESP_2_REG,1,3.0
+118,Venedita Von Dash_ESP_2_REG,1,2.0
+119,Marina_ESP_2_REG,1,3.0
+120,Jinkx Monsoon_US_7_AS,1,2.0
+121,Monet X Change_US_7_AS,1,4.0
+122,Shea Coulee_US_7_AS,1,5.0
+123,Trinity the Tuck_US_7_AS,1,3.0
+124,Paloma_FRA_1_REG,1,2.0
+125,La Grande Dame_FRA_1_REG,1,2.0
+126,Soa de Muse_FRA_1_REG,1,5.0
+127,Lolita Banana_FRA_1_REG,1,2.0
+128,Gisele Lullaby_CAN_3_REG,1,2.0
+129,Jada Shada Hudson_CAN_3_REG,1,3.0
+130,Kimmy Couture_CAN_3_REG,1,2.0
+131,Miss Fiercalicious_CAN_3_REG,1,1.0
+132,Hanna Conda_AUS_2_REG,1,3.0
+133,Kween Kong_AUS_2_REG,1,1.0
+134,Spankie Jackzon_AUS_2_REG,1,0.0
+135,Eva Le Queen_PH_1_REG,1,3.0
+136,Marina Summers_PH_1_REG,1,3.0
+137,Precious Paula Nicole_PH_1_REG,1,2.0
+138,Xilhouete_PH_1_REG,1,1.0
+139,Black Peppa_UK_4_REG,1,5.0
+140,Cheddar Gorgeous_UK_4_REG,1,2.0
+141,Danny Beard_UK_4_REG,1,2.0
+142,Jonbers Blonde_UK_4_REG,1,2.0
+143,La Diamond_ITA_2_REG,1,5.0
+144,Aura Etherial_ITA_2_REG,1,1.0
+145,Nehllenia_ITA_2_REG,1,2.0
+146,Ra'jah O'Hara_CAN_1_WORLD,1,3.0
+147,Rita Baga_CAN_1_WORLD,1,4.0
+148,Silky Nutmeg Ganache_CAN_1_WORLD,1,2.0
+149,Victoria Scone_CAN_1_WORLD,1,2.0
+150,Anetra_US_15_REG,1,5.0
+151,Luxx Noir London_US_15_REG,1,2.0
+152,Mistress Isabelle Brookes_US_15_REG,1,2.0
+153,Sasha Colby_US_15_REG,1,2.0
+154,Athena Sorgelikis_BEL_1_REG,1,5.0
+155,Drag Couenne_BEL_1_REG,1,3.0
+156,Susan_BEL_1_REG,1,2.0
+157,Admira Thunderpussy_SWE_1_REG,1,3.0
+158,Fontana_SWE_1_REG,1,2.0
+159,Vanity Vain_SWE_1_REG,1,2.0
+160,Chad Michaels_US_1_AS,2,3.0
+161,Raven_US_1_AS,2,1.0
+162,Jujubee_US_1_AS,2,1.0
+163,Shannel_US_1_AS,2,3.0
+164,Alaska_US_2_AS,2,5.0
+165,Detox_US_2_AS,2,0.0
+166,Katya_US_2_AS,2,4.0
+167,Roxxxy Andrews_US_2_AS,2,0.0
+168,Trixie Mattel_US_3_AS,2,2.0
+169,Kennedy Davenport_US_3_AS,2,0.0
+170,BeBe Zahara Benet_US_3_AS,2,3.0
+171,Shangela_US_3_AS,2,5.0
+172,Monet X Change_US_4_AS,2,4.0
+173,Trinity the Tuck_US_4_AS,2,2.0
+174,Monique Heart_US_4_AS,2,0.0
+175,Naomi Smalls_US_4_AS,2,3.0
+176,Jujubee_US_5_AS,2,3.0
+177,Shea Coulee_US_5_AS,2,5.0
+178,Miz Cracker_US_5_AS,2,2.0
+179,Priyanka_CAN_1_REG,2,3.0
+180,Rita Baga_CAN_1_REG,2,2.0
+181,Scarlett BoBo_CAN_1_REG,2,2.0
+182,Envy Peru_HOL_1_REG,2,5.0
+183,Janey Jacke_HOL_1_REG,2,2.0
+184,Ma'Ma Queen_HOL_1_REG,2,2.0
+185,Miss Abby OMG_HOL_1_REG,2,2.0
+186,Natalia Pilacam_THI_1_REG,2,4.0
+187,Annee Maywong_THI_1_REG,2,3.0
+188,Dearis Doll_THI_1_REG,2,2.0
+189,The Vivienne_UK_1_REG,2,3.0
+190,Divina de Campo_UK_1_REG,2,2.0
+191,Baga Chipz_UK_1_REG,2,5.0
+192,Bebe Zahara Benet_US_1_REG,2,2.0
+193,Nina Flowers_US_1_REG,2,3.0
+194,Rebbeca Glasscock_US_1_REG,2,3.0
+195,Aquaria_US_10_REG,2,2.0
+196,Eureka_US_10_REG,2,0.0
+197,Kameron Michaels_US_10_REG,2,3.0
+198,Asia O'Hara_US_10_REG,2,2.0
+199,Yvie Oddly_US_11_REG,2,5.0
+200,Brooke Lynn Hytes_US_11_REG,2,1.0
+201,A'keria Davenport_US_11_REG,2,2.0
+202,Silky Nutmeg Ganache_US_11_REG,2,2.0
+203,Jaida Essence Hall_US_12_REG,2,5.0
+204,Crystal Methyd_US_12_REG,2,
+205,Gigi Goode_US_12_REG,2,
+206,Symone_US_13_REG,2,5.0
+207,Kandy Muse_US_13_REG,2,1.0
+208,Gottmik_US_13_REG,2,1.0
+209,Rose_US_13_REG,2,
+210,Angele Anang_THI_2_REG,2,2.0
+211,Kana Warrior_THI_2_REG,2,2.0
+212,Kandy Zyanide_THI_2_REG,2,2.0
+213,Lawrence Chaney_UK_2_REG,2,1.0
+214,Bimini Bon Boulash_UK_2_REG,2,2.0
+215,Tayce_UK_2_REG,2,0.0
+216,Ellie Diamond_UK_2_REG,2,3.0
+217,Tyra Sanchez_US_2_REG,2,3.0
+218,Raven_US_2_REG,2,0.0
+219,Jujubee_US_2_REG,2,3.0
+220,Raja_US_3_REG,2,1.0
+221,Manila Luzon_US_3_REG,2,2.0
+222,Alexis Mateo_US_3_REG,2,5.0
+223,Sharon Needles_US_4_REG,2,3.0
+224,Chad Michaels_US_4_REG,2,5.0
+225,Phi Phi O'Hara_US_4_REG,2,2.0
+226,Jinkx Monsoon_US_5_REG,2,2.0
+227,Alaska_US_5_REG,2,2.0
+228,Roxxxy Andrews_US_5_REG,2,2.0
+229,Bianca Del Rio_US_6_REG,2,5.0
+230,Adore Delano_US_6_REG,2,
+231,Courtney Act_US_6_REG,2,2.0
+232,Violet Chachki_US_7_REG,2,3.0
+233,Ginger Minj_US_7_REG,2,5.0
+234,Pearl_US_7_REG,2,2.0
+235,Bob the Drag Queen_US_8_REG,2,2.0
+236,Kim Chi_US_8_REG,2,3.0
+237,Naomi Smalls_US_8_REG,2,2.0
+238,Sasha Velour_US_9_REG,2,2.0
+239,Peppermint_US_9_REG,2,2.0
+240,Shea Coulee_US_9_REG,2,3.0
+241,Trinity the Tuck_US_9_REG,2,3.0
+242,Kita Mean_AUS_1_REG,2,3.0
+243,Art Simone_AUS_1_REG,2,0.0
+244,Karen from Finance_AUS_1_REG,2,2.0
+245,Scarlet Adams_AUS_1_REG,2,2.0
+246,Carmen Farala_ESP_1_REG,2,5.0
+247,Killer Queen_ESP_1_REG,2,2.0
+248,Sagittaria_ESP_1_REG,2,2.0
+249,Pupi Poisson_ESP_1_REG,2,3.0
+250,Kylie Sonique Love_US_6_AS,2,3.0
+251,Ginger Minj_US_6_AS,2,2.0
+252,Ra'jah O'Hara_US_6_AS,2,5.0
+253,Eureka_US_6_AS,2,3.0
+254,Vanessa Van Cartier_HOL_2_REG,2,2.0
+255,My Little Puny_HOL_2_REG,2,2.0
+256,Vivaldi_HOL_2_REG,2,3.0
+257,Ella Vaday_UK_3_REG,2,2.0
+258,Kitty Scott-Claus_UK_3_REG,2,3.0
+259,Krystal Versace_UK_3_REG,2,5.0
+260,Icesis Couture_CAN_2_REG,2,0.0
+261,Kendall Gender_CAN_2_REG,2,3.0
+262,Pythia_CAN_2_REG,2,5.0
+263,Farida Kant_ITA_1_REG,2,2.0
+264,Elecktra Bionic_ITA_1_REG,2,2.0
+265,Le Riche_ITA_1_REG,2,0.0
+266,Luquisha Lubamba_ITA_1_REG,2,1.0
+267,Blu Hydrangea_UK_1_WORLD,2,2.0
+268,Mo Heart_UK_1_WORLD,2,3.0
+269,Baga Chipz_UK_1_WORLD,2,2.0
+270,Jujubee_UK_1_WORLD,2,0.0
+271,Angeria Paris VanMichaels_US_14_REG,2,5.0
+272,Bosco_US_14_REG,2,
+273,Daya Betty_US_14_REG,2,0.0
+274,Lady Camden_US_14_REG,2,3.0
+275,Willow Pill_US_14_REG,2,
+276,Estrella Xtravaganza_ESP_2_REG,2,2.0
+277,Sharonne_ESP_2_REG,2,5.0
+278,Venedita Von Dash_ESP_2_REG,2,2.0
+279,Marina_ESP_2_REG,2,2.0
+280,Jinkx Monsoon_US_7_AS,2,5.0
+281,Monet X Change_US_7_AS,2,3.0
+282,Shea Coulee_US_7_AS,2,2.0
+283,Trinity the Tuck_US_7_AS,2,4.0
+284,Paloma_FRA_1_REG,2,5.0
+285,La Grande Dame_FRA_1_REG,2,3.0
+286,Soa de Muse_FRA_1_REG,2,0.0
+287,Lolita Banana_FRA_1_REG,2,3.0
+288,Gisele Lullaby_CAN_3_REG,2,2.0
+289,Jada Shada Hudson_CAN_3_REG,2,0.0
+290,Kimmy Couture_CAN_3_REG,2,5.0
+291,Miss Fiercalicious_CAN_3_REG,2,3.0
+292,Hanna Conda_AUS_2_REG,2,3.0
+293,Kween Kong_AUS_2_REG,2,0.0
+294,Spankie Jackzon_AUS_2_REG,2,5.0
+295,Eva Le Queen_PH_1_REG,2,2.0
+296,Marina Summers_PH_1_REG,2,2.0
+297,Precious Paula Nicole_PH_1_REG,2,3.0
+298,Xilhouete_PH_1_REG,2,2.0
+299,Black Peppa_UK_4_REG,2,2.0
+300,Cheddar Gorgeous_UK_4_REG,2,5.0
+301,Danny Beard_UK_4_REG,2,5.0
+302,Jonbers Blonde_UK_4_REG,2,0.0
+303,La Diamond_ITA_2_REG,2,2.0
+304,Aura Etherial_ITA_2_REG,2,5.0
+305,Nehllenia_ITA_2_REG,2,2.0
+306,Ra'jah O'Hara_CAN_1_WORLD,2,4.0
+307,Rita Baga_CAN_1_WORLD,2,2.0
+308,Silky Nutmeg Ganache_CAN_1_WORLD,2,1.0
+309,Victoria Scone_CAN_1_WORLD,2,3.0
+310,Anetra_US_15_REG,2,2.0
+311,Luxx Noir London_US_15_REG,2,3.0
+312,Mistress Isabelle Brookes_US_15_REG,2,2.0
+313,Sasha Colby_US_15_REG,2,5.0
+314,Athena Sorgelikis_BEL_1_REG,2,2.0
+315,Drag Couenne_BEL_1_REG,2,5.0
+316,Susan_BEL_1_REG,2,1.0
+317,Admira Thunderpussy_SWE_1_REG,2,2.0
+318,Fontana_SWE_1_REG,2,2.0
+319,Vanity Vain_SWE_1_REG,2,0.0
+320,Chad Michaels_US_1_AS,3,5.0
+321,Raven_US_1_AS,3,0.0
+322,Jujubee_US_1_AS,3,0.0
+323,Shannel_US_1_AS,3,5.0
+324,Alaska_US_2_AS,3,2.0
+325,Detox_US_2_AS,3,4.0
+326,Katya_US_2_AS,3,0.0
+327,Roxxxy Andrews_US_2_AS,3,2.0
+328,Trixie Mattel_US_3_AS,3,3.0
+329,Kennedy Davenport_US_3_AS,3,5.0
+330,BeBe Zahara Benet_US_3_AS,3,2.0
+331,Shangela_US_3_AS,3,2.0
+332,Monet X Change_US_4_AS,3,2.0
+333,Trinity the Tuck_US_4_AS,3,4.0
+334,Monique Heart_US_4_AS,3,2.0
+335,Naomi Smalls_US_4_AS,3,3.0
+336,Jujubee_US_5_AS,3,4.0
+337,Shea Coulee_US_5_AS,3,0.0
+338,Miz Cracker_US_5_AS,3,2.0
+339,Priyanka_CAN_1_REG,3,5.0
+340,Rita Baga_CAN_1_REG,3,2.0
+341,Scarlett BoBo_CAN_1_REG,3,3.0
+342,Envy Peru_HOL_1_REG,3,2.0
+343,Janey Jacke_HOL_1_REG,3,2.0
+344,Ma'Ma Queen_HOL_1_REG,3,5.0
+345,Miss Abby OMG_HOL_1_REG,3,0.0
+346,Natalia Pilacam_THI_1_REG,3,2.0
+347,Annee Maywong_THI_1_REG,3,4.0
+348,Dearis Doll_THI_1_REG,3,0.0
+349,The Vivienne_UK_1_REG,3,3.0
+350,Divina de Campo_UK_1_REG,3,5.0
+351,Baga Chipz_UK_1_REG,3,2.0
+352,Bebe Zahara Benet_US_1_REG,3,5.0
+353,Nina Flowers_US_1_REG,3,3.0
+354,Rebbeca Glasscock_US_1_REG,3,2.0
+355,Aquaria_US_10_REG,3,2.0
+356,Eureka_US_10_REG,3,3.0
+357,Kameron Michaels_US_10_REG,3,1.0
+358,Asia O'Hara_US_10_REG,3,5.0
+359,Yvie Oddly_US_11_REG,3,3.0
+360,Brooke Lynn Hytes_US_11_REG,3,3.0
+361,A'keria Davenport_US_11_REG,3,0.0
+362,Silky Nutmeg Ganache_US_11_REG,3,3.0
+363,Jaida Essence Hall_US_12_REG,3,2.0
+364,Crystal Methyd_US_12_REG,3,1.0
+365,Gigi Goode_US_12_REG,3,2.0
+366,Symone_US_13_REG,3,
+367,Kandy Muse_US_13_REG,3,
+368,Gottmik_US_13_REG,3,
+369,Rose_US_13_REG,3,4.0
+370,Angele Anang_THI_2_REG,3,2.0
+371,Kana Warrior_THI_2_REG,3,0.0
+372,Kandy Zyanide_THI_2_REG,3,2.0
+373,Lawrence Chaney_UK_2_REG,3,5.0
+374,Bimini Bon Boulash_UK_2_REG,3,3.0
+375,Tayce_UK_2_REG,3,2.0
+376,Ellie Diamond_UK_2_REG,3,2.0
+377,Tyra Sanchez_US_2_REG,3,5.0
+378,Raven_US_2_REG,3,0.0
+379,Jujubee_US_2_REG,3,2.0
+380,Raja_US_3_REG,3,2.0
+381,Manila Luzon_US_3_REG,3,2.0
+382,Alexis Mateo_US_3_REG,3,5.0
+383,Sharon Needles_US_4_REG,3,5.0
+384,Chad Michaels_US_4_REG,3,3.0
+385,Phi Phi O'Hara_US_4_REG,3,2.0
+386,Jinkx Monsoon_US_5_REG,3,3.0
+387,Alaska_US_5_REG,3,1.0
+388,Roxxxy Andrews_US_5_REG,3,3.0
+389,Bianca Del Rio_US_6_REG,3,3.0
+390,Adore Delano_US_6_REG,3,1.0
+391,Courtney Act_US_6_REG,3,3.0
+392,Violet Chachki_US_7_REG,3,2.0
+393,Ginger Minj_US_7_REG,3,3.0
+394,Pearl_US_7_REG,3,1.0
+395,Bob the Drag Queen_US_8_REG,3,5.0
+396,Kim Chi_US_8_REG,3,2.0
+397,Naomi Smalls_US_8_REG,3,2.0
+398,Sasha Velour_US_9_REG,3,2.0
+399,Peppermint_US_9_REG,3,3.0
+400,Shea Coulee_US_9_REG,3,2.0
+401,Trinity the Tuck_US_9_REG,3,5.0
+402,Kita Mean_AUS_1_REG,3,3.0
+403,Art Simone_AUS_1_REG,3,
+404,Karen from Finance_AUS_1_REG,3,2.0
+405,Scarlet Adams_AUS_1_REG,3,5.0
+406,Carmen Farala_ESP_1_REG,3,2.0
+407,Killer Queen_ESP_1_REG,3,2.0
+408,Sagittaria_ESP_1_REG,3,5.0
+409,Pupi Poisson_ESP_1_REG,3,3.0
+410,Kylie Sonique Love_US_6_AS,3,2.0
+411,Ginger Minj_US_6_AS,3,0.0
+412,Ra'jah O'Hara_US_6_AS,3,3.0
+413,Eureka_US_6_AS,3,2.0
+414,Vanessa Van Cartier_HOL_2_REG,3,2.0
+415,My Little Puny_HOL_2_REG,3,2.0
+416,Vivaldi_HOL_2_REG,3,5.0
+417,Ella Vaday_UK_3_REG,3,3.0
+418,Kitty Scott-Claus_UK_3_REG,3,2.0
+419,Krystal Versace_UK_3_REG,3,3.0
+420,Icesis Couture_CAN_2_REG,3,2.0
+421,Kendall Gender_CAN_2_REG,3,1.0
+422,Pythia_CAN_2_REG,3,2.0
+423,Farida Kant_ITA_1_REG,3,2.0
+424,Elecktra Bionic_ITA_1_REG,3,2.0
+425,Le Riche_ITA_1_REG,3,0.0
+426,Luquisha Lubamba_ITA_1_REG,3,3.0
+427,Blu Hydrangea_UK_1_WORLD,3,2.0
+428,Mo Heart_UK_1_WORLD,3,1.0
+429,Baga Chipz_UK_1_WORLD,3,2.0
+430,Jujubee_UK_1_WORLD,3,0.0
+431,Angeria Paris VanMichaels_US_14_REG,3,3.0
+432,Bosco_US_14_REG,3,2.0
+433,Daya Betty_US_14_REG,3,2.0
+434,Lady Camden_US_14_REG,3,2.0
+435,Willow Pill_US_14_REG,3,5.0
+436,Estrella Xtravaganza_ESP_2_REG,3,3.0
+437,Sharonne_ESP_2_REG,3,3.0
+438,Venedita Von Dash_ESP_2_REG,3,5.0
+439,Marina_ESP_2_REG,3,2.0
+440,Jinkx Monsoon_US_7_AS,3,2.0
+441,Monet X Change_US_7_AS,3,2.0
+442,Shea Coulee_US_7_AS,3,3.0
+443,Trinity the Tuck_US_7_AS,3,4.0
+444,Paloma_FRA_1_REG,3,3.0
+445,La Grande Dame_FRA_1_REG,3,3.0
+446,Soa de Muse_FRA_1_REG,3,0.0
+447,Lolita Banana_FRA_1_REG,3,2.0
+448,Gisele Lullaby_CAN_3_REG,3,2.0
+449,Jada Shada Hudson_CAN_3_REG,3,5.0
+450,Kimmy Couture_CAN_3_REG,3,3.0
+451,Miss Fiercalicious_CAN_3_REG,3,0.0
+452,Hanna Conda_AUS_2_REG,3,2.0
+453,Kween Kong_AUS_2_REG,3,2.0
+454,Spankie Jackzon_AUS_2_REG,3,5.0
+455,Eva Le Queen_PH_1_REG,3,3.0
+456,Marina Summers_PH_1_REG,3,3.0
+457,Precious Paula Nicole_PH_1_REG,3,2.0
+458,Xilhouete_PH_1_REG,3,0.0
+459,Black Peppa_UK_4_REG,3,0.0
+460,Cheddar Gorgeous_UK_4_REG,3,1.0
+461,Danny Beard_UK_4_REG,3,2.0
+462,Jonbers Blonde_UK_4_REG,3,1.0
+463,La Diamond_ITA_2_REG,3,5.0
+464,Aura Etherial_ITA_2_REG,3,1.0
+465,Nehllenia_ITA_2_REG,3,2.0
+466,Ra'jah O'Hara_CAN_1_WORLD,3,2.0
+467,Rita Baga_CAN_1_WORLD,3,0.0
+468,Silky Nutmeg Ganache_CAN_1_WORLD,3,5.0
+469,Victoria Scone_CAN_1_WORLD,3,4.0
+470,Anetra_US_15_REG,3,2.0
+471,Luxx Noir London_US_15_REG,3,2.0
+472,Mistress Isabelle Brookes_US_15_REG,3,3.0
+473,Sasha Colby_US_15_REG,3,2.0
+474,Athena Sorgelikis_BEL_1_REG,3,2.0
+475,Drag Couenne_BEL_1_REG,3,2.0
+476,Susan_BEL_1_REG,3,5.0
+477,Admira Thunderpussy_SWE_1_REG,3,2.0
+478,Fontana_SWE_1_REG,3,1.0
+479,Vanity Vain_SWE_1_REG,3,5.0
+480,Chad Michaels_US_1_AS,4,5.0
+481,Raven_US_1_AS,4,0.0
+482,Jujubee_US_1_AS,4,0.0
+483,Shannel_US_1_AS,4,5.0
+484,Alaska_US_2_AS,4,5.0
+485,Detox_US_2_AS,4,2.0
+486,Katya_US_2_AS,4,0.0
+487,Roxxxy Andrews_US_2_AS,4,0.0
+488,Trixie Mattel_US_3_AS,4,0.0
+489,Kennedy Davenport_US_3_AS,4,0.0
+490,BeBe Zahara Benet_US_3_AS,4,2.0
+491,Shangela_US_3_AS,4,5.0
+492,Monet X Change_US_4_AS,4,0.0
+493,Trinity the Tuck_US_4_AS,4,1.0
+494,Monique Heart_US_4_AS,4,5.0
+495,Naomi Smalls_US_4_AS,4,2.0
+496,Jujubee_US_5_AS,4,3.0
+497,Shea Coulee_US_5_AS,4,2.0
+498,Miz Cracker_US_5_AS,4,5.0
+499,Priyanka_CAN_1_REG,4,2.0
+500,Rita Baga_CAN_1_REG,4,5.0
+501,Scarlett BoBo_CAN_1_REG,4,3.0
+502,Envy Peru_HOL_1_REG,4,5.0
+503,Janey Jacke_HOL_1_REG,4,3.0
+504,Ma'Ma Queen_HOL_1_REG,4,0.0
+505,Miss Abby OMG_HOL_1_REG,4,0.0
+506,Natalia Pilacam_THI_1_REG,4,0.5
+507,Annee Maywong_THI_1_REG,4,1.0
+508,Dearis Doll_THI_1_REG,4,4.0
+509,The Vivienne_UK_1_REG,4,5.0
+510,Divina de Campo_UK_1_REG,4,1.0
+511,Baga Chipz_UK_1_REG,4,5.0
+512,Bebe Zahara Benet_US_1_REG,4,3.0
+513,Nina Flowers_US_1_REG,4,3.0
+514,Rebbeca Glasscock_US_1_REG,4,0.0
+515,Aquaria_US_10_REG,4,5.0
+516,Eureka_US_10_REG,4,2.0
+517,Kameron Michaels_US_10_REG,4,3.0
+518,Asia O'Hara_US_10_REG,4,1.0
+519,Yvie Oddly_US_11_REG,4,3.0
+520,Brooke Lynn Hytes_US_11_REG,4,3.0
+521,A'keria Davenport_US_11_REG,4,2.0
+522,Silky Nutmeg Ganache_US_11_REG,4,5.0
+523,Jaida Essence Hall_US_12_REG,4,3.0
+524,Crystal Methyd_US_12_REG,4,2.0
+525,Gigi Goode_US_12_REG,4,5.0
+526,Symone_US_13_REG,4,5.0
+527,Kandy Muse_US_13_REG,4,3.0
+528,Gottmik_US_13_REG,4,2.0
+529,Rose_US_13_REG,4,3.0
+530,Angele Anang_THI_2_REG,4,4.0
+531,Kana Warrior_THI_2_REG,4,0.0
+532,Kandy Zyanide_THI_2_REG,4,0.0
+533,Lawrence Chaney_UK_2_REG,4,5.0
+534,Bimini Bon Boulash_UK_2_REG,4,3.0
+535,Tayce_UK_2_REG,4,2.0
+536,Ellie Diamond_UK_2_REG,4,2.0
+537,Tyra Sanchez_US_2_REG,4,2.0
+538,Raven_US_2_REG,4,2.0
+539,Jujubee_US_2_REG,4,1.0
+540,Raja_US_3_REG,4,2.0
+541,Manila Luzon_US_3_REG,4,5.0
+542,Alexis Mateo_US_3_REG,4,2.0
+543,Sharon Needles_US_4_REG,4,2.0
+544,Chad Michaels_US_4_REG,4,3.0
+545,Phi Phi O'Hara_US_4_REG,4,3.0
+546,Jinkx Monsoon_US_5_REG,4,3.0
+547,Alaska_US_5_REG,4,2.0
+548,Roxxxy Andrews_US_5_REG,4,1.0
+549,Bianca Del Rio_US_6_REG,4,2.0
+550,Adore Delano_US_6_REG,4,3.0
+551,Courtney Act_US_6_REG,4,5.0
+552,Violet Chachki_US_7_REG,4,2.0
+553,Ginger Minj_US_7_REG,4,2.0
+554,Pearl_US_7_REG,4,0.0
+555,Bob the Drag Queen_US_8_REG,4,2.0
+556,Kim Chi_US_8_REG,4,3.0
+557,Naomi Smalls_US_8_REG,4,3.0
+558,Sasha Velour_US_9_REG,4,5.0
+559,Peppermint_US_9_REG,4,1.0
+560,Shea Coulee_US_9_REG,4,5.0
+561,Trinity the Tuck_US_9_REG,4,0.0
+562,Kita Mean_AUS_1_REG,4,2.0
+563,Art Simone_AUS_1_REG,4,3.0
+564,Karen from Finance_AUS_1_REG,4,0.0
+565,Scarlet Adams_AUS_1_REG,4,5.0
+566,Carmen Farala_ESP_1_REG,4,1.0
+567,Killer Queen_ESP_1_REG,4,5.0
+568,Sagittaria_ESP_1_REG,4,3.0
+569,Pupi Poisson_ESP_1_REG,4,3.0
+570,Kylie Sonique Love_US_6_AS,4,2.0
+571,Ginger Minj_US_6_AS,4,1.0
+572,Ra'jah O'Hara_US_6_AS,4,2.0
+573,Eureka_US_6_AS,4,3.0
+574,Vanessa Van Cartier_HOL_2_REG,4,1.0
+575,My Little Puny_HOL_2_REG,4,5.0
+576,Vivaldi_HOL_2_REG,4,2.0
+577,Ella Vaday_UK_3_REG,4,5.0
+578,Kitty Scott-Claus_UK_3_REG,4,2.0
+579,Krystal Versace_UK_3_REG,4,2.0
+580,Icesis Couture_CAN_2_REG,4,2.0
+581,Kendall Gender_CAN_2_REG,4,2.0
+582,Pythia_CAN_2_REG,4,3.0
+583,Farida Kant_ITA_1_REG,4,2.0
+584,Elecktra Bionic_ITA_1_REG,4,2.0
+585,Le Riche_ITA_1_REG,4,5.0
+586,Luquisha Lubamba_ITA_1_REG,4,3.0
+587,Blu Hydrangea_UK_1_WORLD,4,5.0
+588,Mo Heart_UK_1_WORLD,4,0.0
+589,Baga Chipz_UK_1_WORLD,4,4.0
+590,Jujubee_UK_1_WORLD,4,0.0
+591,Angeria Paris VanMichaels_US_14_REG,4,5.0
+592,Bosco_US_14_REG,4,2.0
+593,Daya Betty_US_14_REG,4,2.0
+594,Lady Camden_US_14_REG,4,2.0
+595,Willow Pill_US_14_REG,4,3.0
+596,Estrella Xtravaganza_ESP_2_REG,4,5.0
+597,Sharonne_ESP_2_REG,4,3.0
+598,Venedita Von Dash_ESP_2_REG,4,2.0
+599,Marina_ESP_2_REG,4,3.0
+600,Jinkx Monsoon_US_7_AS,4,4.0
+601,Monet X Change_US_7_AS,4,2.0
+602,Shea Coulee_US_7_AS,4,2.0
+603,Trinity the Tuck_US_7_AS,4,2.0
+604,Paloma_FRA_1_REG,4,3.0
+605,La Grande Dame_FRA_1_REG,4,5.0
+606,Soa de Muse_FRA_1_REG,4,3.0
+607,Lolita Banana_FRA_1_REG,4,1.0
+608,Gisele Lullaby_CAN_3_REG,4,5.0
+609,Jada Shada Hudson_CAN_3_REG,4,0.0
+610,Kimmy Couture_CAN_3_REG,4,3.0
+611,Miss Fiercalicious_CAN_3_REG,4,2.0
+612,Hanna Conda_AUS_2_REG,4,5.0
+613,Kween Kong_AUS_2_REG,4,2.0
+614,Spankie Jackzon_AUS_2_REG,4,3.0
+615,Eva Le Queen_PH_1_REG,4,2.0
+616,Marina Summers_PH_1_REG,4,3.0
+617,Precious Paula Nicole_PH_1_REG,4,5.0
+618,Xilhouete_PH_1_REG,4,3.0
+619,Black Peppa_UK_4_REG,4,2.0
+620,Cheddar Gorgeous_UK_4_REG,4,3.0
+621,Danny Beard_UK_4_REG,4,5.0
+622,Jonbers Blonde_UK_4_REG,4,2.0
+623,La Diamond_ITA_2_REG,4,5.0
+624,Aura Etherial_ITA_2_REG,4,2.0
+625,Nehllenia_ITA_2_REG,4,3.0
+626,Ra'jah O'Hara_CAN_1_WORLD,4,0.0
+627,Rita Baga_CAN_1_WORLD,4,2.0
+628,Silky Nutmeg Ganache_CAN_1_WORLD,4,4.0
+629,Victoria Scone_CAN_1_WORLD,4,5.0
+630,Anetra_US_15_REG,4,2.0
+631,Luxx Noir London_US_15_REG,4,5.0
+632,Mistress Isabelle Brookes_US_15_REG,4,2.0
+633,Sasha Colby_US_15_REG,4,3.0
+634,Athena Sorgelikis_BEL_1_REG,4,2.0
+635,Drag Couenne_BEL_1_REG,4,5.0
+636,Susan_BEL_1_REG,4,0.0
+637,Admira Thunderpussy_SWE_1_REG,4,5.0
+638,Fontana_SWE_1_REG,4,2.0
+639,Vanity Vain_SWE_1_REG,4,1.0
+640,Chad Michaels_US_1_AS,5,5.0
+641,Raven_US_1_AS,5,0.0
+642,Jujubee_US_1_AS,5,0.0
+643,Shannel_US_1_AS,5,5.0
+644,Alaska_US_2_AS,5,5.0
+645,Detox_US_2_AS,5,5.0
+646,Katya_US_2_AS,5,2.0
+647,Roxxxy Andrews_US_2_AS,5,0.0
+648,Trixie Mattel_US_3_AS,5,4.0
+649,Kennedy Davenport_US_3_AS,5,2.0
+650,BeBe Zahara Benet_US_3_AS,5,5.0
+651,Shangela_US_3_AS,5,0.0
+652,Monet X Change_US_4_AS,5,5.0
+653,Trinity the Tuck_US_4_AS,5,0.0
+654,Monique Heart_US_4_AS,5,0.0
+655,Naomi Smalls_US_4_AS,5,0.0
+656,Jujubee_US_5_AS,5,3.0
+657,Shea Coulee_US_5_AS,5,5.0
+658,Miz Cracker_US_5_AS,5,1.0
+659,Priyanka_CAN_1_REG,5,0.0
+660,Rita Baga_CAN_1_REG,5,3.0
+661,Scarlett BoBo_CAN_1_REG,5,2.0
+662,Envy Peru_HOL_1_REG,5,5.0
+663,Janey Jacke_HOL_1_REG,5,3.0
+664,Ma'Ma Queen_HOL_1_REG,5,3.0
+665,Miss Abby OMG_HOL_1_REG,5,0.0
+666,Natalia Pilacam_THI_1_REG,5,5.0
+667,Annee Maywong_THI_1_REG,5,0.0
+668,Dearis Doll_THI_1_REG,5,2.0
+669,The Vivienne_UK_1_REG,5,0.0
+670,Divina de Campo_UK_1_REG,5,5.0
+671,Baga Chipz_UK_1_REG,5,5.0
+672,Bebe Zahara Benet_US_1_REG,5,0.0
+673,Nina Flowers_US_1_REG,5,1.0
+674,Rebbeca Glasscock_US_1_REG,5,5.0
+675,Aquaria_US_10_REG,5,2.0
+676,Eureka_US_10_REG,5,5.0
+677,Kameron Michaels_US_10_REG,5,2.0
+678,Asia O'Hara_US_10_REG,5,2.0
+679,Yvie Oddly_US_11_REG,5,3.0
+680,Brooke Lynn Hytes_US_11_REG,5,5.0
+681,A'keria Davenport_US_11_REG,5,2.0
+682,Silky Nutmeg Ganache_US_11_REG,5,1.0
+683,Jaida Essence Hall_US_12_REG,5,2.0
+684,Crystal Methyd_US_12_REG,5,2.0
+685,Gigi Goode_US_12_REG,5,3.0
+686,Symone_US_13_REG,5,2.0
+687,Kandy Muse_US_13_REG,5,2.0
+688,Gottmik_US_13_REG,5,5.0
+689,Rose_US_13_REG,5,3.0
+690,Angele Anang_THI_2_REG,5,4.0
+691,Kana Warrior_THI_2_REG,5,0.0
+692,Kandy Zyanide_THI_2_REG,5,
+693,Lawrence Chaney_UK_2_REG,5,5.0
+694,Bimini Bon Boulash_UK_2_REG,5,5.0
+695,Tayce_UK_2_REG,5,5.0
+696,Ellie Diamond_UK_2_REG,5,2.0
+697,Tyra Sanchez_US_2_REG,5,5.0
+698,Raven_US_2_REG,5,3.0
+699,Jujubee_US_2_REG,5,3.0
+700,Raja_US_3_REG,5,3.0
+701,Manila Luzon_US_3_REG,5,2.0
+702,Alexis Mateo_US_3_REG,5,3.0
+703,Sharon Needles_US_4_REG,5,3.0
+704,Chad Michaels_US_4_REG,5,5.0
+705,Phi Phi O'Hara_US_4_REG,5,1.0
+706,Jinkx Monsoon_US_5_REG,5,5.0
+707,Alaska_US_5_REG,5,3.0
+708,Roxxxy Andrews_US_5_REG,5,3.0
+709,Bianca Del Rio_US_6_REG,5,3.0
+710,Adore Delano_US_6_REG,5,3.0
+711,Courtney Act_US_6_REG,5,2.0
+712,Violet Chachki_US_7_REG,5,1.0
+713,Ginger Minj_US_7_REG,5,2.0
+714,Pearl_US_7_REG,5,5.0
+715,Bob the Drag Queen_US_8_REG,5,5.0
+716,Kim Chi_US_8_REG,5,2.0
+717,Naomi Smalls_US_8_REG,5,0.0
+718,Sasha Velour_US_9_REG,5,2.0
+719,Peppermint_US_9_REG,5,3.0
+720,Shea Coulee_US_9_REG,5,5.0
+721,Trinity the Tuck_US_9_REG,5,2.0
+722,Kita Mean_AUS_1_REG,5,3.0
+723,Art Simone_AUS_1_REG,5,2.0
+724,Karen from Finance_AUS_1_REG,5,1.0
+725,Scarlet Adams_AUS_1_REG,5,2.0
+726,Carmen Farala_ESP_1_REG,5,3.0
+727,Killer Queen_ESP_1_REG,5,0.0
+728,Sagittaria_ESP_1_REG,5,2.0
+729,Pupi Poisson_ESP_1_REG,5,5.0
+730,Kylie Sonique Love_US_6_AS,5,0.0
+731,Ginger Minj_US_6_AS,5,5.0
+732,Ra'jah O'Hara_US_6_AS,5,2.0
+733,Eureka_US_6_AS,5,3.0
+734,Vanessa Van Cartier_HOL_2_REG,5,5.0
+735,My Little Puny_HOL_2_REG,5,0.0
+736,Vivaldi_HOL_2_REG,5,3.0
+737,Ella Vaday_UK_3_REG,5,2.0
+738,Kitty Scott-Claus_UK_3_REG,5,2.0
+739,Krystal Versace_UK_3_REG,5,2.0
+740,Icesis Couture_CAN_2_REG,5,3.0
+741,Kendall Gender_CAN_2_REG,5,1.0
+742,Pythia_CAN_2_REG,5,3.0
+743,Farida Kant_ITA_1_REG,5,5.0
+744,Elecktra Bionic_ITA_1_REG,5,3.0
+745,Le Riche_ITA_1_REG,5,1.0
+746,Luquisha Lubamba_ITA_1_REG,5,0.0
+747,Blu Hydrangea_UK_1_WORLD,5,0.0
+748,Mo Heart_UK_1_WORLD,5,4.0
+749,Baga Chipz_UK_1_WORLD,5,0.0
+750,Jujubee_UK_1_WORLD,5,5.0
+751,Angeria Paris VanMichaels_US_14_REG,5,3.0
+752,Bosco_US_14_REG,5,5.0
+753,Daya Betty_US_14_REG,5,2.0
+754,Lady Camden_US_14_REG,5,3.0
+755,Willow Pill_US_14_REG,5,2.0
+756,Estrella Xtravaganza_ESP_2_REG,5,2.0
+757,Sharonne_ESP_2_REG,5,5.0
+758,Venedita Von Dash_ESP_2_REG,5,3.0
+759,Marina_ESP_2_REG,5,2.0
+760,Jinkx Monsoon_US_7_AS,5,5.0
+761,Monet X Change_US_7_AS,5,2.0
+762,Shea Coulee_US_7_AS,5,3.0
+763,Trinity the Tuck_US_7_AS,5,2.0
+764,Paloma_FRA_1_REG,5,0.0
+765,La Grande Dame_FRA_1_REG,5,1.0
+766,Soa de Muse_FRA_1_REG,5,5.0
+767,Lolita Banana_FRA_1_REG,5,3.0
+768,Gisele Lullaby_CAN_3_REG,5,5.0
+769,Jada Shada Hudson_CAN_3_REG,5,2.0
+770,Kimmy Couture_CAN_3_REG,5,0.0
+771,Miss Fiercalicious_CAN_3_REG,5,2.0
+772,Hanna Conda_AUS_2_REG,5,5.0
+773,Kween Kong_AUS_2_REG,5,5.0
+774,Spankie Jackzon_AUS_2_REG,5,5.0
+775,Eva Le Queen_PH_1_REG,5,2.0
+776,Marina Summers_PH_1_REG,5,5.0
+777,Precious Paula Nicole_PH_1_REG,5,3.0
+778,Xilhouete_PH_1_REG,5,3.0
+779,Black Peppa_UK_4_REG,5,2.0
+780,Cheddar Gorgeous_UK_4_REG,5,2.0
+781,Danny Beard_UK_4_REG,5,5.0
+782,Jonbers Blonde_UK_4_REG,5,3.0
+783,La Diamond_ITA_2_REG,5,2.0
+784,Aura Etherial_ITA_2_REG,5,3.0
+785,Nehllenia_ITA_2_REG,5,4.0
+786,Ra'jah O'Hara_CAN_1_WORLD,5,2.0
+787,Rita Baga_CAN_1_WORLD,5,5.0
+788,Silky Nutmeg Ganache_CAN_1_WORLD,5,0.0
+789,Victoria Scone_CAN_1_WORLD,5,4.0
+790,Anetra_US_15_REG,5,1.0
+791,Luxx Noir London_US_15_REG,5,2.0
+792,Mistress Isabelle Brookes_US_15_REG,5,3.0
+793,Sasha Colby_US_15_REG,5,3.0
+794,Athena Sorgelikis_BEL_1_REG,5,1.0
+795,Drag Couenne_BEL_1_REG,5,2.0
+796,Susan_BEL_1_REG,5,3.0
+797,Admira Thunderpussy_SWE_1_REG,5,5.0
+798,Fontana_SWE_1_REG,5,0.0
+799,Vanity Vain_SWE_1_REG,5,3.0
+800,Chad Michaels_US_1_AS,6,
+801,Raven_US_1_AS,6,
+802,Jujubee_US_1_AS,6,
+803,Shannel_US_1_AS,6,
+804,Alaska_US_2_AS,6,5.0
+805,Detox_US_2_AS,6,2.0
+806,Katya_US_2_AS,6,4.0
+807,Roxxxy Andrews_US_2_AS,6,0.0
+808,Trixie Mattel_US_3_AS,6,0.0
+809,Kennedy Davenport_US_3_AS,6,0.0
+810,BeBe Zahara Benet_US_3_AS,6,4.0
+811,Shangela_US_3_AS,6,0.0
+812,Monet X Change_US_4_AS,6,2.0
+813,Trinity the Tuck_US_4_AS,6,2.0
+814,Monique Heart_US_4_AS,6,2.0
+815,Naomi Smalls_US_4_AS,6,2.0
+816,Jujubee_US_5_AS,6,3.0
+817,Shea Coulee_US_5_AS,6,3.0
+818,Miz Cracker_US_5_AS,6,4.0
+819,Priyanka_CAN_1_REG,6,2.0
+820,Rita Baga_CAN_1_REG,6,5.0
+821,Scarlett BoBo_CAN_1_REG,6,3.0
+822,Envy Peru_HOL_1_REG,6,5.0
+823,Janey Jacke_HOL_1_REG,6,0.0
+824,Ma'Ma Queen_HOL_1_REG,6,1.0
+825,Miss Abby OMG_HOL_1_REG,6,3.0
+826,Natalia Pilacam_THI_1_REG,6,3.0
+827,Annee Maywong_THI_1_REG,6,3.0
+828,Dearis Doll_THI_1_REG,6,5.0
+829,The Vivienne_UK_1_REG,6,5.0
+830,Divina de Campo_UK_1_REG,6,3.0
+831,Baga Chipz_UK_1_REG,6,1.0
+832,Bebe Zahara Benet_US_1_REG,6,5.0
+833,Nina Flowers_US_1_REG,6,3.0
+834,Rebbeca Glasscock_US_1_REG,6,0.0
+835,Aquaria_US_10_REG,6,2.0
+836,Eureka_US_10_REG,6,5.0
+837,Kameron Michaels_US_10_REG,6,3.0
+838,Asia O'Hara_US_10_REG,6,2.0
+839,Yvie Oddly_US_11_REG,6,3.0
+840,Brooke Lynn Hytes_US_11_REG,6,3.0
+841,A'keria Davenport_US_11_REG,6,5.0
+842,Silky Nutmeg Ganache_US_11_REG,6,3.0
+843,Jaida Essence Hall_US_12_REG,6,2.0
+844,Crystal Methyd_US_12_REG,6,1.0
+845,Gigi Goode_US_12_REG,6,5.0
+846,Symone_US_13_REG,6,2.0
+847,Kandy Muse_US_13_REG,6,0.0
+848,Gottmik_US_13_REG,6,2.0
+849,Rose_US_13_REG,6,2.0
+850,Angele Anang_THI_2_REG,6,4.0
+851,Kana Warrior_THI_2_REG,6,
+852,Kandy Zyanide_THI_2_REG,6,
+853,Lawrence Chaney_UK_2_REG,6,0.0
+854,Bimini Bon Boulash_UK_2_REG,6,5.0
+855,Tayce_UK_2_REG,6,3.0
+856,Ellie Diamond_UK_2_REG,6,2.0
+857,Tyra Sanchez_US_2_REG,6,1.0
+858,Raven_US_2_REG,6,3.0
+859,Jujubee_US_2_REG,6,0.0
+860,Raja_US_3_REG,6,5.0
+861,Manila Luzon_US_3_REG,6,3.0
+862,Alexis Mateo_US_3_REG,6,0.0
+863,Sharon Needles_US_4_REG,6,2.0
+864,Chad Michaels_US_4_REG,6,2.0
+865,Phi Phi O'Hara_US_4_REG,6,3.0
+866,Jinkx Monsoon_US_5_REG,6,3.0
+867,Alaska_US_5_REG,6,1.0
+868,Roxxxy Andrews_US_5_REG,6,3.0
+869,Bianca Del Rio_US_6_REG,6,3.0
+870,Adore Delano_US_6_REG,6,5.0
+871,Courtney Act_US_6_REG,6,2.0
+872,Violet Chachki_US_7_REG,6,2.0
+873,Ginger Minj_US_7_REG,6,3.0
+874,Pearl_US_7_REG,6,2.0
+875,Bob the Drag Queen_US_8_REG,6,2.0
+876,Kim Chi_US_8_REG,6,3.0
+877,Naomi Smalls_US_8_REG,6,5.0
+878,Sasha Velour_US_9_REG,6,3.0
+879,Peppermint_US_9_REG,6,0.0
+880,Shea Coulee_US_9_REG,6,2.0
+881,Trinity the Tuck_US_9_REG,6,2.0
+882,Kita Mean_AUS_1_REG,6,5.0
+883,Art Simone_AUS_1_REG,6,2.0
+884,Karen from Finance_AUS_1_REG,6,3.0
+885,Scarlet Adams_AUS_1_REG,6,0.0
+886,Carmen Farala_ESP_1_REG,6,5.0
+887,Killer Queen_ESP_1_REG,6,3.0
+888,Sagittaria_ESP_1_REG,6,0.0
+889,Pupi Poisson_ESP_1_REG,6,1.0
+890,Kylie Sonique Love_US_6_AS,6,5.0
+891,Ginger Minj_US_6_AS,6,3.0
+892,Ra'jah O'Hara_US_6_AS,6,0.0
+893,Eureka_US_6_AS,6,1.0
+894,Vanessa Van Cartier_HOL_2_REG,6,1.0
+895,My Little Puny_HOL_2_REG,6,3.0
+896,Vivaldi_HOL_2_REG,6,0.0
+897,Ella Vaday_UK_3_REG,6,5.0
+898,Kitty Scott-Claus_UK_3_REG,6,3.0
+899,Krystal Versace_UK_3_REG,6,1.0
+900,Icesis Couture_CAN_2_REG,6,5.0
+901,Kendall Gender_CAN_2_REG,6,0.0
+902,Pythia_CAN_2_REG,6,3.0
+903,Farida Kant_ITA_1_REG,6,
+904,Elecktra Bionic_ITA_1_REG,6,
+905,Le Riche_ITA_1_REG,6,
+906,Luquisha Lubamba_ITA_1_REG,6,
+907,Blu Hydrangea_UK_1_WORLD,6,
+908,Mo Heart_UK_1_WORLD,6,
+909,Baga Chipz_UK_1_WORLD,6,
+910,Jujubee_UK_1_WORLD,6,
+911,Angeria Paris VanMichaels_US_14_REG,6,3.0
+912,Bosco_US_14_REG,6,2.0
+913,Daya Betty_US_14_REG,6,2.0
+914,Lady Camden_US_14_REG,6,3.0
+915,Willow Pill_US_14_REG,6,2.0
+916,Estrella Xtravaganza_ESP_2_REG,6,0.0
+917,Sharonne_ESP_2_REG,6,2.0
+918,Venedita Von Dash_ESP_2_REG,6,3.0
+919,Marina_ESP_2_REG,6,1.0
+920,Jinkx Monsoon_US_7_AS,6,2.0
+921,Monet X Change_US_7_AS,6,3.0
+922,Shea Coulee_US_7_AS,6,3.0
+923,Trinity the Tuck_US_7_AS,6,2.0
+924,Paloma_FRA_1_REG,6,5.0
+925,La Grande Dame_FRA_1_REG,6,2.0
+926,Soa de Muse_FRA_1_REG,6,3.0
+927,Lolita Banana_FRA_1_REG,6,0.0
+928,Gisele Lullaby_CAN_3_REG,6,1.0
+929,Jada Shada Hudson_CAN_3_REG,6,3.0
+930,Kimmy Couture_CAN_3_REG,6,2.0
+931,Miss Fiercalicious_CAN_3_REG,6,5.0
+932,Hanna Conda_AUS_2_REG,6,5.0
+933,Kween Kong_AUS_2_REG,6,0.0
+934,Spankie Jackzon_AUS_2_REG,6,3.0
+935,Eva Le Queen_PH_1_REG,6,3.0
+936,Marina Summers_PH_1_REG,6,3.0
+937,Precious Paula Nicole_PH_1_REG,6,2.0
+938,Xilhouete_PH_1_REG,6,5.0
+939,Black Peppa_UK_4_REG,6,0.0
+940,Cheddar Gorgeous_UK_4_REG,6,5.0
+941,Danny Beard_UK_4_REG,6,2.0
+942,Jonbers Blonde_UK_4_REG,6,3.0
+943,La Diamond_ITA_2_REG,6,2.0
+944,Aura Etherial_ITA_2_REG,6,2.0
+945,Nehllenia_ITA_2_REG,6,5.0
+946,Ra'jah O'Hara_CAN_1_WORLD,6,
+947,Rita Baga_CAN_1_WORLD,6,
+948,Silky Nutmeg Ganache_CAN_1_WORLD,6,
+949,Victoria Scone_CAN_1_WORLD,6,
+950,Anetra_US_15_REG,6,3.0
+951,Luxx Noir London_US_15_REG,6,2.0
+952,Mistress Isabelle Brookes_US_15_REG,6,5.0
+953,Sasha Colby_US_15_REG,6,2.0
+954,Athena Sorgelikis_BEL_1_REG,6,5.0
+955,Drag Couenne_BEL_1_REG,6,3.0
+956,Susan_BEL_1_REG,6,1.0
+957,Admira Thunderpussy_SWE_1_REG,6,1.0
+958,Fontana_SWE_1_REG,6,5.0
+959,Vanity Vain_SWE_1_REG,6,3.0
+960,Chad Michaels_US_1_AS,7,
+961,Raven_US_1_AS,7,
+962,Jujubee_US_1_AS,7,
+963,Shannel_US_1_AS,7,
+964,Alaska_US_2_AS,7,0.0
+965,Detox_US_2_AS,7,5.0
+966,Katya_US_2_AS,7,4.0
+967,Roxxxy Andrews_US_2_AS,7,0.0
+968,Trixie Mattel_US_3_AS,7,4.0
+969,Kennedy Davenport_US_3_AS,7,0.0
+970,BeBe Zahara Benet_US_3_AS,7,0.0
+971,Shangela_US_3_AS,7,5.0
+972,Monet X Change_US_4_AS,7,2.0
+973,Trinity the Tuck_US_4_AS,7,4.0
+974,Monique Heart_US_4_AS,7,2.0
+975,Naomi Smalls_US_4_AS,7,0.0
+976,Jujubee_US_5_AS,7,3.0
+977,Shea Coulee_US_5_AS,7,1.0
+978,Miz Cracker_US_5_AS,7,5.0
+979,Priyanka_CAN_1_REG,7,0.0
+980,Rita Baga_CAN_1_REG,7,2.0
+981,Scarlett BoBo_CAN_1_REG,7,3.0
+982,Envy Peru_HOL_1_REG,7,2.0
+983,Janey Jacke_HOL_1_REG,7,5.0
+984,Ma'Ma Queen_HOL_1_REG,7,0.0
+985,Miss Abby OMG_HOL_1_REG,7,0.0
+986,Natalia Pilacam_THI_1_REG,7,3.0
+987,Annee Maywong_THI_1_REG,7,5.0
+988,Dearis Doll_THI_1_REG,7,0.0
+989,The Vivienne_UK_1_REG,7,3.0
+990,Divina de Campo_UK_1_REG,7,5.0
+991,Baga Chipz_UK_1_REG,7,0.0
+992,Bebe Zahara Benet_US_1_REG,7,
+993,Nina Flowers_US_1_REG,7,
+994,Rebbeca Glasscock_US_1_REG,7,
+995,Aquaria_US_10_REG,7,5.0
+996,Eureka_US_10_REG,7,3.0
+997,Kameron Michaels_US_10_REG,7,2.0
+998,Asia O'Hara_US_10_REG,7,1.0
+999,Yvie Oddly_US_11_REG,7,3.0
+1000,Brooke Lynn Hytes_US_11_REG,7,3.0
+1001,A'keria Davenport_US_11_REG,7,0.0
+1002,Silky Nutmeg Ganache_US_11_REG,7,2.0
+1003,Jaida Essence Hall_US_12_REG,7,2.0
+1004,Crystal Methyd_US_12_REG,7,3.0
+1005,Gigi Goode_US_12_REG,7,5.0
+1006,Symone_US_13_REG,7,3.0
+1007,Kandy Muse_US_13_REG,7,3.0
+1008,Gottmik_US_13_REG,7,2.0
+1009,Rose_US_13_REG,7,2.0
+1010,Angele Anang_THI_2_REG,7,4.0
+1011,Kana Warrior_THI_2_REG,7,
+1012,Kandy Zyanide_THI_2_REG,7,
+1013,Lawrence Chaney_UK_2_REG,7,1.0
+1014,Bimini Bon Boulash_UK_2_REG,7,2.0
+1015,Tayce_UK_2_REG,7,0.0
+1016,Ellie Diamond_UK_2_REG,7,3.0
+1017,Tyra Sanchez_US_2_REG,7,3.0
+1018,Raven_US_2_REG,7,5.0
+1019,Jujubee_US_2_REG,7,3.0
+1020,Raja_US_3_REG,7,3.0
+1021,Manila Luzon_US_3_REG,7,0.0
+1022,Alexis Mateo_US_3_REG,7,2.0
+1023,Sharon Needles_US_4_REG,7,3.0
+1024,Chad Michaels_US_4_REG,7,1.0
+1025,Phi Phi O'Hara_US_4_REG,7,5.0
+1026,Jinkx Monsoon_US_5_REG,7,3.0
+1027,Alaska_US_5_REG,7,1.0
+1028,Roxxxy Andrews_US_5_REG,7,0.0
+1029,Bianca Del Rio_US_6_REG,7,3.0
+1030,Adore Delano_US_6_REG,7,5.0
+1031,Courtney Act_US_6_REG,7,1.0
+1032,Violet Chachki_US_7_REG,7,2.0
+1033,Ginger Minj_US_7_REG,7,5.0
+1034,Pearl_US_7_REG,7,2.0
+1035,Bob the Drag Queen_US_8_REG,7,5.0
+1036,Kim Chi_US_8_REG,7,1.0
+1037,Naomi Smalls_US_8_REG,7,3.0
+1038,Sasha Velour_US_9_REG,7,1.0
+1039,Peppermint_US_9_REG,7,2.0
+1040,Shea Coulee_US_9_REG,7,3.0
+1041,Trinity the Tuck_US_9_REG,7,5.0
+1042,Kita Mean_AUS_1_REG,7,0.0
+1043,Art Simone_AUS_1_REG,7,1.0
+1044,Karen from Finance_AUS_1_REG,7,1.0
+1045,Scarlet Adams_AUS_1_REG,7,5.0
+1046,Carmen Farala_ESP_1_REG,7,5.0
+1047,Killer Queen_ESP_1_REG,7,0.0
+1048,Sagittaria_ESP_1_REG,7,0.0
+1049,Pupi Poisson_ESP_1_REG,7,0.0
+1050,Kylie Sonique Love_US_6_AS,7,3.0
+1051,Ginger Minj_US_6_AS,7,2.0
+1052,Ra'jah O'Hara_US_6_AS,7,3.0
+1053,Eureka_US_6_AS,7,2.0
+1054,Vanessa Van Cartier_HOL_2_REG,7,2.0
+1055,My Little Puny_HOL_2_REG,7,5.0
+1056,Vivaldi_HOL_2_REG,7,0.0
+1057,Ella Vaday_UK_3_REG,7,3.0
+1058,Kitty Scott-Claus_UK_3_REG,7,5.0
+1059,Krystal Versace_UK_3_REG,7,3.0
+1060,Icesis Couture_CAN_2_REG,7,3.0
+1061,Kendall Gender_CAN_2_REG,7,5.0
+1062,Pythia_CAN_2_REG,7,2.0
+1063,Farida Kant_ITA_1_REG,7,
+1064,Elecktra Bionic_ITA_1_REG,7,
+1065,Le Riche_ITA_1_REG,7,
+1066,Luquisha Lubamba_ITA_1_REG,7,
+1067,Blu Hydrangea_UK_1_WORLD,7,
+1068,Mo Heart_UK_1_WORLD,7,
+1069,Baga Chipz_UK_1_WORLD,7,
+1070,Jujubee_UK_1_WORLD,7,
+1071,Angeria Paris VanMichaels_US_14_REG,7,2.0
+1072,Bosco_US_14_REG,7,3.0
+1073,Daya Betty_US_14_REG,7,4.0
+1074,Lady Camden_US_14_REG,7,5.0
+1075,Willow Pill_US_14_REG,7,3.0
+1076,Estrella Xtravaganza_ESP_2_REG,7,5.0
+1077,Sharonne_ESP_2_REG,7,5.0
+1078,Venedita Von Dash_ESP_2_REG,7,3.0
+1079,Marina_ESP_2_REG,7,0.0
+1080,Jinkx Monsoon_US_7_AS,7,2.0
+1081,Monet X Change_US_7_AS,7,3.0
+1082,Shea Coulee_US_7_AS,7,3.0
+1083,Trinity the Tuck_US_7_AS,7,5.0
+1084,Paloma_FRA_1_REG,7,2.0
+1085,La Grande Dame_FRA_1_REG,7,2.0
+1086,Soa de Muse_FRA_1_REG,7,2.0
+1087,Lolita Banana_FRA_1_REG,7,0.0
+1088,Gisele Lullaby_CAN_3_REG,7,0.0
+1089,Jada Shada Hudson_CAN_3_REG,7,1.0
+1090,Kimmy Couture_CAN_3_REG,7,3.0
+1091,Miss Fiercalicious_CAN_3_REG,7,3.0
+1092,Hanna Conda_AUS_2_REG,7,0.0
+1093,Kween Kong_AUS_2_REG,7,5.0
+1094,Spankie Jackzon_AUS_2_REG,7,3.0
+1095,Eva Le Queen_PH_1_REG,7,0.0
+1096,Marina Summers_PH_1_REG,7,3.0
+1097,Precious Paula Nicole_PH_1_REG,7,1.0
+1098,Xilhouete_PH_1_REG,7,3.0
+1099,Black Peppa_UK_4_REG,7,2.0
+1100,Cheddar Gorgeous_UK_4_REG,7,5.0
+1101,Danny Beard_UK_4_REG,7,3.0
+1102,Jonbers Blonde_UK_4_REG,7,1.0
+1103,La Diamond_ITA_2_REG,7,5.0
+1104,Aura Etherial_ITA_2_REG,7,3.0
+1105,Nehllenia_ITA_2_REG,7,1.0
+1106,Ra'jah O'Hara_CAN_1_WORLD,7,
+1107,Rita Baga_CAN_1_WORLD,7,
+1108,Silky Nutmeg Ganache_CAN_1_WORLD,7,
+1109,Victoria Scone_CAN_1_WORLD,7,
+1110,Anetra_US_15_REG,7,0.0
+1111,Luxx Noir London_US_15_REG,7,2.0
+1112,Mistress Isabelle Brookes_US_15_REG,7,2.0
+1113,Sasha Colby_US_15_REG,7,2.0
+1114,Athena Sorgelikis_BEL_1_REG,7,0.0
+1115,Drag Couenne_BEL_1_REG,7,5.0
+1116,Susan_BEL_1_REG,7,1.0
+1117,Admira Thunderpussy_SWE_1_REG,7,5.0
+1118,Fontana_SWE_1_REG,7,2.0
+1119,Vanity Vain_SWE_1_REG,7,0.0
+1120,Chad Michaels_US_1_AS,8,
+1121,Raven_US_1_AS,8,
+1122,Jujubee_US_1_AS,8,
+1123,Shannel_US_1_AS,8,
+1124,Alaska_US_2_AS,8,
+1125,Detox_US_2_AS,8,
+1126,Katya_US_2_AS,8,
+1127,Roxxxy Andrews_US_2_AS,8,
+1128,Trixie Mattel_US_3_AS,8,
+1129,Kennedy Davenport_US_3_AS,8,
+1130,BeBe Zahara Benet_US_3_AS,8,
+1131,Shangela_US_3_AS,8,
+1132,Monet X Change_US_4_AS,8,4.0
+1133,Trinity the Tuck_US_4_AS,8,3.0
+1134,Monique Heart_US_4_AS,8,3.0
+1135,Naomi Smalls_US_4_AS,8,5.0
+1136,Jujubee_US_5_AS,8,
+1137,Shea Coulee_US_5_AS,8,
+1138,Miz Cracker_US_5_AS,8,
+1139,Priyanka_CAN_1_REG,8,5.0
+1140,Rita Baga_CAN_1_REG,8,0.0
+1141,Scarlett BoBo_CAN_1_REG,8,3.0
+1142,Envy Peru_HOL_1_REG,8,
+1143,Janey Jacke_HOL_1_REG,8,
+1144,Ma'Ma Queen_HOL_1_REG,8,
+1145,Miss Abby OMG_HOL_1_REG,8,
+1146,Natalia Pilacam_THI_1_REG,8,
+1147,Annee Maywong_THI_1_REG,8,
+1148,Dearis Doll_THI_1_REG,8,
+1149,The Vivienne_UK_1_REG,8,
+1150,Divina de Campo_UK_1_REG,8,
+1151,Baga Chipz_UK_1_REG,8,
+1152,Bebe Zahara Benet_US_1_REG,8,
+1153,Nina Flowers_US_1_REG,8,
+1154,Rebbeca Glasscock_US_1_REG,8,
+1155,Aquaria_US_10_REG,8,1.0
+1156,Eureka_US_10_REG,8,2.0
+1157,Kameron Michaels_US_10_REG,8,5.0
+1158,Asia O'Hara_US_10_REG,8,0.0
+1159,Yvie Oddly_US_11_REG,8,0.0
+1160,Brooke Lynn Hytes_US_11_REG,8,0.0
+1161,A'keria Davenport_US_11_REG,8,2.0
+1162,Silky Nutmeg Ganache_US_11_REG,8,5.0
+1163,Jaida Essence Hall_US_12_REG,8,3.0
+1164,Crystal Methyd_US_12_REG,8,3.0
+1165,Gigi Goode_US_12_REG,8,1.0
+1166,Symone_US_13_REG,8,0.0
+1167,Kandy Muse_US_13_REG,8,0.0
+1168,Gottmik_US_13_REG,8,3.0
+1169,Rose_US_13_REG,8,5.0
+1170,Angele Anang_THI_2_REG,8,4.0
+1171,Kana Warrior_THI_2_REG,8,3.0
+1172,Kandy Zyanide_THI_2_REG,8,3.0
+1173,Lawrence Chaney_UK_2_REG,8,3.0
+1174,Bimini Bon Boulash_UK_2_REG,8,5.0
+1175,Tayce_UK_2_REG,8,0.0
+1176,Ellie Diamond_UK_2_REG,8,1.0
+1177,Tyra Sanchez_US_2_REG,8,3.0
+1178,Raven_US_2_REG,8,5.0
+1179,Jujubee_US_2_REG,8,0.0
+1180,Raja_US_3_REG,8,1.0
+1181,Manila Luzon_US_3_REG,8,1.0
+1182,Alexis Mateo_US_3_REG,8,5.0
+1183,Sharon Needles_US_4_REG,8,0.0
+1184,Chad Michaels_US_4_REG,8,2.0
+1185,Phi Phi O'Hara_US_4_REG,8,0.0
+1186,Jinkx Monsoon_US_5_REG,8,3.0
+1187,Alaska_US_5_REG,8,5.0
+1188,Roxxxy Andrews_US_5_REG,8,1.0
+1189,Bianca Del Rio_US_6_REG,8,5.0
+1190,Adore Delano_US_6_REG,8,2.0
+1191,Courtney Act_US_6_REG,8,2.0
+1192,Violet Chachki_US_7_REG,8,3.0
+1193,Ginger Minj_US_7_REG,8,0.0
+1194,Pearl_US_7_REG,8,5.0
+1195,Bob the Drag Queen_US_8_REG,8,0.0
+1196,Kim Chi_US_8_REG,8,5.0
+1197,Naomi Smalls_US_8_REG,8,3.0
+1198,Sasha Velour_US_9_REG,8,3.0
+1199,Peppermint_US_9_REG,8,5.0
+1200,Shea Coulee_US_9_REG,8,3.0
+1201,Trinity the Tuck_US_9_REG,8,1.0
+1202,Kita Mean_AUS_1_REG,8,
+1203,Art Simone_AUS_1_REG,8,
+1204,Karen from Finance_AUS_1_REG,8,
+1205,Scarlet Adams_AUS_1_REG,8,
+1206,Carmen Farala_ESP_1_REG,8,
+1207,Killer Queen_ESP_1_REG,8,
+1208,Sagittaria_ESP_1_REG,8,
+1209,Pupi Poisson_ESP_1_REG,8,
+1210,Kylie Sonique Love_US_6_AS,8,3.0
+1211,Ginger Minj_US_6_AS,8,5.0
+1212,Ra'jah O'Hara_US_6_AS,8,2.0
+1213,Eureka_US_6_AS,8,2.0
+1214,Vanessa Van Cartier_HOL_2_REG,8,
+1215,My Little Puny_HOL_2_REG,8,
+1216,Vivaldi_HOL_2_REG,8,
+1217,Ella Vaday_UK_3_REG,8,5.0
+1218,Kitty Scott-Claus_UK_3_REG,8,5.0
+1219,Krystal Versace_UK_3_REG,8,3.0
+1220,Icesis Couture_CAN_2_REG,8,0.0
+1221,Kendall Gender_CAN_2_REG,8,1.0
+1222,Pythia_CAN_2_REG,8,5.0
+1223,Farida Kant_ITA_1_REG,8,
+1224,Elecktra Bionic_ITA_1_REG,8,
+1225,Le Riche_ITA_1_REG,8,
+1226,Luquisha Lubamba_ITA_1_REG,8,
+1227,Blu Hydrangea_UK_1_WORLD,8,
+1228,Mo Heart_UK_1_WORLD,8,
+1229,Baga Chipz_UK_1_WORLD,8,
+1230,Jujubee_UK_1_WORLD,8,
+1231,Angeria Paris VanMichaels_US_14_REG,8,3.0
+1232,Bosco_US_14_REG,8,2.0
+1233,Daya Betty_US_14_REG,8,5.0
+1234,Lady Camden_US_14_REG,8,1.0
+1235,Willow Pill_US_14_REG,8,2.0
+1236,Estrella Xtravaganza_ESP_2_REG,8,2.0
+1237,Sharonne_ESP_2_REG,8,3.0
+1238,Venedita Von Dash_ESP_2_REG,8,0.0
+1239,Marina_ESP_2_REG,8,5.0
+1240,Jinkx Monsoon_US_7_AS,8,2.0
+1241,Monet X Change_US_7_AS,8,2.0
+1242,Shea Coulee_US_7_AS,8,2.0
+1243,Trinity the Tuck_US_7_AS,8,3.0
+1244,Paloma_FRA_1_REG,8,
+1245,La Grande Dame_FRA_1_REG,8,
+1246,Soa de Muse_FRA_1_REG,8,
+1247,Lolita Banana_FRA_1_REG,8,
+1248,Gisele Lullaby_CAN_3_REG,8,3.0
+1249,Jada Shada Hudson_CAN_3_REG,8,2.0
+1250,Kimmy Couture_CAN_3_REG,8,0.0
+1251,Miss Fiercalicious_CAN_3_REG,8,5.0
+1252,Hanna Conda_AUS_2_REG,8,
+1253,Kween Kong_AUS_2_REG,8,
+1254,Spankie Jackzon_AUS_2_REG,8,
+1255,Eva Le Queen_PH_1_REG,8,3.0
+1256,Marina Summers_PH_1_REG,8,1.0
+1257,Precious Paula Nicole_PH_1_REG,8,3.0
+1258,Xilhouete_PH_1_REG,8,5.0
+1259,Black Peppa_UK_4_REG,8,0.0
+1260,Cheddar Gorgeous_UK_4_REG,8,5.0
+1261,Danny Beard_UK_4_REG,8,3.0
+1262,Jonbers Blonde_UK_4_REG,8,0.0
+1263,La Diamond_ITA_2_REG,8,
+1264,Aura Etherial_ITA_2_REG,8,
+1265,Nehllenia_ITA_2_REG,8,
+1266,Ra'jah O'Hara_CAN_1_WORLD,8,
+1267,Rita Baga_CAN_1_WORLD,8,
+1268,Silky Nutmeg Ganache_CAN_1_WORLD,8,
+1269,Victoria Scone_CAN_1_WORLD,8,
+1270,Anetra_US_15_REG,8,3.0
+1271,Luxx Noir London_US_15_REG,8,2.0
+1272,Mistress Isabelle Brookes_US_15_REG,8,3.0
+1273,Sasha Colby_US_15_REG,8,5.0
+1274,Athena Sorgelikis_BEL_1_REG,8,
+1275,Drag Couenne_BEL_1_REG,8,
+1276,Susan_BEL_1_REG,8,
+1277,Admira Thunderpussy_SWE_1_REG,8,
+1278,Fontana_SWE_1_REG,8,
+1279,Vanity Vain_SWE_1_REG,8,
+1280,Chad Michaels_US_1_AS,9,
+1281,Raven_US_1_AS,9,
+1282,Jujubee_US_1_AS,9,
+1283,Shannel_US_1_AS,9,
+1284,Alaska_US_2_AS,9,
+1285,Detox_US_2_AS,9,
+1286,Katya_US_2_AS,9,
+1287,Roxxxy Andrews_US_2_AS,9,
+1288,Trixie Mattel_US_3_AS,9,
+1289,Kennedy Davenport_US_3_AS,9,
+1290,BeBe Zahara Benet_US_3_AS,9,
+1291,Shangela_US_3_AS,9,
+1292,Monet X Change_US_4_AS,9,0.0
+1293,Trinity the Tuck_US_4_AS,9,5.0
+1294,Monique Heart_US_4_AS,9,4.0
+1295,Naomi Smalls_US_4_AS,9,0.0
+1296,Jujubee_US_5_AS,9,
+1297,Shea Coulee_US_5_AS,9,
+1298,Miz Cracker_US_5_AS,9,
+1299,Priyanka_CAN_1_REG,9,3.0
+1300,Rita Baga_CAN_1_REG,9,0.0
+1301,Scarlett BoBo_CAN_1_REG,9,5.0
+1302,Envy Peru_HOL_1_REG,9,
+1303,Janey Jacke_HOL_1_REG,9,
+1304,Ma'Ma Queen_HOL_1_REG,9,
+1305,Miss Abby OMG_HOL_1_REG,9,
+1306,Natalia Pilacam_THI_1_REG,9,
+1307,Annee Maywong_THI_1_REG,9,
+1308,Dearis Doll_THI_1_REG,9,
+1309,The Vivienne_UK_1_REG,9,
+1310,Divina de Campo_UK_1_REG,9,
+1311,Baga Chipz_UK_1_REG,9,
+1312,Bebe Zahara Benet_US_1_REG,9,
+1313,Nina Flowers_US_1_REG,9,
+1314,Rebbeca Glasscock_US_1_REG,9,
+1315,Aquaria_US_10_REG,9,3.0
+1316,Eureka_US_10_REG,9,0.0
+1317,Kameron Michaels_US_10_REG,9,0.0
+1318,Asia O'Hara_US_10_REG,9,5.0
+1319,Yvie Oddly_US_11_REG,9,2.0
+1320,Brooke Lynn Hytes_US_11_REG,9,3.0
+1321,A'keria Davenport_US_11_REG,9,5.0
+1322,Silky Nutmeg Ganache_US_11_REG,9,3.0
+1323,Jaida Essence Hall_US_12_REG,9,5.0
+1324,Crystal Methyd_US_12_REG,9,3.0
+1325,Gigi Goode_US_12_REG,9,1.0
+1326,Symone_US_13_REG,9,2.0
+1327,Kandy Muse_US_13_REG,9,2.0
+1328,Gottmik_US_13_REG,9,5.0
+1329,Rose_US_13_REG,9,3.0
+1330,Angele Anang_THI_2_REG,9,0.0
+1331,Kana Warrior_THI_2_REG,9,0.0
+1332,Kandy Zyanide_THI_2_REG,9,5.0
+1333,Lawrence Chaney_UK_2_REG,9,3.0
+1334,Bimini Bon Boulash_UK_2_REG,9,5.0
+1335,Tayce_UK_2_REG,9,0.0
+1336,Ellie Diamond_UK_2_REG,9,0.0
+1337,Tyra Sanchez_US_2_REG,9,5.0
+1338,Raven_US_2_REG,9,3.0
+1339,Jujubee_US_2_REG,9,0.0
+1340,Raja_US_3_REG,9,5.0
+1341,Manila Luzon_US_3_REG,9,3.0
+1342,Alexis Mateo_US_3_REG,9,2.0
+1343,Sharon Needles_US_4_REG,9,5.0
+1344,Chad Michaels_US_4_REG,9,3.0
+1345,Phi Phi O'Hara_US_4_REG,9,1.0
+1346,Jinkx Monsoon_US_5_REG,9,5.0
+1347,Alaska_US_5_REG,9,3.0
+1348,Roxxxy Andrews_US_5_REG,9,3.0
+1349,Bianca Del Rio_US_6_REG,9,2.0
+1350,Adore Delano_US_6_REG,9,0.0
+1351,Courtney Act_US_6_REG,9,5.0
+1352,Violet Chachki_US_7_REG,9,1.0
+1353,Ginger Minj_US_7_REG,9,5.0
+1354,Pearl_US_7_REG,9,0.0
+1355,Bob the Drag Queen_US_8_REG,9,2.0
+1356,Kim Chi_US_8_REG,9,2.0
+1357,Naomi Smalls_US_8_REG,9,2.0
+1358,Sasha Velour_US_9_REG,9,5.0
+1359,Peppermint_US_9_REG,9,3.0
+1360,Shea Coulee_US_9_REG,9,5.0
+1361,Trinity the Tuck_US_9_REG,9,3.0
+1362,Kita Mean_AUS_1_REG,9,
+1363,Art Simone_AUS_1_REG,9,
+1364,Karen from Finance_AUS_1_REG,9,
+1365,Scarlet Adams_AUS_1_REG,9,
+1366,Carmen Farala_ESP_1_REG,9,
+1367,Killer Queen_ESP_1_REG,9,
+1368,Sagittaria_ESP_1_REG,9,
+1369,Pupi Poisson_ESP_1_REG,9,
+1370,Kylie Sonique Love_US_6_AS,9,1.0
+1371,Ginger Minj_US_6_AS,9,3.0
+1372,Ra'jah O'Hara_US_6_AS,9,4.0
+1373,Eureka_US_6_AS,9,0.0
+1374,Vanessa Van Cartier_HOL_2_REG,9,
+1375,My Little Puny_HOL_2_REG,9,
+1376,Vivaldi_HOL_2_REG,9,
+1377,Ella Vaday_UK_3_REG,9,5.0
+1378,Kitty Scott-Claus_UK_3_REG,9,3.0
+1379,Krystal Versace_UK_3_REG,9,0.0
+1380,Icesis Couture_CAN_2_REG,9,2.0
+1381,Kendall Gender_CAN_2_REG,9,2.0
+1382,Pythia_CAN_2_REG,9,2.0
+1383,Farida Kant_ITA_1_REG,9,
+1384,Elecktra Bionic_ITA_1_REG,9,
+1385,Le Riche_ITA_1_REG,9,
+1386,Luquisha Lubamba_ITA_1_REG,9,
+1387,Blu Hydrangea_UK_1_WORLD,9,
+1388,Mo Heart_UK_1_WORLD,9,
+1389,Baga Chipz_UK_1_WORLD,9,
+1390,Jujubee_UK_1_WORLD,9,
+1391,Angeria Paris VanMichaels_US_14_REG,9,2.0
+1392,Bosco_US_14_REG,9,5.0
+1393,Daya Betty_US_14_REG,9,1.0
+1394,Lady Camden_US_14_REG,9,2.0
+1395,Willow Pill_US_14_REG,9,3.0
+1396,Estrella Xtravaganza_ESP_2_REG,9,0.0
+1397,Sharonne_ESP_2_REG,9,3.0
+1398,Venedita Von Dash_ESP_2_REG,9,5.0
+1399,Marina_ESP_2_REG,9,0.0
+1400,Jinkx Monsoon_US_7_AS,9,4.0
+1401,Monet X Change_US_7_AS,9,5.0
+1402,Shea Coulee_US_7_AS,9,3.0
+1403,Trinity the Tuck_US_7_AS,9,2.0
+1404,Paloma_FRA_1_REG,9,
+1405,La Grande Dame_FRA_1_REG,9,
+1406,Soa de Muse_FRA_1_REG,9,
+1407,Lolita Banana_FRA_1_REG,9,
+1408,Gisele Lullaby_CAN_3_REG,9,
+1409,Jada Shada Hudson_CAN_3_REG,9,
+1410,Kimmy Couture_CAN_3_REG,9,
+1411,Miss Fiercalicious_CAN_3_REG,9,
+1412,Hanna Conda_AUS_2_REG,9,
+1413,Kween Kong_AUS_2_REG,9,
+1414,Spankie Jackzon_AUS_2_REG,9,
+1415,Eva Le Queen_PH_1_REG,9,3.0
+1416,Marina Summers_PH_1_REG,9,5.0
+1417,Precious Paula Nicole_PH_1_REG,9,3.0
+1418,Xilhouete_PH_1_REG,9,0.0
+1419,Black Peppa_UK_4_REG,9,0.0
+1420,Cheddar Gorgeous_UK_4_REG,9,1.0
+1421,Danny Beard_UK_4_REG,9,5.0
+1422,Jonbers Blonde_UK_4_REG,9,3.0
+1423,La Diamond_ITA_2_REG,9,
+1424,Aura Etherial_ITA_2_REG,9,
+1425,Nehllenia_ITA_2_REG,9,
+1426,Ra'jah O'Hara_CAN_1_WORLD,9,
+1427,Rita Baga_CAN_1_WORLD,9,
+1428,Silky Nutmeg Ganache_CAN_1_WORLD,9,
+1429,Victoria Scone_CAN_1_WORLD,9,
+1430,Anetra_US_15_REG,9,2.0
+1431,Luxx Noir London_US_15_REG,9,3.0
+1432,Mistress Isabelle Brookes_US_15_REG,9,1.0
+1433,Sasha Colby_US_15_REG,9,5.0
+1434,Athena Sorgelikis_BEL_1_REG,9,
+1435,Drag Couenne_BEL_1_REG,9,
+1436,Susan_BEL_1_REG,9,
+1437,Admira Thunderpussy_SWE_1_REG,9,
+1438,Fontana_SWE_1_REG,9,
+1439,Vanity Vain_SWE_1_REG,9,
+1440,Chad Michaels_US_1_AS,10,
+1441,Raven_US_1_AS,10,
+1442,Jujubee_US_1_AS,10,
+1443,Shannel_US_1_AS,10,
+1444,Alaska_US_2_AS,10,
+1445,Detox_US_2_AS,10,
+1446,Katya_US_2_AS,10,
+1447,Roxxxy Andrews_US_2_AS,10,
+1448,Trixie Mattel_US_3_AS,10,
+1449,Kennedy Davenport_US_3_AS,10,
+1450,BeBe Zahara Benet_US_3_AS,10,
+1451,Shangela_US_3_AS,10,
+1452,Monet X Change_US_4_AS,10,
+1453,Trinity the Tuck_US_4_AS,10,
+1454,Monique Heart_US_4_AS,10,
+1455,Naomi Smalls_US_4_AS,10,
+1456,Jujubee_US_5_AS,10,
+1457,Shea Coulee_US_5_AS,10,
+1458,Miz Cracker_US_5_AS,10,
+1459,Priyanka_CAN_1_REG,10,
+1460,Rita Baga_CAN_1_REG,10,
+1461,Scarlett BoBo_CAN_1_REG,10,
+1462,Envy Peru_HOL_1_REG,10,
+1463,Janey Jacke_HOL_1_REG,10,
+1464,Ma'Ma Queen_HOL_1_REG,10,
+1465,Miss Abby OMG_HOL_1_REG,10,
+1466,Natalia Pilacam_THI_1_REG,10,
+1467,Annee Maywong_THI_1_REG,10,
+1468,Dearis Doll_THI_1_REG,10,
+1469,The Vivienne_UK_1_REG,10,
+1470,Divina de Campo_UK_1_REG,10,
+1471,Baga Chipz_UK_1_REG,10,
+1472,Bebe Zahara Benet_US_1_REG,10,
+1473,Nina Flowers_US_1_REG,10,
+1474,Rebbeca Glasscock_US_1_REG,10,
+1475,Aquaria_US_10_REG,10,1.0
+1476,Eureka_US_10_REG,10,3.0
+1477,Kameron Michaels_US_10_REG,10,0.0
+1478,Asia O'Hara_US_10_REG,10,3.0
+1479,Yvie Oddly_US_11_REG,10,2.0
+1480,Brooke Lynn Hytes_US_11_REG,10,3.0
+1481,A'keria Davenport_US_11_REG,10,2.0
+1482,Silky Nutmeg Ganache_US_11_REG,10,1.0
+1483,Jaida Essence Hall_US_12_REG,10,5.0
+1484,Crystal Methyd_US_12_REG,10,3.0
+1485,Gigi Goode_US_12_REG,10,2.0
+1486,Symone_US_13_REG,10,5.0
+1487,Kandy Muse_US_13_REG,10,3.0
+1488,Gottmik_US_13_REG,10,3.0
+1489,Rose_US_13_REG,10,1.0
+1490,Angele Anang_THI_2_REG,10,3.0
+1491,Kana Warrior_THI_2_REG,10,4.0
+1492,Kandy Zyanide_THI_2_REG,10,4.0
+1493,Lawrence Chaney_UK_2_REG,10,
+1494,Bimini Bon Boulash_UK_2_REG,10,
+1495,Tayce_UK_2_REG,10,
+1496,Ellie Diamond_UK_2_REG,10,
+1497,Tyra Sanchez_US_2_REG,10,
+1498,Raven_US_2_REG,10,
+1499,Jujubee_US_2_REG,10,
+1500,Raja_US_3_REG,10,3.0
+1501,Manila Luzon_US_3_REG,10,3.0
+1502,Alexis Mateo_US_3_REG,10,0.0
+1503,Sharon Needles_US_4_REG,10,1.0
+1504,Chad Michaels_US_4_REG,10,3.0
+1505,Phi Phi O'Hara_US_4_REG,10,5.0
+1506,Jinkx Monsoon_US_5_REG,10,3.0
+1507,Alaska_US_5_REG,10,1.0
+1508,Roxxxy Andrews_US_5_REG,10,5.0
+1509,Bianca Del Rio_US_6_REG,10,5.0
+1510,Adore Delano_US_6_REG,10,0.0
+1511,Courtney Act_US_6_REG,10,1.0
+1512,Violet Chachki_US_7_REG,10,5.0
+1513,Ginger Minj_US_7_REG,10,0.0
+1514,Pearl_US_7_REG,10,2.0
+1515,Bob the Drag Queen_US_8_REG,10,
+1516,Kim Chi_US_8_REG,10,
+1517,Naomi Smalls_US_8_REG,10,
+1518,Sasha Velour_US_9_REG,10,3.0
+1519,Peppermint_US_9_REG,10,2.0
+1520,Shea Coulee_US_9_REG,10,0.0
+1521,Trinity the Tuck_US_9_REG,10,5.0
+1522,Kita Mean_AUS_1_REG,10,
+1523,Art Simone_AUS_1_REG,10,
+1524,Karen from Finance_AUS_1_REG,10,
+1525,Scarlet Adams_AUS_1_REG,10,
+1526,Carmen Farala_ESP_1_REG,10,
+1527,Killer Queen_ESP_1_REG,10,
+1528,Sagittaria_ESP_1_REG,10,
+1529,Pupi Poisson_ESP_1_REG,10,
+1530,Kylie Sonique Love_US_6_AS,10,
+1531,Ginger Minj_US_6_AS,10,
+1532,Ra'jah O'Hara_US_6_AS,10,
+1533,Eureka_US_6_AS,10,5.0
+1534,Vanessa Van Cartier_HOL_2_REG,10,
+1535,My Little Puny_HOL_2_REG,10,
+1536,Vivaldi_HOL_2_REG,10,
+1537,Ella Vaday_UK_3_REG,10,
+1538,Kitty Scott-Claus_UK_3_REG,10,
+1539,Krystal Versace_UK_3_REG,10,
+1540,Icesis Couture_CAN_2_REG,10,
+1541,Kendall Gender_CAN_2_REG,10,
+1542,Pythia_CAN_2_REG,10,
+1543,Farida Kant_ITA_1_REG,10,
+1544,Elecktra Bionic_ITA_1_REG,10,
+1545,Le Riche_ITA_1_REG,10,
+1546,Luquisha Lubamba_ITA_1_REG,10,
+1547,Blu Hydrangea_UK_1_WORLD,10,
+1548,Mo Heart_UK_1_WORLD,10,
+1549,Baga Chipz_UK_1_WORLD,10,
+1550,Jujubee_UK_1_WORLD,10,
+1551,Angeria Paris VanMichaels_US_14_REG,10,0.0
+1552,Bosco_US_14_REG,10,0.0
+1553,Daya Betty_US_14_REG,10,0.0
+1554,Lady Camden_US_14_REG,10,0.0
+1555,Willow Pill_US_14_REG,10,0.0
+1556,Estrella Xtravaganza_ESP_2_REG,10,
+1557,Sharonne_ESP_2_REG,10,
+1558,Venedita Von Dash_ESP_2_REG,10,
+1559,Marina_ESP_2_REG,10,
+1560,Jinkx Monsoon_US_7_AS,10,5.0
+1561,Monet X Change_US_7_AS,10,3.0
+1562,Shea Coulee_US_7_AS,10,2.0
+1563,Trinity the Tuck_US_7_AS,10,4.0
+1564,Paloma_FRA_1_REG,10,
+1565,La Grande Dame_FRA_1_REG,10,
+1566,Soa de Muse_FRA_1_REG,10,
+1567,Lolita Banana_FRA_1_REG,10,
+1568,Gisele Lullaby_CAN_3_REG,10,
+1569,Jada Shada Hudson_CAN_3_REG,10,
+1570,Kimmy Couture_CAN_3_REG,10,
+1571,Miss Fiercalicious_CAN_3_REG,10,
+1572,Hanna Conda_AUS_2_REG,10,
+1573,Kween Kong_AUS_2_REG,10,
+1574,Spankie Jackzon_AUS_2_REG,10,
+1575,Eva Le Queen_PH_1_REG,10,
+1576,Marina Summers_PH_1_REG,10,
+1577,Precious Paula Nicole_PH_1_REG,10,
+1578,Xilhouete_PH_1_REG,10,
+1579,Black Peppa_UK_4_REG,10,
+1580,Cheddar Gorgeous_UK_4_REG,10,
+1581,Danny Beard_UK_4_REG,10,
+1582,Jonbers Blonde_UK_4_REG,10,
+1583,La Diamond_ITA_2_REG,10,
+1584,Aura Etherial_ITA_2_REG,10,
+1585,Nehllenia_ITA_2_REG,10,
+1586,Ra'jah O'Hara_CAN_1_WORLD,10,
+1587,Rita Baga_CAN_1_WORLD,10,
+1588,Silky Nutmeg Ganache_CAN_1_WORLD,10,
+1589,Victoria Scone_CAN_1_WORLD,10,
+1590,Anetra_US_15_REG,10,0.0
+1591,Luxx Noir London_US_15_REG,10,5.0
+1592,Mistress Isabelle Brookes_US_15_REG,10,3.0
+1593,Sasha Colby_US_15_REG,10,1.0
+1594,Athena Sorgelikis_BEL_1_REG,10,
+1595,Drag Couenne_BEL_1_REG,10,
+1596,Susan_BEL_1_REG,10,
+1597,Admira Thunderpussy_SWE_1_REG,10,
+1598,Fontana_SWE_1_REG,10,
+1599,Vanity Vain_SWE_1_REG,10,
+1600,Chad Michaels_US_1_AS,11,
+1601,Raven_US_1_AS,11,
+1602,Jujubee_US_1_AS,11,
+1603,Shannel_US_1_AS,11,
+1604,Alaska_US_2_AS,11,
+1605,Detox_US_2_AS,11,
+1606,Katya_US_2_AS,11,
+1607,Roxxxy Andrews_US_2_AS,11,
+1608,Trixie Mattel_US_3_AS,11,
+1609,Kennedy Davenport_US_3_AS,11,
+1610,BeBe Zahara Benet_US_3_AS,11,
+1611,Shangela_US_3_AS,11,
+1612,Monet X Change_US_4_AS,11,
+1613,Trinity the Tuck_US_4_AS,11,
+1614,Monique Heart_US_4_AS,11,
+1615,Naomi Smalls_US_4_AS,11,
+1616,Jujubee_US_5_AS,11,
+1617,Shea Coulee_US_5_AS,11,
+1618,Miz Cracker_US_5_AS,11,
+1619,Priyanka_CAN_1_REG,11,
+1620,Rita Baga_CAN_1_REG,11,
+1621,Scarlett BoBo_CAN_1_REG,11,
+1622,Envy Peru_HOL_1_REG,11,
+1623,Janey Jacke_HOL_1_REG,11,
+1624,Ma'Ma Queen_HOL_1_REG,11,
+1625,Miss Abby OMG_HOL_1_REG,11,
+1626,Natalia Pilacam_THI_1_REG,11,
+1627,Annee Maywong_THI_1_REG,11,
+1628,Dearis Doll_THI_1_REG,11,
+1629,The Vivienne_UK_1_REG,11,
+1630,Divina de Campo_UK_1_REG,11,
+1631,Baga Chipz_UK_1_REG,11,
+1632,Bebe Zahara Benet_US_1_REG,11,
+1633,Nina Flowers_US_1_REG,11,
+1634,Rebbeca Glasscock_US_1_REG,11,
+1635,Aquaria_US_10_REG,11,5.0
+1636,Eureka_US_10_REG,11,3.0
+1637,Kameron Michaels_US_10_REG,11,0.0
+1638,Asia O'Hara_US_10_REG,11,3.0
+1639,Yvie Oddly_US_11_REG,11,1.0
+1640,Brooke Lynn Hytes_US_11_REG,11,5.0
+1641,A'keria Davenport_US_11_REG,11,3.0
+1642,Silky Nutmeg Ganache_US_11_REG,11,0.0
+1643,Jaida Essence Hall_US_12_REG,11,0.0
+1644,Crystal Methyd_US_12_REG,11,5.0
+1645,Gigi Goode_US_12_REG,11,3.0
+1646,Symone_US_13_REG,11,5.0
+1647,Kandy Muse_US_13_REG,11,3.0
+1648,Gottmik_US_13_REG,11,1.0
+1649,Rose_US_13_REG,11,5.0
+1650,Angele Anang_THI_2_REG,11,0.0
+1651,Kana Warrior_THI_2_REG,11,4.0
+1652,Kandy Zyanide_THI_2_REG,11,4.0
+1653,Lawrence Chaney_UK_2_REG,11,
+1654,Bimini Bon Boulash_UK_2_REG,11,
+1655,Tayce_UK_2_REG,11,
+1656,Ellie Diamond_UK_2_REG,11,
+1657,Tyra Sanchez_US_2_REG,11,
+1658,Raven_US_2_REG,11,
+1659,Jujubee_US_2_REG,11,
+1660,Raja_US_3_REG,11,0.0
+1661,Manila Luzon_US_3_REG,11,5.0
+1662,Alexis Mateo_US_3_REG,11,3.0
+1663,Sharon Needles_US_4_REG,11,5.0
+1664,Chad Michaels_US_4_REG,11,0.0
+1665,Phi Phi O'Hara_US_4_REG,11,3.0
+1666,Jinkx Monsoon_US_5_REG,11,0.0
+1667,Alaska_US_5_REG,11,5.0
+1668,Roxxxy Andrews_US_5_REG,11,3.0
+1669,Bianca Del Rio_US_6_REG,11,3.0
+1670,Adore Delano_US_6_REG,11,5.0
+1671,Courtney Act_US_6_REG,11,1.0
+1672,Violet Chachki_US_7_REG,11,5.0
+1673,Ginger Minj_US_7_REG,11,3.0
+1674,Pearl_US_7_REG,11,3.0
+1675,Bob the Drag Queen_US_8_REG,11,
+1676,Kim Chi_US_8_REG,11,
+1677,Naomi Smalls_US_8_REG,11,
+1678,Sasha Velour_US_9_REG,11,3.0
+1679,Peppermint_US_9_REG,11,0.0
+1680,Shea Coulee_US_9_REG,11,5.0
+1681,Trinity the Tuck_US_9_REG,11,1.0
+1682,Kita Mean_AUS_1_REG,11,
+1683,Art Simone_AUS_1_REG,11,
+1684,Karen from Finance_AUS_1_REG,11,
+1685,Scarlet Adams_AUS_1_REG,11,
+1686,Carmen Farala_ESP_1_REG,11,
+1687,Killer Queen_ESP_1_REG,11,
+1688,Sagittaria_ESP_1_REG,11,
+1689,Pupi Poisson_ESP_1_REG,11,
+1690,Kylie Sonique Love_US_6_AS,11,3.0
+1691,Ginger Minj_US_6_AS,11,3.0
+1692,Ra'jah O'Hara_US_6_AS,11,2.0
+1693,Eureka_US_6_AS,11,5.0
+1694,Vanessa Van Cartier_HOL_2_REG,11,
+1695,My Little Puny_HOL_2_REG,11,
+1696,Vivaldi_HOL_2_REG,11,
+1697,Ella Vaday_UK_3_REG,11,
+1698,Kitty Scott-Claus_UK_3_REG,11,
+1699,Krystal Versace_UK_3_REG,11,
+1700,Icesis Couture_CAN_2_REG,11,
+1701,Kendall Gender_CAN_2_REG,11,
+1702,Pythia_CAN_2_REG,11,
+1703,Farida Kant_ITA_1_REG,11,
+1704,Elecktra Bionic_ITA_1_REG,11,
+1705,Le Riche_ITA_1_REG,11,
+1706,Luquisha Lubamba_ITA_1_REG,11,
+1707,Blu Hydrangea_UK_1_WORLD,11,
+1708,Mo Heart_UK_1_WORLD,11,
+1709,Baga Chipz_UK_1_WORLD,11,
+1710,Jujubee_UK_1_WORLD,11,
+1711,Angeria Paris VanMichaels_US_14_REG,11,2.0
+1712,Bosco_US_14_REG,11,2.0
+1713,Daya Betty_US_14_REG,11,2.0
+1714,Lady Camden_US_14_REG,11,2.0
+1715,Willow Pill_US_14_REG,11,2.0
+1716,Estrella Xtravaganza_ESP_2_REG,11,
+1717,Sharonne_ESP_2_REG,11,
+1718,Venedita Von Dash_ESP_2_REG,11,
+1719,Marina_ESP_2_REG,11,
+1720,Jinkx Monsoon_US_7_AS,11,2.0
+1721,Monet X Change_US_7_AS,11,4.0
+1722,Shea Coulee_US_7_AS,11,5.0
+1723,Trinity the Tuck_US_7_AS,11,2.0
+1724,Paloma_FRA_1_REG,11,
+1725,La Grande Dame_FRA_1_REG,11,
+1726,Soa de Muse_FRA_1_REG,11,
+1727,Lolita Banana_FRA_1_REG,11,
+1728,Gisele Lullaby_CAN_3_REG,11,
+1729,Jada Shada Hudson_CAN_3_REG,11,
+1730,Kimmy Couture_CAN_3_REG,11,
+1731,Miss Fiercalicious_CAN_3_REG,11,
+1732,Hanna Conda_AUS_2_REG,11,
+1733,Kween Kong_AUS_2_REG,11,
+1734,Spankie Jackzon_AUS_2_REG,11,
+1735,Eva Le Queen_PH_1_REG,11,
+1736,Marina Summers_PH_1_REG,11,
+1737,Precious Paula Nicole_PH_1_REG,11,
+1738,Xilhouete_PH_1_REG,11,
+1739,Black Peppa_UK_4_REG,11,
+1740,Cheddar Gorgeous_UK_4_REG,11,
+1741,Danny Beard_UK_4_REG,11,
+1742,Jonbers Blonde_UK_4_REG,11,
+1743,La Diamond_ITA_2_REG,11,
+1744,Aura Etherial_ITA_2_REG,11,
+1745,Nehllenia_ITA_2_REG,11,
+1746,Ra'jah O'Hara_CAN_1_WORLD,11,
+1747,Rita Baga_CAN_1_WORLD,11,
+1748,Silky Nutmeg Ganache_CAN_1_WORLD,11,
+1749,Victoria Scone_CAN_1_WORLD,11,
+1750,Anetra_US_15_REG,11,5.0
+1751,Luxx Noir London_US_15_REG,11,3.0
+1752,Mistress Isabelle Brookes_US_15_REG,11,3.0
+1753,Sasha Colby_US_15_REG,11,3.0
+1754,Athena Sorgelikis_BEL_1_REG,11,
+1755,Drag Couenne_BEL_1_REG,11,
+1756,Susan_BEL_1_REG,11,
+1757,Admira Thunderpussy_SWE_1_REG,11,
+1758,Fontana_SWE_1_REG,11,
+1759,Vanity Vain_SWE_1_REG,11,
+1760,Chad Michaels_US_1_AS,12,
+1761,Raven_US_1_AS,12,
+1762,Jujubee_US_1_AS,12,
+1763,Shannel_US_1_AS,12,
+1764,Alaska_US_2_AS,12,
+1765,Detox_US_2_AS,12,
+1766,Katya_US_2_AS,12,
+1767,Roxxxy Andrews_US_2_AS,12,
+1768,Trixie Mattel_US_3_AS,12,
+1769,Kennedy Davenport_US_3_AS,12,
+1770,BeBe Zahara Benet_US_3_AS,12,
+1771,Shangela_US_3_AS,12,
+1772,Monet X Change_US_4_AS,12,
+1773,Trinity the Tuck_US_4_AS,12,
+1774,Monique Heart_US_4_AS,12,
+1775,Naomi Smalls_US_4_AS,12,
+1776,Jujubee_US_5_AS,12,
+1777,Shea Coulee_US_5_AS,12,
+1778,Miz Cracker_US_5_AS,12,
+1779,Priyanka_CAN_1_REG,12,
+1780,Rita Baga_CAN_1_REG,12,
+1781,Scarlett BoBo_CAN_1_REG,12,
+1782,Envy Peru_HOL_1_REG,12,
+1783,Janey Jacke_HOL_1_REG,12,
+1784,Ma'Ma Queen_HOL_1_REG,12,
+1785,Miss Abby OMG_HOL_1_REG,12,
+1786,Natalia Pilacam_THI_1_REG,12,
+1787,Annee Maywong_THI_1_REG,12,
+1788,Dearis Doll_THI_1_REG,12,
+1789,The Vivienne_UK_1_REG,12,
+1790,Divina de Campo_UK_1_REG,12,
+1791,Baga Chipz_UK_1_REG,12,
+1792,Bebe Zahara Benet_US_1_REG,12,
+1793,Nina Flowers_US_1_REG,12,
+1794,Rebbeca Glasscock_US_1_REG,12,
+1795,Aquaria_US_10_REG,12,2.0
+1796,Eureka_US_10_REG,12,2.0
+1797,Kameron Michaels_US_10_REG,12,2.0
+1798,Asia O'Hara_US_10_REG,12,2.0
+1799,Yvie Oddly_US_11_REG,12,2.0
+1800,Brooke Lynn Hytes_US_11_REG,12,0.0
+1801,A'keria Davenport_US_11_REG,12,2.0
+1802,Silky Nutmeg Ganache_US_11_REG,12,2.0
+1803,Jaida Essence Hall_US_12_REG,12,3.0
+1804,Crystal Methyd_US_12_REG,12,0.0
+1805,Gigi Goode_US_12_REG,12,5.0
+1806,Symone_US_13_REG,12,0.0
+1807,Kandy Muse_US_13_REG,12,5.0
+1808,Gottmik_US_13_REG,12,3.0
+1809,Rose_US_13_REG,12,3.0
+1810,Angele Anang_THI_2_REG,12,
+1811,Kana Warrior_THI_2_REG,12,
+1812,Kandy Zyanide_THI_2_REG,12,
+1813,Lawrence Chaney_UK_2_REG,12,
+1814,Bimini Bon Boulash_UK_2_REG,12,
+1815,Tayce_UK_2_REG,12,
+1816,Ellie Diamond_UK_2_REG,12,
+1817,Tyra Sanchez_US_2_REG,12,
+1818,Raven_US_2_REG,12,
+1819,Jujubee_US_2_REG,12,
+1820,Raja_US_3_REG,12,3.0
+1821,Manila Luzon_US_3_REG,12,5.0
+1822,Alexis Mateo_US_3_REG,12,0.0
+1823,Sharon Needles_US_4_REG,12,2.0
+1824,Chad Michaels_US_4_REG,12,2.0
+1825,Phi Phi O'Hara_US_4_REG,12,2.0
+1826,Jinkx Monsoon_US_5_REG,12,2.0
+1827,Alaska_US_5_REG,12,2.0
+1828,Roxxxy Andrews_US_5_REG,12,2.0
+1829,Bianca Del Rio_US_6_REG,12,2.0
+1830,Adore Delano_US_6_REG,12,2.0
+1831,Courtney Act_US_6_REG,12,2.0
+1832,Violet Chachki_US_7_REG,12,2.0
+1833,Ginger Minj_US_7_REG,12,2.0
+1834,Pearl_US_7_REG,12,2.0
+1835,Bob the Drag Queen_US_8_REG,12,
+1836,Kim Chi_US_8_REG,12,
+1837,Naomi Smalls_US_8_REG,12,
+1838,Sasha Velour_US_9_REG,12,2.0
+1839,Peppermint_US_9_REG,12,2.0
+1840,Shea Coulee_US_9_REG,12,2.0
+1841,Trinity the Tuck_US_9_REG,12,2.0
+1842,Kita Mean_AUS_1_REG,12,
+1843,Art Simone_AUS_1_REG,12,
+1844,Karen from Finance_AUS_1_REG,12,
+1845,Scarlet Adams_AUS_1_REG,12,
+1846,Carmen Farala_ESP_1_REG,12,
+1847,Killer Queen_ESP_1_REG,12,
+1848,Sagittaria_ESP_1_REG,12,
+1849,Pupi Poisson_ESP_1_REG,12,
+1850,Kylie Sonique Love_US_6_AS,12,
+1851,Ginger Minj_US_6_AS,12,
+1852,Ra'jah O'Hara_US_6_AS,12,
+1853,Eureka_US_6_AS,12,
+1854,Vanessa Van Cartier_HOL_2_REG,12,
+1855,My Little Puny_HOL_2_REG,12,
+1856,Vivaldi_HOL_2_REG,12,
+1857,Ella Vaday_UK_3_REG,12,
+1858,Kitty Scott-Claus_UK_3_REG,12,
+1859,Krystal Versace_UK_3_REG,12,
+1860,Icesis Couture_CAN_2_REG,12,
+1861,Kendall Gender_CAN_2_REG,12,
+1862,Pythia_CAN_2_REG,12,
+1863,Farida Kant_ITA_1_REG,12,
+1864,Elecktra Bionic_ITA_1_REG,12,
+1865,Le Riche_ITA_1_REG,12,
+1866,Luquisha Lubamba_ITA_1_REG,12,
+1867,Blu Hydrangea_UK_1_WORLD,12,
+1868,Mo Heart_UK_1_WORLD,12,
+1869,Baga Chipz_UK_1_WORLD,12,
+1870,Jujubee_UK_1_WORLD,12,
+1871,Angeria Paris VanMichaels_US_14_REG,12,2.0
+1872,Bosco_US_14_REG,12,0.0
+1873,Daya Betty_US_14_REG,12,3.0
+1874,Lady Camden_US_14_REG,12,5.0
+1875,Willow Pill_US_14_REG,12,3.0
+1876,Estrella Xtravaganza_ESP_2_REG,12,
+1877,Sharonne_ESP_2_REG,12,
+1878,Venedita Von Dash_ESP_2_REG,12,
+1879,Marina_ESP_2_REG,12,
+1880,Jinkx Monsoon_US_7_AS,12,
+1881,Monet X Change_US_7_AS,12,
+1882,Shea Coulee_US_7_AS,12,
+1883,Trinity the Tuck_US_7_AS,12,
+1884,Paloma_FRA_1_REG,12,
+1885,La Grande Dame_FRA_1_REG,12,
+1886,Soa de Muse_FRA_1_REG,12,
+1887,Lolita Banana_FRA_1_REG,12,
+1888,Gisele Lullaby_CAN_3_REG,12,
+1889,Jada Shada Hudson_CAN_3_REG,12,
+1890,Kimmy Couture_CAN_3_REG,12,
+1891,Miss Fiercalicious_CAN_3_REG,12,
+1892,Hanna Conda_AUS_2_REG,12,
+1893,Kween Kong_AUS_2_REG,12,
+1894,Spankie Jackzon_AUS_2_REG,12,
+1895,Eva Le Queen_PH_1_REG,12,
+1896,Marina Summers_PH_1_REG,12,
+1897,Precious Paula Nicole_PH_1_REG,12,
+1898,Xilhouete_PH_1_REG,12,
+1899,Black Peppa_UK_4_REG,12,
+1900,Cheddar Gorgeous_UK_4_REG,12,
+1901,Danny Beard_UK_4_REG,12,
+1902,Jonbers Blonde_UK_4_REG,12,
+1903,La Diamond_ITA_2_REG,12,
+1904,Aura Etherial_ITA_2_REG,12,
+1905,Nehllenia_ITA_2_REG,12,
+1906,Ra'jah O'Hara_CAN_1_WORLD,12,
+1907,Rita Baga_CAN_1_WORLD,12,
+1908,Silky Nutmeg Ganache_CAN_1_WORLD,12,
+1909,Victoria Scone_CAN_1_WORLD,12,
+1910,Anetra_US_15_REG,12,5.0
+1911,Luxx Noir London_US_15_REG,12,0.0
+1912,Mistress Isabelle Brookes_US_15_REG,12,3.0
+1913,Sasha Colby_US_15_REG,12,3.0
+1914,Athena Sorgelikis_BEL_1_REG,12,
+1915,Drag Couenne_BEL_1_REG,12,
+1916,Susan_BEL_1_REG,12,
+1917,Admira Thunderpussy_SWE_1_REG,12,
+1918,Fontana_SWE_1_REG,12,
+1919,Vanity Vain_SWE_1_REG,12,
+1920,Chad Michaels_US_1_AS,13,
+1921,Raven_US_1_AS,13,
+1922,Jujubee_US_1_AS,13,
+1923,Shannel_US_1_AS,13,
+1924,Alaska_US_2_AS,13,
+1925,Detox_US_2_AS,13,
+1926,Katya_US_2_AS,13,
+1927,Roxxxy Andrews_US_2_AS,13,
+1928,Trixie Mattel_US_3_AS,13,
+1929,Kennedy Davenport_US_3_AS,13,
+1930,BeBe Zahara Benet_US_3_AS,13,
+1931,Shangela_US_3_AS,13,
+1932,Monet X Change_US_4_AS,13,
+1933,Trinity the Tuck_US_4_AS,13,
+1934,Monique Heart_US_4_AS,13,
+1935,Naomi Smalls_US_4_AS,13,
+1936,Jujubee_US_5_AS,13,
+1937,Shea Coulee_US_5_AS,13,
+1938,Miz Cracker_US_5_AS,13,
+1939,Priyanka_CAN_1_REG,13,
+1940,Rita Baga_CAN_1_REG,13,
+1941,Scarlett BoBo_CAN_1_REG,13,
+1942,Envy Peru_HOL_1_REG,13,
+1943,Janey Jacke_HOL_1_REG,13,
+1944,Ma'Ma Queen_HOL_1_REG,13,
+1945,Miss Abby OMG_HOL_1_REG,13,
+1946,Natalia Pilacam_THI_1_REG,13,
+1947,Annee Maywong_THI_1_REG,13,
+1948,Dearis Doll_THI_1_REG,13,
+1949,The Vivienne_UK_1_REG,13,
+1950,Divina de Campo_UK_1_REG,13,
+1951,Baga Chipz_UK_1_REG,13,
+1952,Bebe Zahara Benet_US_1_REG,13,
+1953,Nina Flowers_US_1_REG,13,
+1954,Rebbeca Glasscock_US_1_REG,13,
+1955,Aquaria_US_10_REG,13,
+1956,Eureka_US_10_REG,13,
+1957,Kameron Michaels_US_10_REG,13,
+1958,Asia O'Hara_US_10_REG,13,
+1959,Yvie Oddly_US_11_REG,13,
+1960,Brooke Lynn Hytes_US_11_REG,13,
+1961,A'keria Davenport_US_11_REG,13,
+1962,Silky Nutmeg Ganache_US_11_REG,13,
+1963,Jaida Essence Hall_US_12_REG,13,
+1964,Crystal Methyd_US_12_REG,13,
+1965,Gigi Goode_US_12_REG,13,
+1966,Symone_US_13_REG,13,3.0
+1967,Kandy Muse_US_13_REG,13,0.0
+1968,Gottmik_US_13_REG,13,3.0
+1969,Rose_US_13_REG,13,5.0
+1970,Angele Anang_THI_2_REG,13,
+1971,Kana Warrior_THI_2_REG,13,
+1972,Kandy Zyanide_THI_2_REG,13,
+1973,Lawrence Chaney_UK_2_REG,13,
+1974,Bimini Bon Boulash_UK_2_REG,13,
+1975,Tayce_UK_2_REG,13,
+1976,Ellie Diamond_UK_2_REG,13,
+1977,Tyra Sanchez_US_2_REG,13,
+1978,Raven_US_2_REG,13,
+1979,Jujubee_US_2_REG,13,
+1980,Raja_US_3_REG,13,
+1981,Manila Luzon_US_3_REG,13,
+1982,Alexis Mateo_US_3_REG,13,
+1983,Sharon Needles_US_4_REG,13,
+1984,Chad Michaels_US_4_REG,13,
+1985,Phi Phi O'Hara_US_4_REG,13,
+1986,Jinkx Monsoon_US_5_REG,13,
+1987,Alaska_US_5_REG,13,
+1988,Roxxxy Andrews_US_5_REG,13,
+1989,Bianca Del Rio_US_6_REG,13,
+1990,Adore Delano_US_6_REG,13,
+1991,Courtney Act_US_6_REG,13,
+1992,Violet Chachki_US_7_REG,13,
+1993,Ginger Minj_US_7_REG,13,
+1994,Pearl_US_7_REG,13,
+1995,Bob the Drag Queen_US_8_REG,13,
+1996,Kim Chi_US_8_REG,13,
+1997,Naomi Smalls_US_8_REG,13,
+1998,Sasha Velour_US_9_REG,13,
+1999,Peppermint_US_9_REG,13,
+2000,Shea Coulee_US_9_REG,13,
+2001,Trinity the Tuck_US_9_REG,13,
+2002,Kita Mean_AUS_1_REG,13,
+2003,Art Simone_AUS_1_REG,13,
+2004,Karen from Finance_AUS_1_REG,13,
+2005,Scarlet Adams_AUS_1_REG,13,
+2006,Carmen Farala_ESP_1_REG,13,
+2007,Killer Queen_ESP_1_REG,13,
+2008,Sagittaria_ESP_1_REG,13,
+2009,Pupi Poisson_ESP_1_REG,13,
+2010,Kylie Sonique Love_US_6_AS,13,
+2011,Ginger Minj_US_6_AS,13,
+2012,Ra'jah O'Hara_US_6_AS,13,
+2013,Eureka_US_6_AS,13,
+2014,Vanessa Van Cartier_HOL_2_REG,13,
+2015,My Little Puny_HOL_2_REG,13,
+2016,Vivaldi_HOL_2_REG,13,
+2017,Ella Vaday_UK_3_REG,13,
+2018,Kitty Scott-Claus_UK_3_REG,13,
+2019,Krystal Versace_UK_3_REG,13,
+2020,Icesis Couture_CAN_2_REG,13,
+2021,Kendall Gender_CAN_2_REG,13,
+2022,Pythia_CAN_2_REG,13,
+2023,Farida Kant_ITA_1_REG,13,
+2024,Elecktra Bionic_ITA_1_REG,13,
+2025,Le Riche_ITA_1_REG,13,
+2026,Luquisha Lubamba_ITA_1_REG,13,
+2027,Blu Hydrangea_UK_1_WORLD,13,
+2028,Mo Heart_UK_1_WORLD,13,
+2029,Baga Chipz_UK_1_WORLD,13,
+2030,Jujubee_UK_1_WORLD,13,
+2031,Angeria Paris VanMichaels_US_14_REG,13,3.0
+2032,Bosco_US_14_REG,13,5.0
+2033,Daya Betty_US_14_REG,13,0.0
+2034,Lady Camden_US_14_REG,13,2.0
+2035,Willow Pill_US_14_REG,13,3.0
+2036,Estrella Xtravaganza_ESP_2_REG,13,
+2037,Sharonne_ESP_2_REG,13,
+2038,Venedita Von Dash_ESP_2_REG,13,
+2039,Marina_ESP_2_REG,13,
+2040,Jinkx Monsoon_US_7_AS,13,
+2041,Monet X Change_US_7_AS,13,
+2042,Shea Coulee_US_7_AS,13,
+2043,Trinity the Tuck_US_7_AS,13,
+2044,Paloma_FRA_1_REG,13,
+2045,La Grande Dame_FRA_1_REG,13,
+2046,Soa de Muse_FRA_1_REG,13,
+2047,Lolita Banana_FRA_1_REG,13,
+2048,Gisele Lullaby_CAN_3_REG,13,
+2049,Jada Shada Hudson_CAN_3_REG,13,
+2050,Kimmy Couture_CAN_3_REG,13,
+2051,Miss Fiercalicious_CAN_3_REG,13,
+2052,Hanna Conda_AUS_2_REG,13,
+2053,Kween Kong_AUS_2_REG,13,
+2054,Spankie Jackzon_AUS_2_REG,13,
+2055,Eva Le Queen_PH_1_REG,13,
+2056,Marina Summers_PH_1_REG,13,
+2057,Precious Paula Nicole_PH_1_REG,13,
+2058,Xilhouete_PH_1_REG,13,
+2059,Black Peppa_UK_4_REG,13,
+2060,Cheddar Gorgeous_UK_4_REG,13,
+2061,Danny Beard_UK_4_REG,13,
+2062,Jonbers Blonde_UK_4_REG,13,
+2063,La Diamond_ITA_2_REG,13,
+2064,Aura Etherial_ITA_2_REG,13,
+2065,Nehllenia_ITA_2_REG,13,
+2066,Ra'jah O'Hara_CAN_1_WORLD,13,
+2067,Rita Baga_CAN_1_WORLD,13,
+2068,Silky Nutmeg Ganache_CAN_1_WORLD,13,
+2069,Victoria Scone_CAN_1_WORLD,13,
+2070,Anetra_US_15_REG,13,0.0
+2071,Luxx Noir London_US_15_REG,13,3.0
+2072,Mistress Isabelle Brookes_US_15_REG,13,0.0
+2073,Sasha Colby_US_15_REG,13,5.0
+2074,Athena Sorgelikis_BEL_1_REG,13,
+2075,Drag Couenne_BEL_1_REG,13,
+2076,Susan_BEL_1_REG,13,
+2077,Admira Thunderpussy_SWE_1_REG,13,
+2078,Fontana_SWE_1_REG,13,
+2079,Vanity Vain_SWE_1_REG,13,
+2080,Chad Michaels_US_1_AS,14,
+2081,Raven_US_1_AS,14,
+2082,Jujubee_US_1_AS,14,
+2083,Shannel_US_1_AS,14,
+2084,Alaska_US_2_AS,14,
+2085,Detox_US_2_AS,14,
+2086,Katya_US_2_AS,14,
+2087,Roxxxy Andrews_US_2_AS,14,
+2088,Trixie Mattel_US_3_AS,14,
+2089,Kennedy Davenport_US_3_AS,14,
+2090,BeBe Zahara Benet_US_3_AS,14,
+2091,Shangela_US_3_AS,14,
+2092,Monet X Change_US_4_AS,14,
+2093,Trinity the Tuck_US_4_AS,14,
+2094,Monique Heart_US_4_AS,14,
+2095,Naomi Smalls_US_4_AS,14,
+2096,Jujubee_US_5_AS,14,
+2097,Shea Coulee_US_5_AS,14,
+2098,Miz Cracker_US_5_AS,14,
+2099,Priyanka_CAN_1_REG,14,
+2100,Rita Baga_CAN_1_REG,14,
+2101,Scarlett BoBo_CAN_1_REG,14,
+2102,Envy Peru_HOL_1_REG,14,
+2103,Janey Jacke_HOL_1_REG,14,
+2104,Ma'Ma Queen_HOL_1_REG,14,
+2105,Miss Abby OMG_HOL_1_REG,14,
+2106,Natalia Pilacam_THI_1_REG,14,
+2107,Annee Maywong_THI_1_REG,14,
+2108,Dearis Doll_THI_1_REG,14,
+2109,The Vivienne_UK_1_REG,14,
+2110,Divina de Campo_UK_1_REG,14,
+2111,Baga Chipz_UK_1_REG,14,
+2112,Bebe Zahara Benet_US_1_REG,14,
+2113,Nina Flowers_US_1_REG,14,
+2114,Rebbeca Glasscock_US_1_REG,14,
+2115,Aquaria_US_10_REG,14,
+2116,Eureka_US_10_REG,14,
+2117,Kameron Michaels_US_10_REG,14,
+2118,Asia O'Hara_US_10_REG,14,
+2119,Yvie Oddly_US_11_REG,14,
+2120,Brooke Lynn Hytes_US_11_REG,14,
+2121,A'keria Davenport_US_11_REG,14,
+2122,Silky Nutmeg Ganache_US_11_REG,14,
+2123,Jaida Essence Hall_US_12_REG,14,
+2124,Crystal Methyd_US_12_REG,14,
+2125,Gigi Goode_US_12_REG,14,
+2126,Symone_US_13_REG,14,2.0
+2127,Kandy Muse_US_13_REG,14,2.0
+2128,Gottmik_US_13_REG,14,2.0
+2129,Rose_US_13_REG,14,2.0
+2130,Angele Anang_THI_2_REG,14,
+2131,Kana Warrior_THI_2_REG,14,
+2132,Kandy Zyanide_THI_2_REG,14,
+2133,Lawrence Chaney_UK_2_REG,14,
+2134,Bimini Bon Boulash_UK_2_REG,14,
+2135,Tayce_UK_2_REG,14,
+2136,Ellie Diamond_UK_2_REG,14,
+2137,Tyra Sanchez_US_2_REG,14,
+2138,Raven_US_2_REG,14,
+2139,Jujubee_US_2_REG,14,
+2140,Raja_US_3_REG,14,
+2141,Manila Luzon_US_3_REG,14,
+2142,Alexis Mateo_US_3_REG,14,
+2143,Sharon Needles_US_4_REG,14,
+2144,Chad Michaels_US_4_REG,14,
+2145,Phi Phi O'Hara_US_4_REG,14,
+2146,Jinkx Monsoon_US_5_REG,14,
+2147,Alaska_US_5_REG,14,
+2148,Roxxxy Andrews_US_5_REG,14,
+2149,Bianca Del Rio_US_6_REG,14,
+2150,Adore Delano_US_6_REG,14,
+2151,Courtney Act_US_6_REG,14,
+2152,Violet Chachki_US_7_REG,14,
+2153,Ginger Minj_US_7_REG,14,
+2154,Pearl_US_7_REG,14,
+2155,Bob the Drag Queen_US_8_REG,14,
+2156,Kim Chi_US_8_REG,14,
+2157,Naomi Smalls_US_8_REG,14,
+2158,Sasha Velour_US_9_REG,14,
+2159,Peppermint_US_9_REG,14,
+2160,Shea Coulee_US_9_REG,14,
+2161,Trinity the Tuck_US_9_REG,14,
+2162,Kita Mean_AUS_1_REG,14,
+2163,Art Simone_AUS_1_REG,14,
+2164,Karen from Finance_AUS_1_REG,14,
+2165,Scarlet Adams_AUS_1_REG,14,
+2166,Carmen Farala_ESP_1_REG,14,
+2167,Killer Queen_ESP_1_REG,14,
+2168,Sagittaria_ESP_1_REG,14,
+2169,Pupi Poisson_ESP_1_REG,14,
+2170,Kylie Sonique Love_US_6_AS,14,
+2171,Ginger Minj_US_6_AS,14,
+2172,Ra'jah O'Hara_US_6_AS,14,
+2173,Eureka_US_6_AS,14,
+2174,Vanessa Van Cartier_HOL_2_REG,14,
+2175,My Little Puny_HOL_2_REG,14,
+2176,Vivaldi_HOL_2_REG,14,
+2177,Ella Vaday_UK_3_REG,14,
+2178,Kitty Scott-Claus_UK_3_REG,14,
+2179,Krystal Versace_UK_3_REG,14,
+2180,Icesis Couture_CAN_2_REG,14,
+2181,Kendall Gender_CAN_2_REG,14,
+2182,Pythia_CAN_2_REG,14,
+2183,Farida Kant_ITA_1_REG,14,
+2184,Elecktra Bionic_ITA_1_REG,14,
+2185,Le Riche_ITA_1_REG,14,
+2186,Luquisha Lubamba_ITA_1_REG,14,
+2187,Blu Hydrangea_UK_1_WORLD,14,
+2188,Mo Heart_UK_1_WORLD,14,
+2189,Baga Chipz_UK_1_WORLD,14,
+2190,Jujubee_UK_1_WORLD,14,
+2191,Angeria Paris VanMichaels_US_14_REG,14,0.0
+2192,Bosco_US_14_REG,14,1.0
+2193,Daya Betty_US_14_REG,14,3.0
+2194,Lady Camden_US_14_REG,14,5.0
+2195,Willow Pill_US_14_REG,14,0.0
+2196,Estrella Xtravaganza_ESP_2_REG,14,
+2197,Sharonne_ESP_2_REG,14,
+2198,Venedita Von Dash_ESP_2_REG,14,
+2199,Marina_ESP_2_REG,14,
+2200,Jinkx Monsoon_US_7_AS,14,
+2201,Monet X Change_US_7_AS,14,
+2202,Shea Coulee_US_7_AS,14,
+2203,Trinity the Tuck_US_7_AS,14,
+2204,Paloma_FRA_1_REG,14,
+2205,La Grande Dame_FRA_1_REG,14,
+2206,Soa de Muse_FRA_1_REG,14,
+2207,Lolita Banana_FRA_1_REG,14,
+2208,Gisele Lullaby_CAN_3_REG,14,
+2209,Jada Shada Hudson_CAN_3_REG,14,
+2210,Kimmy Couture_CAN_3_REG,14,
+2211,Miss Fiercalicious_CAN_3_REG,14,
+2212,Hanna Conda_AUS_2_REG,14,
+2213,Kween Kong_AUS_2_REG,14,
+2214,Spankie Jackzon_AUS_2_REG,14,
+2215,Eva Le Queen_PH_1_REG,14,
+2216,Marina Summers_PH_1_REG,14,
+2217,Precious Paula Nicole_PH_1_REG,14,
+2218,Xilhouete_PH_1_REG,14,
+2219,Black Peppa_UK_4_REG,14,
+2220,Cheddar Gorgeous_UK_4_REG,14,
+2221,Danny Beard_UK_4_REG,14,
+2222,Jonbers Blonde_UK_4_REG,14,
+2223,La Diamond_ITA_2_REG,14,
+2224,Aura Etherial_ITA_2_REG,14,
+2225,Nehllenia_ITA_2_REG,14,
+2226,Ra'jah O'Hara_CAN_1_WORLD,14,
+2227,Rita Baga_CAN_1_WORLD,14,
+2228,Silky Nutmeg Ganache_CAN_1_WORLD,14,
+2229,Victoria Scone_CAN_1_WORLD,14,
+2230,Anetra_US_15_REG,14,
+2231,Luxx Noir London_US_15_REG,14,
+2232,Mistress Isabelle Brookes_US_15_REG,14,
+2233,Sasha Colby_US_15_REG,14,
+2234,Athena Sorgelikis_BEL_1_REG,14,
+2235,Drag Couenne_BEL_1_REG,14,
+2236,Susan_BEL_1_REG,14,
+2237,Admira Thunderpussy_SWE_1_REG,14,
+2238,Fontana_SWE_1_REG,14,
+2239,Vanity Vain_SWE_1_REG,14,

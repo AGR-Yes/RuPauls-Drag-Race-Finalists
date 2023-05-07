@@ -1,161 +1,161 @@
-,season,country,format,w/r/e,queen,score,1,2,3,4,5,6,7,8,9,10,11,12,13,14
-1,1,US,AS,W,Chad Michaels,18.0,0.0,3.0,5.0,5.0,5.0,,,,,,,,,
-2,1,US,AS,R,Raven,4.0,3.0,1.0,0.0,0.0,0.0,,,,,,,,,
-3,1,US,AS,E,Jujubee,4.0,3.0,1.0,0.0,0.0,0.0,,,,,,,,,
-4,1,US,AS,E,Shannel,18.0,0.0,3.0,5.0,5.0,5.0,,,,,,,,,
-5,2,US,AS,W,Alaska,25.0,3.0,5.0,2.0,5.0,5.0,5.0,0.0,,,,,,,
-6,2,US,AS,R,Detox,20.0,2.0,0.0,4.0,2.0,5.0,2.0,5.0,,,,,,,
-7,2,US,AS,R,Katya,16.0,2.0,4.0,0.0,0.0,2.0,4.0,4.0,,,,,,,
-8,2,US,AS,E,Roxxxy Andrews,7.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,,,,,,,
-9,3,US,AS,W,Trixie Mattel,15.0,2.0,2.0,3.0,0.0,4.0,0.0,4.0,,,,,,,
-10,3,US,AS,R,Kennedy Davenport,9.0,2.0,0.0,5.0,0.0,2.0,0.0,0.0,,,,,,,
-11,3,US,AS,E,BeBe Zahara Benet,18.0,2.0,3.0,2.0,2.0,5.0,4.0,0.0,,,,,,,
-12,3,US,AS,E,Shangela,20.0,3.0,5.0,2.0,5.0,0.0,0.0,5.0,,,,,,,
-13,4,US,AS,W,Monet X Change,20.0,1.0,4.0,2.0,0.0,5.0,2.0,2.0,4.0,0.0,,,,,
-14,4,US,AS,W,Trinity the Tuck,26.0,5.0,2.0,4.0,1.0,0.0,2.0,4.0,3.0,5.0,,,,,
-15,4,US,AS,E,Monique Heart,22.0,4.0,0.0,2.0,5.0,0.0,2.0,2.0,3.0,4.0,,,,,
-16,4,US,AS,E,Naomi Smalls,18.0,3.0,3.0,3.0,2.0,0.0,2.0,0.0,5.0,0.0,,,,,
-17,5,US,AS,R,Jujubee,21.0,2.0,3.0,4.0,3.0,3.0,3.0,3.0,,,,,,,
-18,5,US,AS,W,Shea Coulee,18.0,2.0,5.0,0.0,2.0,5.0,3.0,1.0,,,,,,,
-19,5,US,AS,R,Miz Cracker,22.0,3.0,2.0,2.0,5.0,1.0,4.0,5.0,,,,,,,
-20,1,CAN,REG,W,Priyanka,22.0,2.0,3.0,5.0,2.0,0.0,2.0,0.0,5.0,3.0,,,,,
-21,1,CAN,REG,R,Rita Baga,24.0,5.0,2.0,2.0,5.0,3.0,5.0,2.0,0.0,0.0,,,,,
-22,1,CAN,REG,R,Scarlett BoBo,26.0,2.0,2.0,3.0,3.0,2.0,3.0,3.0,3.0,5.0,,,,,
-23,1,HOL,REG,W,Envy Peru,26.0,2.0,5.0,2.0,5.0,5.0,5.0,2.0,,,,,,,
-24,1,HOL,REG,R,Janey Jacke,20.0,5.0,2.0,2.0,3.0,3.0,0.0,5.0,,,,,,,
-25,1,HOL,REG,E,Ma'Ma Queen,12.0,1.0,2.0,5.0,0.0,3.0,1.0,0.0,,,,,,,
-26,1,HOL,REG,E,Miss Abby OMG,7.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,,,,,,,
-27,1,THI,REG,W,Natalia Pilacam,19.5,2.0,4.0,2.0,0.5,5.0,3.0,3.0,,,,,,,
-28,1,THI,REG,R,Annee Maywong,20.0,4.0,3.0,4.0,1.0,0.0,3.0,5.0,,,,,,,
-29,1,THI,REG,R,Dearis Doll,15.0,2.0,2.0,0.0,4.0,2.0,5.0,0.0,,,,,,,
-30,1,UK,REG,W,The Vivienne,24.0,5.0,3.0,3.0,5.0,0.0,5.0,3.0,,,,,,,
-31,1,UK,REG,R,Divina de Campo,23.0,2.0,2.0,5.0,1.0,5.0,3.0,5.0,,,,,,,
-32,1,UK,REG,E,Baga Chipz,21.0,3.0,5.0,2.0,5.0,5.0,1.0,0.0,,,,,,,
-33,1,US,REG,W,Bebe Zahara Benet,17.0,2.0,2.0,5.0,3.0,0.0,5.0,,,,,,,,
-34,1,US,REG,R,Nina Flowers,18.0,5.0,3.0,3.0,3.0,1.0,3.0,,,,,,,,
-35,1,US,REG,E,Rebbeca Glasscock,11.0,1.0,3.0,2.0,0.0,5.0,0.0,,,,,,,,
-36,10,US,REG,W,Aquaria,32.0,2.0,2.0,2.0,5.0,2.0,2.0,5.0,1.0,3.0,1.0,5.0,2.0,,
-37,10,US,REG,R,Eureka,30.0,2.0,0.0,3.0,2.0,5.0,5.0,3.0,2.0,0.0,3.0,3.0,2.0,,
-38,10,US,REG,R,Kameron Michaels,23.0,2.0,3.0,1.0,3.0,2.0,3.0,2.0,5.0,0.0,0.0,0.0,2.0,,
-39,10,US,REG,E,Asia O'Hara,28.0,2.0,2.0,5.0,1.0,2.0,2.0,1.0,0.0,5.0,3.0,3.0,2.0,,
-40,11,US,REG,W,Yvie Oddly,29.0,2.0,5.0,3.0,3.0,3.0,3.0,3.0,0.0,2.0,2.0,1.0,2.0,,
-41,11,US,REG,R,Brooke Lynn Hytes,34.0,5.0,1.0,3.0,3.0,5.0,3.0,3.0,0.0,3.0,3.0,5.0,0.0,,
-42,11,US,REG,E,A'keria Davenport,28.0,3.0,2.0,0.0,2.0,2.0,5.0,0.0,2.0,5.0,2.0,3.0,2.0,,
-43,11,US,REG,E,Silky Nutmeg Ganache,29.0,2.0,2.0,3.0,5.0,1.0,3.0,2.0,5.0,3.0,1.0,0.0,2.0,,
-44,12,US,REG,W,Jaida Essence Hall,32.0,,5.0,2.0,3.0,2.0,2.0,2.0,3.0,5.0,5.0,0.0,3.0,,
-45,12,US,REG,R,Crystal Methyd,25.0,2.0,,1.0,2.0,2.0,1.0,3.0,3.0,3.0,3.0,5.0,0.0,,
-46,12,US,REG,R,Gigi Goode,36.0,4.0,,2.0,5.0,3.0,5.0,5.0,1.0,1.0,2.0,3.0,5.0,,
-47,13,US,REG,W,Symone,37.0,3.0,5.0,,5.0,2.0,2.0,3.0,0.0,2.0,5.0,5.0,0.0,3.0,2.0
-48,13,US,REG,R,Kandy Muse,27.0,3.0,1.0,,3.0,2.0,0.0,3.0,0.0,2.0,3.0,3.0,5.0,0.0,2.0
-49,13,US,REG,E,Gottmik,35.0,3.0,1.0,,2.0,5.0,2.0,2.0,3.0,5.0,3.0,1.0,3.0,3.0,2.0
-50,13,US,REG,E,Rose,39.0,1.0,,4.0,3.0,3.0,2.0,2.0,5.0,3.0,1.0,5.0,3.0,5.0,2.0
-51,2,THI,REG,W,Angele Anang,31.0,4.0,2.0,2.0,4.0,4.0,4.0,4.0,4.0,0.0,3.0,0.0,,,
-52,2,THI,REG,R,Kana Warrior,15.0,2.0,2.0,0.0,0.0,0.0,,,3.0,0.0,4.0,4.0,,,
-53,2,THI,REG,R,Kandy Zyanide,23.0,3.0,2.0,2.0,0.0,,,,3.0,5.0,4.0,4.0,,,
-54,2,UK,REG,W,Lawrence Chaney,26.0,3.0,1.0,5.0,5.0,5.0,0.0,1.0,3.0,3.0,,,,,
-55,2,UK,REG,R,Bimini Bon Boulash,30.0,0.0,2.0,3.0,3.0,5.0,5.0,2.0,5.0,5.0,,,,,
-56,2,UK,REG,R,Tayce,14.0,2.0,0.0,2.0,2.0,5.0,3.0,0.0,0.0,0.0,,,,,
-57,2,UK,REG,E,Ellie Diamond,18.0,3.0,3.0,2.0,2.0,2.0,2.0,3.0,1.0,0.0,,,,,
-58,2,US,REG,W,Tyra Sanchez,30.0,3.0,3.0,5.0,2.0,5.0,1.0,3.0,3.0,5.0,,,,,
-59,2,US,REG,R,Raven,23.0,2.0,0.0,0.0,2.0,3.0,3.0,5.0,5.0,3.0,,,,,
-60,2,US,REG,E,Jujubee,14.0,2.0,3.0,2.0,1.0,3.0,0.0,3.0,0.0,0.0,,,,,
-61,3,US,REG,W,Raja,33.0,5.0,1.0,2.0,2.0,3.0,5.0,3.0,1.0,5.0,3.0,0.0,3.0,,
-62,3,US,REG,R,Manila Luzon,34.0,3.0,2.0,2.0,5.0,2.0,3.0,0.0,1.0,3.0,3.0,5.0,5.0,,
-63,3,US,REG,E,Alexis Mateo,29.0,2.0,5.0,5.0,2.0,3.0,0.0,2.0,5.0,2.0,0.0,3.0,0.0,,
-64,4,US,REG,W,Sharon Needles,36.0,5.0,3.0,5.0,2.0,3.0,2.0,3.0,0.0,5.0,1.0,5.0,2.0,,
-65,4,US,REG,R,Chad Michaels,31.0,2.0,5.0,3.0,3.0,5.0,2.0,1.0,2.0,3.0,3.0,0.0,2.0,,
-66,4,US,REG,R,Phi Phi O'Hara,29.0,2.0,2.0,2.0,3.0,1.0,3.0,5.0,0.0,1.0,5.0,3.0,2.0,,
-67,5,US,REG,W,Jinkx Monsoon,34.0,2.0,2.0,3.0,3.0,5.0,3.0,3.0,3.0,5.0,3.0,0.0,2.0,,
-68,5,US,REG,R,Alaska,29.0,3.0,2.0,1.0,2.0,3.0,1.0,1.0,5.0,3.0,1.0,5.0,2.0,,
-69,5,US,REG,R,Roxxxy Andrews,31.0,5.0,2.0,3.0,1.0,3.0,3.0,0.0,1.0,3.0,5.0,3.0,2.0,,
-70,6,US,REG,W,Bianca Del Rio,36.0,,5.0,3.0,2.0,3.0,3.0,3.0,5.0,2.0,5.0,3.0,2.0,,
-71,6,US,REG,R,Adore Delano,27.0,1.0,,1.0,3.0,3.0,5.0,5.0,2.0,0.0,0.0,5.0,2.0,,
-72,6,US,REG,R,Courtney Act,26.0,,2.0,3.0,5.0,2.0,2.0,1.0,2.0,5.0,1.0,1.0,2.0,,
-73,7,US,REG,W,Violet Chachki,33.0,5.0,3.0,2.0,2.0,1.0,2.0,2.0,3.0,1.0,5.0,5.0,2.0,,
-74,7,US,REG,R,Ginger Minj,32.0,2.0,5.0,3.0,2.0,2.0,3.0,5.0,0.0,5.0,0.0,3.0,2.0,,
-75,7,US,REG,R,Pearl,26.0,2.0,2.0,1.0,0.0,5.0,2.0,2.0,5.0,0.0,2.0,3.0,2.0,,
-76,8,US,REG,W,Bob the Drag Queen,25.0,2.0,2.0,5.0,2.0,5.0,2.0,5.0,0.0,2.0,,,,,
-77,8,US,REG,R,Kim Chi,26.0,5.0,3.0,2.0,3.0,2.0,3.0,1.0,5.0,2.0,,,,,
-78,8,US,REG,R,Naomi Smalls,21.0,1.0,2.0,2.0,3.0,0.0,5.0,3.0,3.0,2.0,,,,,
-79,9,US,REG,W,Sasha Velour,34.0,3.0,2.0,2.0,5.0,2.0,3.0,1.0,3.0,5.0,3.0,3.0,2.0,,
-80,9,US,REG,R,Peppermint,25.0,2.0,2.0,3.0,1.0,3.0,0.0,2.0,5.0,3.0,2.0,0.0,2.0,,
-81,9,US,REG,E,Shea Coulee,37.0,2.0,3.0,2.0,5.0,5.0,2.0,3.0,3.0,5.0,0.0,5.0,2.0,,
-82,9,US,REG,E,Trinity the Tuck,31.0,2.0,3.0,5.0,0.0,2.0,2.0,5.0,1.0,3.0,5.0,1.0,2.0,,
-83,1,AUS,REG,W,Kita Mean,18.0,2.0,3.0,3.0,2.0,3.0,5.0,0.0,,,,,,,
-84,1,AUS,REG,R,Art Simone,11.0,3.0,0.0,,3.0,2.0,2.0,1.0,,,,,,,
-85,1,AUS,REG,R,Karen from Finance,14.0,5.0,2.0,2.0,0.0,1.0,3.0,1.0,,,,,,,
-86,1,AUS,REG,R,Scarlet Adams,22.0,3.0,2.0,5.0,5.0,2.0,0.0,5.0,,,,,,,
-87,1,ESP,REG,W,Carmen Farala,24.0,3.0,5.0,2.0,1.0,3.0,5.0,5.0,,,,,,,
-88,1,ESP,REG,R,Killer Queen,14.0,2.0,2.0,2.0,5.0,0.0,3.0,0.0,,,,,,,
-89,1,ESP,REG,R,Sagittaria,15.0,3.0,2.0,5.0,3.0,2.0,0.0,0.0,,,,,,,
-90,1,ESP,REG,E,Pupi Poisson,16.0,1.0,3.0,3.0,3.0,5.0,1.0,0.0,,,,,,,
-91,6,US,AS,W,Kylie Sonique Love,24.0,2.0,3.0,2.0,2.0,0.0,5.0,3.0,3.0,1.0,,3.0,,,
-92,6,US,AS,R,Ginger Minj,26.0,2.0,2.0,0.0,1.0,5.0,3.0,2.0,5.0,3.0,,3.0,,,
-93,6,US,AS,R,Ra'jah O'Hara,26.0,3.0,5.0,3.0,2.0,2.0,0.0,3.0,2.0,4.0,,2.0,,,
-94,6,US,AS,R,Eureka,28.0,2.0,3.0,2.0,3.0,3.0,1.0,2.0,2.0,0.0,5.0,5.0,,,
-95,2,HOL,REG,W,Vanessa Van Cartier,16.0,3.0,2.0,2.0,1.0,5.0,1.0,2.0,,,,,,,
-96,2,HOL,REG,R,My Little Puny,20.0,3.0,2.0,2.0,5.0,0.0,3.0,5.0,,,,,,,
-97,2,HOL,REG,E,Vivaldi,16.0,3.0,3.0,5.0,2.0,3.0,0.0,0.0,,,,,,,
-98,3,UK,REG,R,Ella Vaday,32.0,2.0,2.0,3.0,5.0,2.0,5.0,3.0,5.0,5.0,,,,,
-99,3,UK,REG,R,Kitty Scott-Claus,27.0,2.0,3.0,2.0,2.0,2.0,3.0,5.0,5.0,3.0,,,,,
-100,3,UK,REG,W,Krystal Versace,24.0,5.0,5.0,3.0,2.0,2.0,1.0,3.0,3.0,0.0,,,,,
-101,2,CAN,REG,W,Icesis Couture,22.0,5.0,0.0,2.0,2.0,3.0,5.0,3.0,0.0,2.0,,,,,
-102,2,CAN,REG,R,Kendall Gender,17.0,2.0,3.0,1.0,2.0,1.0,0.0,5.0,1.0,2.0,,,,,
-103,2,CAN,REG,R,Pythia,27.0,2.0,5.0,2.0,3.0,3.0,3.0,2.0,5.0,2.0,,,,,
-104,1,ITA,REG,R,Farida Kant,16.0,5.0,2.0,2.0,2.0,5.0,,,,,,,,,
-105,1,ITA,REG,W,Elecktra Bionic,11.0,2.0,2.0,2.0,2.0,3.0,,,,,,,,,
-106,1,ITA,REG,R,Le Riche,8.0,2.0,0.0,0.0,5.0,1.0,,,,,,,,,
-107,1,ITA,REG,E,Luquisha Lubamba,7.0,0.0,1.0,3.0,3.0,0.0,,,,,,,,,
-108,1,UK,WORLD,W,Blu Hydrangea,12.0,3.0,2.0,2.0,5.0,0.0,,,,,,,,,
-109,1,UK,WORLD,R,Mo Heart,10.0,2.0,3.0,1.0,0.0,4.0,,,,,,,,,
-110,1,UK,WORLD,E,Baga Chipz,11.0,3.0,2.0,2.0,4.0,0.0,,,,,,,,,
-111,1,UK,WORLD,E,Jujubee,7.0,2.0,0.0,0.0,0.0,5.0,,,,,,,,,
-112,14,US,REG,E,Angeria Paris VanMichaels,33.0,,5.0,3.0,5.0,3.0,3.0,2.0,3.0,2.0,0.0,2.0,2.0,3.0,0.0
-113,14,US,REG,E,Bosco,32.0,3.0,,2.0,2.0,5.0,2.0,3.0,2.0,5.0,0.0,2.0,0.0,5.0,1.0
-114,14,US,REG,E,Daya Betty,26.0,,0.0,2.0,2.0,2.0,2.0,4.0,5.0,1.0,0.0,2.0,3.0,0.0,3.0
-115,14,US,REG,R,Lady Camden,35.0,,3.0,2.0,2.0,3.0,3.0,5.0,1.0,2.0,0.0,2.0,5.0,2.0,5.0
-116,14,US,REG,W,Willow Pill,31.0,3.0,,5.0,3.0,2.0,2.0,3.0,2.0,3.0,0.0,2.0,3.0,3.0,0.0
-117,2,ESP,REG,R,Estrella Xtravaganza,21.0,2.0,2.0,3.0,5.0,2.0,0.0,5.0,2.0,0.0,,,,,
-118,2,ESP,REG,W,Sharonne,32.0,3.0,5.0,3.0,3.0,5.0,2.0,5.0,3.0,3.0,,,,,
-119,2,ESP,REG,R,Venedita Von Dash,25.0,2.0,2.0,5.0,2.0,3.0,3.0,3.0,0.0,5.0,,,,,
-120,2,ESP,REG,E,Marina,18.0,3.0,2.0,2.0,3.0,2.0,1.0,0.0,5.0,0.0,,,,,
-121,7,US,AS,W,Jinkx Monsoon,35.0,2.0,5.0,2.0,4.0,5.0,2.0,2.0,2.0,4.0,5.0,2.0,,,
-122,7,US,AS,R,Monet X Change,33.0,4.0,3.0,2.0,2.0,2.0,3.0,3.0,2.0,5.0,3.0,4.0,,,
-123,7,US,AS,E,Shea Coulee,33.0,5.0,2.0,3.0,2.0,3.0,3.0,3.0,2.0,3.0,2.0,5.0,,,
-124,7,US,AS,E,Trinity the Tuck,33.0,3.0,4.0,4.0,2.0,2.0,2.0,5.0,3.0,2.0,4.0,2.0,,,
-125,1,FRA,REG,W,Paloma,20.0,2.0,5.0,3.0,3.0,0.0,5.0,2.0,,,,,,,
-126,1,FRA,REG,R,La Grande Dame,18.0,2.0,3.0,3.0,5.0,1.0,2.0,2.0,,,,,,,
-127,1,FRA,REG,R,Soa de Muse,18.0,5.0,0.0,0.0,3.0,5.0,3.0,2.0,,,,,,,
-128,1,FRA,REG,E,Lolita Banana,11.0,2.0,3.0,2.0,1.0,3.0,0.0,0.0,,,,,,,
-129,3,CAN,REG,W,Gisele Lullaby,20.0,2.0,2.0,2.0,5.0,5.0,1.0,0.0,3.0,,,,,,
-130,3,CAN,REG,R,Jada Shada Hudson,16.0,3.0,0.0,5.0,0.0,2.0,3.0,1.0,2.0,,,,,,
-131,3,CAN,REG,E,Kimmy Couture,18.0,2.0,5.0,3.0,3.0,0.0,2.0,3.0,0.0,,,,,,
-132,3,CAN,REG,E,Miss Fiercalicious,21.0,1.0,3.0,0.0,2.0,2.0,5.0,3.0,5.0,,,,,,
-133,2,AUS,REG,R,Hanna Conda,23.0,3.0,3.0,2.0,5.0,5.0,5.0,0.0,,,,,,,
-134,2,AUS,REG,R,Kween Kong,15.0,1.0,0.0,2.0,2.0,5.0,0.0,5.0,,,,,,,
-135,2,AUS,REG,W,Spankie Jackzon,24.0,0.0,5.0,5.0,3.0,5.0,3.0,3.0,,,,,,,
-136,1,PH,REG,E,Eva Le Queen,21.0,3.0,2.0,3.0,2.0,2.0,3.0,0.0,3.0,3.0,,,,,
-137,1,PH,REG,R,Marina Summers,28.0,3.0,2.0,3.0,3.0,5.0,3.0,3.0,1.0,5.0,,,,,
-138,1,PH,REG,W,Precious Paula Nicole,24.0,2.0,3.0,2.0,5.0,3.0,2.0,1.0,3.0,3.0,,,,,
-139,1,PH,REG,E,Xilhouete,22.0,1.0,2.0,0.0,3.0,3.0,5.0,3.0,5.0,0.0,,,,,
-140,4,UK,REG,E,Black Peppa,13.0,5.0,2.0,0.0,2.0,2.0,0.0,2.0,0.0,0.0,,,,,
-141,4,UK,REG,R,Cheddar Gorgeous,29.0,2.0,5.0,1.0,3.0,2.0,5.0,5.0,5.0,1.0,,,,,
-142,4,UK,REG,W,Danny Beard,32.0,2.0,5.0,2.0,5.0,5.0,2.0,3.0,3.0,5.0,,,,,
-143,4,UK,REG,E,Jonbers Blonde,15.0,2.0,0.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,,,,,
-144,2,ITA,REG,W,La Diamond,26.0,5.0,2.0,5.0,5.0,2.0,2.0,5.0,,,,,,,
-145,2,ITA,REG,R,Aura Etherial,17.0,1.0,5.0,1.0,2.0,3.0,2.0,3.0,,,,,,,
-146,2,ITA,REG,R,Nehllenia,19.0,2.0,2.0,2.0,3.0,4.0,5.0,1.0,,,,,,,
-147,1,CAN,WORLD,W,Ra'jah O'Hara,11.0,3.0,4.0,2.0,0.0,2.0,,,,,,,,,
-148,1,CAN,WORLD,E,Rita Baga,13.0,4.0,2.0,0.0,2.0,5.0,,,,,,,,,
-149,1,CAN,WORLD,R,Silky Nutmeg Ganache,12.0,2.0,1.0,5.0,4.0,0.0,,,,,,,,,
-150,1,CAN,WORLD,E,Victoria Scone,18.0,2.0,3.0,4.0,5.0,4.0,,,,,,,,,
-151,15,US,REG,R,Anetra,30.0,5.0,2.0,2.0,2.0,1.0,3.0,0.0,3.0,2.0,0.0,5.0,5.0,0.0,
-152,15,US,REG,E,Luxx Noir London,34.0,2.0,3.0,2.0,5.0,2.0,2.0,2.0,2.0,3.0,5.0,3.0,0.0,3.0,
-153,15,US,REG,E,Mistress Isabelle Brookes,32.0,2.0,2.0,3.0,2.0,3.0,5.0,2.0,3.0,1.0,3.0,3.0,3.0,0.0,
-154,15,US,REG,W,Sasha Colby,41.0,2.0,5.0,2.0,3.0,3.0,2.0,2.0,5.0,5.0,1.0,3.0,3.0,5.0,
-155,1,BEL,REG,R,Athena Sorgelikis,17.0,5.0,2.0,2.0,2.0,1.0,5.0,0.0,,,,,,,
-156,1,BEL,REG,W,Drag Couenne,25.0,3.0,5.0,2.0,5.0,2.0,3.0,5.0,,,,,,,
-157,1,BEL,REG,E,Susan,13.0,2.0,1.0,5.0,0.0,3.0,1.0,1.0,,,,,,,
-158,1,SWE,REG,W,Admira Thunderpussy,23.0,3.0,2.0,2.0,5.0,5.0,1.0,5.0,,,,,,,
-159,1,SWE,REG,R,Fontana,14.0,2.0,2.0,1.0,2.0,0.0,5.0,2.0,,,,,,,
-160,1,SWE,REG,E,Vanity Vain,14.0,2.0,0.0,5.0,1.0,3.0,3.0,0.0,,,,,,,
+,season,country,format,w/r/e,queen,score,1,2,3,4,5,6,7,8,9,10,11,12,13,14,code,finalist
+1,1,US,AS,W,Chad Michaels,18.0,0.0,3.0,5.0,5.0,5.0,,,,,,,,,,US_1_AS,Chad Michaels_US_1_AS
+2,1,US,AS,R,Raven,4.0,3.0,1.0,0.0,0.0,0.0,,,,,,,,,,US_1_AS,Raven_US_1_AS
+3,1,US,AS,E,Jujubee,4.0,3.0,1.0,0.0,0.0,0.0,,,,,,,,,,US_1_AS,Jujubee_US_1_AS
+4,1,US,AS,E,Shannel,18.0,0.0,3.0,5.0,5.0,5.0,,,,,,,,,,US_1_AS,Shannel_US_1_AS
+5,2,US,AS,W,Alaska,25.0,3.0,5.0,2.0,5.0,5.0,5.0,0.0,,,,,,,,US_2_AS,Alaska_US_2_AS
+6,2,US,AS,R,Detox,20.0,2.0,0.0,4.0,2.0,5.0,2.0,5.0,,,,,,,,US_2_AS,Detox_US_2_AS
+7,2,US,AS,R,Katya,16.0,2.0,4.0,0.0,0.0,2.0,4.0,4.0,,,,,,,,US_2_AS,Katya_US_2_AS
+8,2,US,AS,E,Roxxxy Andrews,7.0,5.0,0.0,2.0,0.0,0.0,0.0,0.0,,,,,,,,US_2_AS,Roxxxy Andrews_US_2_AS
+9,3,US,AS,W,Trixie Mattel,15.0,2.0,2.0,3.0,0.0,4.0,0.0,4.0,,,,,,,,US_3_AS,Trixie Mattel_US_3_AS
+10,3,US,AS,R,Kennedy Davenport,9.0,2.0,0.0,5.0,0.0,2.0,0.0,0.0,,,,,,,,US_3_AS,Kennedy Davenport_US_3_AS
+11,3,US,AS,E,BeBe Zahara Benet,18.0,2.0,3.0,2.0,2.0,5.0,4.0,0.0,,,,,,,,US_3_AS,BeBe Zahara Benet_US_3_AS
+12,3,US,AS,E,Shangela,20.0,3.0,5.0,2.0,5.0,0.0,0.0,5.0,,,,,,,,US_3_AS,Shangela_US_3_AS
+13,4,US,AS,W,Monet X Change,20.0,1.0,4.0,2.0,0.0,5.0,2.0,2.0,4.0,0.0,,,,,,US_4_AS,Monet X Change_US_4_AS
+14,4,US,AS,W,Trinity the Tuck,26.0,5.0,2.0,4.0,1.0,0.0,2.0,4.0,3.0,5.0,,,,,,US_4_AS,Trinity the Tuck_US_4_AS
+15,4,US,AS,E,Monique Heart,22.0,4.0,0.0,2.0,5.0,0.0,2.0,2.0,3.0,4.0,,,,,,US_4_AS,Monique Heart_US_4_AS
+16,4,US,AS,E,Naomi Smalls,18.0,3.0,3.0,3.0,2.0,0.0,2.0,0.0,5.0,0.0,,,,,,US_4_AS,Naomi Smalls_US_4_AS
+17,5,US,AS,R,Jujubee,21.0,2.0,3.0,4.0,3.0,3.0,3.0,3.0,,,,,,,,US_5_AS,Jujubee_US_5_AS
+18,5,US,AS,W,Shea Coulee,18.0,2.0,5.0,0.0,2.0,5.0,3.0,1.0,,,,,,,,US_5_AS,Shea Coulee_US_5_AS
+19,5,US,AS,R,Miz Cracker,22.0,3.0,2.0,2.0,5.0,1.0,4.0,5.0,,,,,,,,US_5_AS,Miz Cracker_US_5_AS
+20,1,CAN,REG,W,Priyanka,22.0,2.0,3.0,5.0,2.0,0.0,2.0,0.0,5.0,3.0,,,,,,CAN_1_REG,Priyanka_CAN_1_REG
+21,1,CAN,REG,R,Rita Baga,24.0,5.0,2.0,2.0,5.0,3.0,5.0,2.0,0.0,0.0,,,,,,CAN_1_REG,Rita Baga_CAN_1_REG
+22,1,CAN,REG,R,Scarlett BoBo,26.0,2.0,2.0,3.0,3.0,2.0,3.0,3.0,3.0,5.0,,,,,,CAN_1_REG,Scarlett BoBo_CAN_1_REG
+23,1,HOL,REG,W,Envy Peru,26.0,2.0,5.0,2.0,5.0,5.0,5.0,2.0,,,,,,,,HOL_1_REG,Envy Peru_HOL_1_REG
+24,1,HOL,REG,R,Janey Jacke,20.0,5.0,2.0,2.0,3.0,3.0,0.0,5.0,,,,,,,,HOL_1_REG,Janey Jacke_HOL_1_REG
+25,1,HOL,REG,E,Ma'Ma Queen,12.0,1.0,2.0,5.0,0.0,3.0,1.0,0.0,,,,,,,,HOL_1_REG,Ma'Ma Queen_HOL_1_REG
+26,1,HOL,REG,E,Miss Abby OMG,7.0,2.0,2.0,0.0,0.0,0.0,3.0,0.0,,,,,,,,HOL_1_REG,Miss Abby OMG_HOL_1_REG
+27,1,THI,REG,W,Natalia Pilacam,19.5,2.0,4.0,2.0,0.5,5.0,3.0,3.0,,,,,,,,THI_1_REG,Natalia Pilacam_THI_1_REG
+28,1,THI,REG,R,Annee Maywong,20.0,4.0,3.0,4.0,1.0,0.0,3.0,5.0,,,,,,,,THI_1_REG,Annee Maywong_THI_1_REG
+29,1,THI,REG,R,Dearis Doll,15.0,2.0,2.0,0.0,4.0,2.0,5.0,0.0,,,,,,,,THI_1_REG,Dearis Doll_THI_1_REG
+30,1,UK,REG,W,The Vivienne,24.0,5.0,3.0,3.0,5.0,0.0,5.0,3.0,,,,,,,,UK_1_REG,The Vivienne_UK_1_REG
+31,1,UK,REG,R,Divina de Campo,23.0,2.0,2.0,5.0,1.0,5.0,3.0,5.0,,,,,,,,UK_1_REG,Divina de Campo_UK_1_REG
+32,1,UK,REG,E,Baga Chipz,21.0,3.0,5.0,2.0,5.0,5.0,1.0,0.0,,,,,,,,UK_1_REG,Baga Chipz_UK_1_REG
+33,1,US,REG,W,Bebe Zahara Benet,17.0,2.0,2.0,5.0,3.0,0.0,5.0,,,,,,,,,US_1_REG,Bebe Zahara Benet_US_1_REG
+34,1,US,REG,R,Nina Flowers,18.0,5.0,3.0,3.0,3.0,1.0,3.0,,,,,,,,,US_1_REG,Nina Flowers_US_1_REG
+35,1,US,REG,E,Rebbeca Glasscock,11.0,1.0,3.0,2.0,0.0,5.0,0.0,,,,,,,,,US_1_REG,Rebbeca Glasscock_US_1_REG
+36,10,US,REG,W,Aquaria,32.0,2.0,2.0,2.0,5.0,2.0,2.0,5.0,1.0,3.0,1.0,5.0,2.0,,,US_10_REG,Aquaria_US_10_REG
+37,10,US,REG,R,Eureka,30.0,2.0,0.0,3.0,2.0,5.0,5.0,3.0,2.0,0.0,3.0,3.0,2.0,,,US_10_REG,Eureka_US_10_REG
+38,10,US,REG,R,Kameron Michaels,23.0,2.0,3.0,1.0,3.0,2.0,3.0,2.0,5.0,0.0,0.0,0.0,2.0,,,US_10_REG,Kameron Michaels_US_10_REG
+39,10,US,REG,E,Asia O'Hara,28.0,2.0,2.0,5.0,1.0,2.0,2.0,1.0,0.0,5.0,3.0,3.0,2.0,,,US_10_REG,Asia O'Hara_US_10_REG
+40,11,US,REG,W,Yvie Oddly,29.0,2.0,5.0,3.0,3.0,3.0,3.0,3.0,0.0,2.0,2.0,1.0,2.0,,,US_11_REG,Yvie Oddly_US_11_REG
+41,11,US,REG,R,Brooke Lynn Hytes,34.0,5.0,1.0,3.0,3.0,5.0,3.0,3.0,0.0,3.0,3.0,5.0,0.0,,,US_11_REG,Brooke Lynn Hytes_US_11_REG
+42,11,US,REG,E,A'keria Davenport,28.0,3.0,2.0,0.0,2.0,2.0,5.0,0.0,2.0,5.0,2.0,3.0,2.0,,,US_11_REG,A'keria Davenport_US_11_REG
+43,11,US,REG,E,Silky Nutmeg Ganache,29.0,2.0,2.0,3.0,5.0,1.0,3.0,2.0,5.0,3.0,1.0,0.0,2.0,,,US_11_REG,Silky Nutmeg Ganache_US_11_REG
+44,12,US,REG,W,Jaida Essence Hall,32.0,,5.0,2.0,3.0,2.0,2.0,2.0,3.0,5.0,5.0,0.0,3.0,,,US_12_REG,Jaida Essence Hall_US_12_REG
+45,12,US,REG,R,Crystal Methyd,25.0,2.0,,1.0,2.0,2.0,1.0,3.0,3.0,3.0,3.0,5.0,0.0,,,US_12_REG,Crystal Methyd_US_12_REG
+46,12,US,REG,R,Gigi Goode,36.0,4.0,,2.0,5.0,3.0,5.0,5.0,1.0,1.0,2.0,3.0,5.0,,,US_12_REG,Gigi Goode_US_12_REG
+47,13,US,REG,W,Symone,37.0,3.0,5.0,,5.0,2.0,2.0,3.0,0.0,2.0,5.0,5.0,0.0,3.0,2.0,US_13_REG,Symone_US_13_REG
+48,13,US,REG,R,Kandy Muse,27.0,3.0,1.0,,3.0,2.0,0.0,3.0,0.0,2.0,3.0,3.0,5.0,0.0,2.0,US_13_REG,Kandy Muse_US_13_REG
+49,13,US,REG,E,Gottmik,35.0,3.0,1.0,,2.0,5.0,2.0,2.0,3.0,5.0,3.0,1.0,3.0,3.0,2.0,US_13_REG,Gottmik_US_13_REG
+50,13,US,REG,E,Rose,39.0,1.0,,4.0,3.0,3.0,2.0,2.0,5.0,3.0,1.0,5.0,3.0,5.0,2.0,US_13_REG,Rose_US_13_REG
+51,2,THI,REG,W,Angele Anang,31.0,4.0,2.0,2.0,4.0,4.0,4.0,4.0,4.0,0.0,3.0,0.0,,,,THI_2_REG,Angele Anang_THI_2_REG
+52,2,THI,REG,R,Kana Warrior,15.0,2.0,2.0,0.0,0.0,0.0,,,3.0,0.0,4.0,4.0,,,,THI_2_REG,Kana Warrior_THI_2_REG
+53,2,THI,REG,R,Kandy Zyanide,23.0,3.0,2.0,2.0,0.0,,,,3.0,5.0,4.0,4.0,,,,THI_2_REG,Kandy Zyanide_THI_2_REG
+54,2,UK,REG,W,Lawrence Chaney,26.0,3.0,1.0,5.0,5.0,5.0,0.0,1.0,3.0,3.0,,,,,,UK_2_REG,Lawrence Chaney_UK_2_REG
+55,2,UK,REG,R,Bimini Bon Boulash,30.0,0.0,2.0,3.0,3.0,5.0,5.0,2.0,5.0,5.0,,,,,,UK_2_REG,Bimini Bon Boulash_UK_2_REG
+56,2,UK,REG,R,Tayce,14.0,2.0,0.0,2.0,2.0,5.0,3.0,0.0,0.0,0.0,,,,,,UK_2_REG,Tayce_UK_2_REG
+57,2,UK,REG,E,Ellie Diamond,18.0,3.0,3.0,2.0,2.0,2.0,2.0,3.0,1.0,0.0,,,,,,UK_2_REG,Ellie Diamond_UK_2_REG
+58,2,US,REG,W,Tyra Sanchez,30.0,3.0,3.0,5.0,2.0,5.0,1.0,3.0,3.0,5.0,,,,,,US_2_REG,Tyra Sanchez_US_2_REG
+59,2,US,REG,R,Raven,23.0,2.0,0.0,0.0,2.0,3.0,3.0,5.0,5.0,3.0,,,,,,US_2_REG,Raven_US_2_REG
+60,2,US,REG,E,Jujubee,14.0,2.0,3.0,2.0,1.0,3.0,0.0,3.0,0.0,0.0,,,,,,US_2_REG,Jujubee_US_2_REG
+61,3,US,REG,W,Raja,33.0,5.0,1.0,2.0,2.0,3.0,5.0,3.0,1.0,5.0,3.0,0.0,3.0,,,US_3_REG,Raja_US_3_REG
+62,3,US,REG,R,Manila Luzon,34.0,3.0,2.0,2.0,5.0,2.0,3.0,0.0,1.0,3.0,3.0,5.0,5.0,,,US_3_REG,Manila Luzon_US_3_REG
+63,3,US,REG,E,Alexis Mateo,29.0,2.0,5.0,5.0,2.0,3.0,0.0,2.0,5.0,2.0,0.0,3.0,0.0,,,US_3_REG,Alexis Mateo_US_3_REG
+64,4,US,REG,W,Sharon Needles,36.0,5.0,3.0,5.0,2.0,3.0,2.0,3.0,0.0,5.0,1.0,5.0,2.0,,,US_4_REG,Sharon Needles_US_4_REG
+65,4,US,REG,R,Chad Michaels,31.0,2.0,5.0,3.0,3.0,5.0,2.0,1.0,2.0,3.0,3.0,0.0,2.0,,,US_4_REG,Chad Michaels_US_4_REG
+66,4,US,REG,R,Phi Phi O'Hara,29.0,2.0,2.0,2.0,3.0,1.0,3.0,5.0,0.0,1.0,5.0,3.0,2.0,,,US_4_REG,Phi Phi O'Hara_US_4_REG
+67,5,US,REG,W,Jinkx Monsoon,34.0,2.0,2.0,3.0,3.0,5.0,3.0,3.0,3.0,5.0,3.0,0.0,2.0,,,US_5_REG,Jinkx Monsoon_US_5_REG
+68,5,US,REG,R,Alaska,29.0,3.0,2.0,1.0,2.0,3.0,1.0,1.0,5.0,3.0,1.0,5.0,2.0,,,US_5_REG,Alaska_US_5_REG
+69,5,US,REG,R,Roxxxy Andrews,31.0,5.0,2.0,3.0,1.0,3.0,3.0,0.0,1.0,3.0,5.0,3.0,2.0,,,US_5_REG,Roxxxy Andrews_US_5_REG
+70,6,US,REG,W,Bianca Del Rio,36.0,,5.0,3.0,2.0,3.0,3.0,3.0,5.0,2.0,5.0,3.0,2.0,,,US_6_REG,Bianca Del Rio_US_6_REG
+71,6,US,REG,R,Adore Delano,27.0,1.0,,1.0,3.0,3.0,5.0,5.0,2.0,0.0,0.0,5.0,2.0,,,US_6_REG,Adore Delano_US_6_REG
+72,6,US,REG,R,Courtney Act,26.0,,2.0,3.0,5.0,2.0,2.0,1.0,2.0,5.0,1.0,1.0,2.0,,,US_6_REG,Courtney Act_US_6_REG
+73,7,US,REG,W,Violet Chachki,33.0,5.0,3.0,2.0,2.0,1.0,2.0,2.0,3.0,1.0,5.0,5.0,2.0,,,US_7_REG,Violet Chachki_US_7_REG
+74,7,US,REG,R,Ginger Minj,32.0,2.0,5.0,3.0,2.0,2.0,3.0,5.0,0.0,5.0,0.0,3.0,2.0,,,US_7_REG,Ginger Minj_US_7_REG
+75,7,US,REG,R,Pearl,26.0,2.0,2.0,1.0,0.0,5.0,2.0,2.0,5.0,0.0,2.0,3.0,2.0,,,US_7_REG,Pearl_US_7_REG
+76,8,US,REG,W,Bob the Drag Queen,25.0,2.0,2.0,5.0,2.0,5.0,2.0,5.0,0.0,2.0,,,,,,US_8_REG,Bob the Drag Queen_US_8_REG
+77,8,US,REG,R,Kim Chi,26.0,5.0,3.0,2.0,3.0,2.0,3.0,1.0,5.0,2.0,,,,,,US_8_REG,Kim Chi_US_8_REG
+78,8,US,REG,R,Naomi Smalls,21.0,1.0,2.0,2.0,3.0,0.0,5.0,3.0,3.0,2.0,,,,,,US_8_REG,Naomi Smalls_US_8_REG
+79,9,US,REG,W,Sasha Velour,34.0,3.0,2.0,2.0,5.0,2.0,3.0,1.0,3.0,5.0,3.0,3.0,2.0,,,US_9_REG,Sasha Velour_US_9_REG
+80,9,US,REG,R,Peppermint,25.0,2.0,2.0,3.0,1.0,3.0,0.0,2.0,5.0,3.0,2.0,0.0,2.0,,,US_9_REG,Peppermint_US_9_REG
+81,9,US,REG,E,Shea Coulee,37.0,2.0,3.0,2.0,5.0,5.0,2.0,3.0,3.0,5.0,0.0,5.0,2.0,,,US_9_REG,Shea Coulee_US_9_REG
+82,9,US,REG,E,Trinity the Tuck,31.0,2.0,3.0,5.0,0.0,2.0,2.0,5.0,1.0,3.0,5.0,1.0,2.0,,,US_9_REG,Trinity the Tuck_US_9_REG
+83,1,AUS,REG,W,Kita Mean,18.0,2.0,3.0,3.0,2.0,3.0,5.0,0.0,,,,,,,,AUS_1_REG,Kita Mean_AUS_1_REG
+84,1,AUS,REG,R,Art Simone,11.0,3.0,0.0,,3.0,2.0,2.0,1.0,,,,,,,,AUS_1_REG,Art Simone_AUS_1_REG
+85,1,AUS,REG,R,Karen from Finance,14.0,5.0,2.0,2.0,0.0,1.0,3.0,1.0,,,,,,,,AUS_1_REG,Karen from Finance_AUS_1_REG
+86,1,AUS,REG,R,Scarlet Adams,22.0,3.0,2.0,5.0,5.0,2.0,0.0,5.0,,,,,,,,AUS_1_REG,Scarlet Adams_AUS_1_REG
+87,1,ESP,REG,W,Carmen Farala,24.0,3.0,5.0,2.0,1.0,3.0,5.0,5.0,,,,,,,,ESP_1_REG,Carmen Farala_ESP_1_REG
+88,1,ESP,REG,R,Killer Queen,14.0,2.0,2.0,2.0,5.0,0.0,3.0,0.0,,,,,,,,ESP_1_REG,Killer Queen_ESP_1_REG
+89,1,ESP,REG,R,Sagittaria,15.0,3.0,2.0,5.0,3.0,2.0,0.0,0.0,,,,,,,,ESP_1_REG,Sagittaria_ESP_1_REG
+90,1,ESP,REG,E,Pupi Poisson,16.0,1.0,3.0,3.0,3.0,5.0,1.0,0.0,,,,,,,,ESP_1_REG,Pupi Poisson_ESP_1_REG
+91,6,US,AS,W,Kylie Sonique Love,24.0,2.0,3.0,2.0,2.0,0.0,5.0,3.0,3.0,1.0,,3.0,,,,US_6_AS,Kylie Sonique Love_US_6_AS
+92,6,US,AS,R,Ginger Minj,26.0,2.0,2.0,0.0,1.0,5.0,3.0,2.0,5.0,3.0,,3.0,,,,US_6_AS,Ginger Minj_US_6_AS
+93,6,US,AS,R,Ra'jah O'Hara,26.0,3.0,5.0,3.0,2.0,2.0,0.0,3.0,2.0,4.0,,2.0,,,,US_6_AS,Ra'jah O'Hara_US_6_AS
+94,6,US,AS,R,Eureka,28.0,2.0,3.0,2.0,3.0,3.0,1.0,2.0,2.0,0.0,5.0,5.0,,,,US_6_AS,Eureka_US_6_AS
+95,2,HOL,REG,W,Vanessa Van Cartier,16.0,3.0,2.0,2.0,1.0,5.0,1.0,2.0,,,,,,,,HOL_2_REG,Vanessa Van Cartier_HOL_2_REG
+96,2,HOL,REG,R,My Little Puny,20.0,3.0,2.0,2.0,5.0,0.0,3.0,5.0,,,,,,,,HOL_2_REG,My Little Puny_HOL_2_REG
+97,2,HOL,REG,E,Vivaldi,16.0,3.0,3.0,5.0,2.0,3.0,0.0,0.0,,,,,,,,HOL_2_REG,Vivaldi_HOL_2_REG
+98,3,UK,REG,R,Ella Vaday,32.0,2.0,2.0,3.0,5.0,2.0,5.0,3.0,5.0,5.0,,,,,,UK_3_REG,Ella Vaday_UK_3_REG
+99,3,UK,REG,R,Kitty Scott-Claus,27.0,2.0,3.0,2.0,2.0,2.0,3.0,5.0,5.0,3.0,,,,,,UK_3_REG,Kitty Scott-Claus_UK_3_REG
+100,3,UK,REG,W,Krystal Versace,24.0,5.0,5.0,3.0,2.0,2.0,1.0,3.0,3.0,0.0,,,,,,UK_3_REG,Krystal Versace_UK_3_REG
+101,2,CAN,REG,W,Icesis Couture,22.0,5.0,0.0,2.0,2.0,3.0,5.0,3.0,0.0,2.0,,,,,,CAN_2_REG,Icesis Couture_CAN_2_REG
+102,2,CAN,REG,R,Kendall Gender,17.0,2.0,3.0,1.0,2.0,1.0,0.0,5.0,1.0,2.0,,,,,,CAN_2_REG,Kendall Gender_CAN_2_REG
+103,2,CAN,REG,R,Pythia,27.0,2.0,5.0,2.0,3.0,3.0,3.0,2.0,5.0,2.0,,,,,,CAN_2_REG,Pythia_CAN_2_REG
+104,1,ITA,REG,R,Farida Kant,16.0,5.0,2.0,2.0,2.0,5.0,,,,,,,,,,ITA_1_REG,Farida Kant_ITA_1_REG
+105,1,ITA,REG,W,Elecktra Bionic,11.0,2.0,2.0,2.0,2.0,3.0,,,,,,,,,,ITA_1_REG,Elecktra Bionic_ITA_1_REG
+106,1,ITA,REG,R,Le Riche,8.0,2.0,0.0,0.0,5.0,1.0,,,,,,,,,,ITA_1_REG,Le Riche_ITA_1_REG
+107,1,ITA,REG,E,Luquisha Lubamba,7.0,0.0,1.0,3.0,3.0,0.0,,,,,,,,,,ITA_1_REG,Luquisha Lubamba_ITA_1_REG
+108,1,UK,WORLD,W,Blu Hydrangea,12.0,3.0,2.0,2.0,5.0,0.0,,,,,,,,,,UK_1_WORLD,Blu Hydrangea_UK_1_WORLD
+109,1,UK,WORLD,R,Mo Heart,10.0,2.0,3.0,1.0,0.0,4.0,,,,,,,,,,UK_1_WORLD,Mo Heart_UK_1_WORLD
+110,1,UK,WORLD,E,Baga Chipz,11.0,3.0,2.0,2.0,4.0,0.0,,,,,,,,,,UK_1_WORLD,Baga Chipz_UK_1_WORLD
+111,1,UK,WORLD,E,Jujubee,7.0,2.0,0.0,0.0,0.0,5.0,,,,,,,,,,UK_1_WORLD,Jujubee_UK_1_WORLD
+112,14,US,REG,E,Angeria Paris VanMichaels,33.0,,5.0,3.0,5.0,3.0,3.0,2.0,3.0,2.0,0.0,2.0,2.0,3.0,0.0,US_14_REG,Angeria Paris VanMichaels_US_14_REG
+113,14,US,REG,E,Bosco,32.0,3.0,,2.0,2.0,5.0,2.0,3.0,2.0,5.0,0.0,2.0,0.0,5.0,1.0,US_14_REG,Bosco_US_14_REG
+114,14,US,REG,E,Daya Betty,26.0,,0.0,2.0,2.0,2.0,2.0,4.0,5.0,1.0,0.0,2.0,3.0,0.0,3.0,US_14_REG,Daya Betty_US_14_REG
+115,14,US,REG,R,Lady Camden,35.0,,3.0,2.0,2.0,3.0,3.0,5.0,1.0,2.0,0.0,2.0,5.0,2.0,5.0,US_14_REG,Lady Camden_US_14_REG
+116,14,US,REG,W,Willow Pill,31.0,3.0,,5.0,3.0,2.0,2.0,3.0,2.0,3.0,0.0,2.0,3.0,3.0,0.0,US_14_REG,Willow Pill_US_14_REG
+117,2,ESP,REG,R,Estrella Xtravaganza,21.0,2.0,2.0,3.0,5.0,2.0,0.0,5.0,2.0,0.0,,,,,,ESP_2_REG,Estrella Xtravaganza_ESP_2_REG
+118,2,ESP,REG,W,Sharonne,32.0,3.0,5.0,3.0,3.0,5.0,2.0,5.0,3.0,3.0,,,,,,ESP_2_REG,Sharonne_ESP_2_REG
+119,2,ESP,REG,R,Venedita Von Dash,25.0,2.0,2.0,5.0,2.0,3.0,3.0,3.0,0.0,5.0,,,,,,ESP_2_REG,Venedita Von Dash_ESP_2_REG
+120,2,ESP,REG,E,Marina,18.0,3.0,2.0,2.0,3.0,2.0,1.0,0.0,5.0,0.0,,,,,,ESP_2_REG,Marina_ESP_2_REG
+121,7,US,AS,W,Jinkx Monsoon,35.0,2.0,5.0,2.0,4.0,5.0,2.0,2.0,2.0,4.0,5.0,2.0,,,,US_7_AS,Jinkx Monsoon_US_7_AS
+122,7,US,AS,R,Monet X Change,33.0,4.0,3.0,2.0,2.0,2.0,3.0,3.0,2.0,5.0,3.0,4.0,,,,US_7_AS,Monet X Change_US_7_AS
+123,7,US,AS,E,Shea Coulee,33.0,5.0,2.0,3.0,2.0,3.0,3.0,3.0,2.0,3.0,2.0,5.0,,,,US_7_AS,Shea Coulee_US_7_AS
+124,7,US,AS,E,Trinity the Tuck,33.0,3.0,4.0,4.0,2.0,2.0,2.0,5.0,3.0,2.0,4.0,2.0,,,,US_7_AS,Trinity the Tuck_US_7_AS
+125,1,FRA,REG,W,Paloma,20.0,2.0,5.0,3.0,3.0,0.0,5.0,2.0,,,,,,,,FRA_1_REG,Paloma_FRA_1_REG
+126,1,FRA,REG,R,La Grande Dame,18.0,2.0,3.0,3.0,5.0,1.0,2.0,2.0,,,,,,,,FRA_1_REG,La Grande Dame_FRA_1_REG
+127,1,FRA,REG,R,Soa de Muse,18.0,5.0,0.0,0.0,3.0,5.0,3.0,2.0,,,,,,,,FRA_1_REG,Soa de Muse_FRA_1_REG
+128,1,FRA,REG,E,Lolita Banana,11.0,2.0,3.0,2.0,1.0,3.0,0.0,0.0,,,,,,,,FRA_1_REG,Lolita Banana_FRA_1_REG
+129,3,CAN,REG,W,Gisele Lullaby,20.0,2.0,2.0,2.0,5.0,5.0,1.0,0.0,3.0,,,,,,,CAN_3_REG,Gisele Lullaby_CAN_3_REG
+130,3,CAN,REG,R,Jada Shada Hudson,16.0,3.0,0.0,5.0,0.0,2.0,3.0,1.0,2.0,,,,,,,CAN_3_REG,Jada Shada Hudson_CAN_3_REG
+131,3,CAN,REG,E,Kimmy Couture,18.0,2.0,5.0,3.0,3.0,0.0,2.0,3.0,0.0,,,,,,,CAN_3_REG,Kimmy Couture_CAN_3_REG
+132,3,CAN,REG,E,Miss Fiercalicious,21.0,1.0,3.0,0.0,2.0,2.0,5.0,3.0,5.0,,,,,,,CAN_3_REG,Miss Fiercalicious_CAN_3_REG
+133,2,AUS,REG,R,Hanna Conda,23.0,3.0,3.0,2.0,5.0,5.0,5.0,0.0,,,,,,,,AUS_2_REG,Hanna Conda_AUS_2_REG
+134,2,AUS,REG,R,Kween Kong,15.0,1.0,0.0,2.0,2.0,5.0,0.0,5.0,,,,,,,,AUS_2_REG,Kween Kong_AUS_2_REG
+135,2,AUS,REG,W,Spankie Jackzon,24.0,0.0,5.0,5.0,3.0,5.0,3.0,3.0,,,,,,,,AUS_2_REG,Spankie Jackzon_AUS_2_REG
+136,1,PH,REG,E,Eva Le Queen,21.0,3.0,2.0,3.0,2.0,2.0,3.0,0.0,3.0,3.0,,,,,,PH_1_REG,Eva Le Queen_PH_1_REG
+137,1,PH,REG,R,Marina Summers,28.0,3.0,2.0,3.0,3.0,5.0,3.0,3.0,1.0,5.0,,,,,,PH_1_REG,Marina Summers_PH_1_REG
+138,1,PH,REG,W,Precious Paula Nicole,24.0,2.0,3.0,2.0,5.0,3.0,2.0,1.0,3.0,3.0,,,,,,PH_1_REG,Precious Paula Nicole_PH_1_REG
+139,1,PH,REG,E,Xilhouete,22.0,1.0,2.0,0.0,3.0,3.0,5.0,3.0,5.0,0.0,,,,,,PH_1_REG,Xilhouete_PH_1_REG
+140,4,UK,REG,E,Black Peppa,13.0,5.0,2.0,0.0,2.0,2.0,0.0,2.0,0.0,0.0,,,,,,UK_4_REG,Black Peppa_UK_4_REG
+141,4,UK,REG,R,Cheddar Gorgeous,29.0,2.0,5.0,1.0,3.0,2.0,5.0,5.0,5.0,1.0,,,,,,UK_4_REG,Cheddar Gorgeous_UK_4_REG
+142,4,UK,REG,W,Danny Beard,32.0,2.0,5.0,2.0,5.0,5.0,2.0,3.0,3.0,5.0,,,,,,UK_4_REG,Danny Beard_UK_4_REG
+143,4,UK,REG,E,Jonbers Blonde,15.0,2.0,0.0,1.0,2.0,3.0,3.0,1.0,0.0,3.0,,,,,,UK_4_REG,Jonbers Blonde_UK_4_REG
+144,2,ITA,REG,W,La Diamond,26.0,5.0,2.0,5.0,5.0,2.0,2.0,5.0,,,,,,,,ITA_2_REG,La Diamond_ITA_2_REG
+145,2,ITA,REG,R,Aura Etherial,17.0,1.0,5.0,1.0,2.0,3.0,2.0,3.0,,,,,,,,ITA_2_REG,Aura Etherial_ITA_2_REG
+146,2,ITA,REG,R,Nehllenia,19.0,2.0,2.0,2.0,3.0,4.0,5.0,1.0,,,,,,,,ITA_2_REG,Nehllenia_ITA_2_REG
+147,1,CAN,WORLD,W,Ra'jah O'Hara,11.0,3.0,4.0,2.0,0.0,2.0,,,,,,,,,,CAN_1_WORLD,Ra'jah O'Hara_CAN_1_WORLD
+148,1,CAN,WORLD,E,Rita Baga,13.0,4.0,2.0,0.0,2.0,5.0,,,,,,,,,,CAN_1_WORLD,Rita Baga_CAN_1_WORLD
+149,1,CAN,WORLD,R,Silky Nutmeg Ganache,12.0,2.0,1.0,5.0,4.0,0.0,,,,,,,,,,CAN_1_WORLD,Silky Nutmeg Ganache_CAN_1_WORLD
+150,1,CAN,WORLD,E,Victoria Scone,18.0,2.0,3.0,4.0,5.0,4.0,,,,,,,,,,CAN_1_WORLD,Victoria Scone_CAN_1_WORLD
+151,15,US,REG,R,Anetra,30.0,5.0,2.0,2.0,2.0,1.0,3.0,0.0,3.0,2.0,0.0,5.0,5.0,0.0,,US_15_REG,Anetra_US_15_REG
+152,15,US,REG,E,Luxx Noir London,34.0,2.0,3.0,2.0,5.0,2.0,2.0,2.0,2.0,3.0,5.0,3.0,0.0,3.0,,US_15_REG,Luxx Noir London_US_15_REG
+153,15,US,REG,E,Mistress Isabelle Brookes,32.0,2.0,2.0,3.0,2.0,3.0,5.0,2.0,3.0,1.0,3.0,3.0,3.0,0.0,,US_15_REG,Mistress Isabelle Brookes_US_15_REG
+154,15,US,REG,W,Sasha Colby,41.0,2.0,5.0,2.0,3.0,3.0,2.0,2.0,5.0,5.0,1.0,3.0,3.0,5.0,,US_15_REG,Sasha Colby_US_15_REG
+155,1,BEL,REG,R,Athena Sorgelikis,17.0,5.0,2.0,2.0,2.0,1.0,5.0,0.0,,,,,,,,BEL_1_REG,Athena Sorgelikis_BEL_1_REG
+156,1,BEL,REG,W,Drag Couenne,25.0,3.0,5.0,2.0,5.0,2.0,3.0,5.0,,,,,,,,BEL_1_REG,Drag Couenne_BEL_1_REG
+157,1,BEL,REG,E,Susan,13.0,2.0,1.0,5.0,0.0,3.0,1.0,1.0,,,,,,,,BEL_1_REG,Susan_BEL_1_REG
+158,1,SWE,REG,W,Admira Thunderpussy,23.0,3.0,2.0,2.0,5.0,5.0,1.0,5.0,,,,,,,,SWE_1_REG,Admira Thunderpussy_SWE_1_REG
+159,1,SWE,REG,R,Fontana,14.0,2.0,2.0,1.0,2.0,0.0,5.0,2.0,,,,,,,,SWE_1_REG,Fontana_SWE_1_REG
+160,1,SWE,REG,E,Vanity Vain,14.0,2.0,0.0,5.0,1.0,3.0,3.0,0.0,,,,,,,,SWE_1_REG,Vanity Vain_SWE_1_REG
