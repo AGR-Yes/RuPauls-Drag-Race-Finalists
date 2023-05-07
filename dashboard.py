@@ -213,7 +213,7 @@ By hovering on each dot, you can find out which contestant it pertains to.
                                className="mt-4 mb-4"),
                         dcc.Dropdown(
                             id='queen-dropdown',
-                            options=[{'label': queen, 'value': queen} for queen in melted['queen'].unique()],
+                            options=[{'label': finalist, 'value': finalist} for finalist in melted['finalist'].unique()],
                             value=['Sasha Colby'],
                             multi=True,
                             style={'width': '100%', 'margin': 'auto'},
@@ -334,11 +334,11 @@ def update_bar_chart(dropdown_value):
 @app.callback( #dropdown for line chart
     Output("graph", "figure"), 
     Input("queen-dropdown", "value"))
-def update_line_chart(queens):
+def update_line_chart(finalists):
     df = melted
-    mask = df.queen.isin(queens)
+    mask = df.finalist.isin(finalists)
     fig = px.line(df[mask], 
-        x="variable", y="value", color='queen',
+        x="variable", y="value", color='finalist',
         template=dark_template)
     return fig
 
