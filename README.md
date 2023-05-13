@@ -2,18 +2,22 @@
 
 ### 👨‍💻 Author: [Anton Reyes](https://github.com/AGR-yes)
 
-##### **--** Project Status: **Active** **--**
+##### **--** Project Status: **Finished** **--**
+
+![Opening](https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists/blob/main/images/A_Intro.PNG?raw=true)
 
 ---
 
 ## 🗒️ Project Intro/Objective
 This project is more for my own practice with data visualization, dashboarding, processing/cleaning, and prediction.
 
-This project contains notebooks in which I attempted to predict the winner of RuPaul's Drag Race season 15 by using machine learning. This was done by using the data of winners in all the different franchises and countries. This project also contains a dashboard that attempts to summarize the data of **all** finalists in all the different franchises.
+This project contains notebooks in which I attempted to predict the winner of RuPaul's Drag Race season 15 by using machine learning. This was done by using the data of winners in all the different franchises and countries. This project also contains a dashboard that attempts to summarize the data of **all** finalists in all the different franchises. 
+
+(*Note: This project contains all the finalists up until US Season 15*)
 
 Other than that, this project is more for my own practice with data visualization, dashboarding, processing/cleaning, and prediction with a domain that I am familiar with.
 
-***Project Dashboard: [Click here](https://youre-a-winner-baby.onrender.com/)***
+***Project Dashboard: [Click here](https://youre-a-winner-baby.onrender.com/)*** *(Hosting in progress)*
 
 ### 📓 Notebooks
 | Notebook | Description | Status |
@@ -72,6 +76,12 @@ Aside from manually entering each episode on a weekly basis, I wanted to take it
 >* Dealt with inconsistencies in the dataset
 
 ---
+## 🖼️ Project Screenshots
+![Scatterplot](https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists/blob/main/images/B_Scatterplot.PNG?raw=true)
+
+![Linegraph](https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists/blob/main/images/C_Linegraph.PNG?raw=true)
+
+![Table](https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists/blob/main/images/D_Table.PNG?raw=true)
 
 
 ## 📋 Needs of this project
